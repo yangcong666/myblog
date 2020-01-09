@@ -1,0 +1,21 @@
+/*--------------------------------------------------------------
+# 404
+--------------------------------------------------------------*/
+.error-page-block {
+    background: #f8f8ff;
+    .error-content {
+        background-color: $white;
+        box-shadow: 0px 6px 80px 0px rgba(0, 0, 0, 0.06);
+        padding: 75px;
+	}
+	.error-title {
+		font-weight: 300;
+	}
+	.error-main {
+		font-size: 230px;
+		font-weight: 100;
+	}
+	.error-home-btn {
+		
+	}
+}

@@ -1,0 +1,953 @@
+/*==================== Top Bar color ====================*/
+.ti-trhead .ti-head-detail {
+	
+}
+.ti-trhead .ti-head-detail .info-left li a , .ti-trhead .ti-head-detail li a i, .ti-trhead .ti-head-detail .info-right li a {
+	color: #fff;
+}
+.ti-trhead .ti-head-detail li a i {
+	color: #1151d3;
+}
+.ti-trhead .ti-head-detail .info-right li a i {
+	color: #1151d3;
+}
+.ti-trhead.conte .ti-head-detail .ti-social li a, .ti-trhead.conte .ti-head-detail .ti-social li a i {
+	color: #fff;
+}
+.ti-trhead.conte .ti-head-detail .ti-social li a:hover i, .ti-trhead.conte .ti-head-detail .ti-social li a i:hover {
+	color: #1151d3;
+}
+.ti-headwidget .ti-head-detail {
+	background: #fff;
+}
+.ti-headwidget .ti-head-detail .info-left li a , .ti-headwidget .ti-head-detail li a i, .ti-headwidget .ti-head-detail .info-right li a {
+	color: #222;
+}
+.ti-headwidget .ti-head-detail .info-right li a:hover, .ti-headwidget .ti-head-detail .info-right li a:focus {
+	color: #1151d3;
+}
+.ti-headwidget .ti-head-detail li a i {
+	color: #1151d3;
+}
+.ti-headwidget .ti-head-detail .info-right li a i {
+	color: #1151d3;
+}
+.ti-headwidget .trans {
+	background: rgba(0, 0, 0, 0.0);
+}
+.ti-headwidget.trans .ti-head-detail {
+	background: rgba(0, 0, 0, 0.0);
+	border-color: rgba(255, 255, 255, 0.1);
+}
+.ti-headwidget.trans .ti-head-detail .info-left li a , .ti-headwidget.trans .ti-head-detail li a i, .ti-headwidget.trans .ti-head-detail .info-right li a {
+	color: #fff;
+}
+.ti-headwidget.trans .navbar-wp {
+    background: rgba(0, 0, 0, 0.7);
+}
+/*==================== center Top Bar color ====================*/
+.header-center .ti-head-detail {
+	background: #fff;
+	border-color: rgba(230, 230, 230, 0.7);
+}
+.header-center .ti-head-detail .info-left li a , .header-center .ti-head-detail li a i, .header-center .ti-head-detail .info-right li a {
+	color: #222;
+}
+.header-center .ti-head-detail li a i {
+	color: #222;
+}
+.header-center .ti-head-detail .info-right li a i {
+	color: #222;
+}
+
+.ti-headwidget.trans .ti-head-detail .info-left {
+    color: #fff;
+}
+
+.site-title a,.site-title a:hover, .site-description, .site-title a:focus{color:#fff;}
+/*==================== standard Top Bar color ====================*/
+.ti-standard .ti-head-detail {
+	background: #222;
+}
+.ti-standard .ti-head-detail .info-left li a , .ti-standard .ti-head-detail li a i, .ti-standard .ti-head-detail .info-right li a {
+	color: #fff;
+}
+.ti-standard .ti-head-detail li a i {
+	color: #fff;
+}
+.ti-standard .ti-head-detail .info-right li a i {
+	color: #fff;
+}
+.ti-standard .ti-head-detail .info-right li a:hover i {
+	color: #1151d3;
+}
+/*==================== standhead Top Bar color ====================*/
+.ti-standhead .ti-head-detail {
+	background: #fff;
+}
+.ti-standhead .ti-head-detail .info-left li a , .ti-standhead .ti-head-detail li a i, .ti-standhead .ti-head-detail .info-right li a {
+	color: #1151d3;
+}
+.ti-standhead .ti-head-detail li a i {
+	color: #1151d3;
+}
+.ti-standhead .ti-head-detail .info-right li a i {
+	color: #1151d3;
+}
+.ti-standhead .btn-theme.quote {
+    background: #f4f7fc;
+    border-color: #f4f7fc;;
+    color: #000;
+}
+/*=== navbar Header colors ===*/
+.ti-headwidget .navbar-wp {
+	background: #222;
+}
+.ti-headwidget .navbar-header .navbar-brand {
+	color: #fff;
+}
+.header-widget .ti-header-box-icon i {
+    color: #fff;
+}
+.header-widget .ti-header-box .ti-social li span.icon-soci, .header-widget .ti-header-box  .ti-social-navigation a  {
+    color: #999;
+}
+.header-widget .ti-header-box  .ti-social-navigation a:hover, .header-widget .ti-header-box  .ti-social-navigation a:focus {
+    color: #1151d3;
+}
+.header-widget .ti-header-box .ti-social li span.icon-soci a {
+    color: #999;
+}
+.header-widget .ti-header-box .ti-social span.icon-soci:hover a, .header-widget .ti-header-box .ti-social span.icon-soci:focus a {
+    color: #1151d3;
+}
+.ti-headwidget .navbar-wp .navbar-nav > li> a {
+	color: rgba(255,255,255,0.71);
+}
+.ti-headwidget .navbar-wp .navbar-nav > li > a:hover, .ti-headwidget .navbar-wp .navbar-nav > li > a:focus, .ti-headwidget .navbar-wp .navbar-nav > .active > a, .ti-headwidget .navbar-wp .navbar-nav > .active > a:hover, .ti-headwidget .navbar-wp .navbar-nav > .active > a:focus {
+	color: #fff;
+}
+.ti-headwidget .navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.ti-headwidget.trans .ti-head-detail .ti-social i {
+    color: #fff;
+}
+.ti-headwidget.trans .ti-header-box-info h4, .ti-headwidget.trans .ti-header-box-info p {
+	color: #fff;
+}
+/*==================== Theme Menu ====================*/
+/*=== navbar Header colors ===*/
+.ti-standard .navbar-wp {
+	background: #fff;
+}
+.ti-standard .navbar-header .navbar-brand {
+	color: #222;
+}
+.ti-standard .navbar-wp .navbar-nav > li > a {
+	color: #222;
+}
+.ti-standard .navbar-wp .navbar-nav > li > a:hover, .ti-standard .navbar-wp .navbar-nav > li > a:focus, .ti-standard .navbar-wp .navbar-nav > .active > a, .ti-standard .navbar-wp .navbar-nav > .active > a:hover, .ti-standard .navbar-wp .navbar-nav > .active > a:focus {
+	color: #1151d3;
+}
+/*=== navbar Header colors ===*/
+.ti-standhead .navbar-wp {
+	background: #121d5d;
+}
+.ti-standhead .navbar-header .navbar-brand {
+	color: #222;
+}
+/*=== navbar hover colors ===*/
+.ti-standhead .navbar-wp .navbar-nav > li > a {
+	color: #fff;
+}
+.ti-standhead .navbar-wp .navbar-nav > li > a:hover, .ti-standhead .navbar-wp .navbar-nav > li > a:focus, .ti-standhead .navbar-wp .navbar-nav > .active > a, .ti-standhead .navbar-wp .navbar-nav > .active > a:hover, .ti-standhead .navbar-wp .navbar-nav > .active > a:focus {
+	color: #1151d3;
+}
+.ti-standhead .navbar-wp .navbar-nav > .open > a, .ti-standhead .navbar-wp .navbar-nav > .open > a:hover, .ti-standhead .navbar-wp .navbar-nav > .open > a:focus {
+	color: #1151d3;
+	border-color: #1151d3;
+}
+.ti-standhead .navbar-default .navbar-toggle .icon-bar {
+	background: #222;
+}
+/*=== navbar transparent colors ===*/ 
+.ti-trhead .navbar-wp {
+	background: transparent;
+}
+.ti-trhead .navbar-header .navbar-brand {
+	color: #fff;
+}
+/*=== navbar hover colors ===*/
+.ti-trhead .navbar-wp .navbar-nav > li > a {
+	color: #fff;
+}
+.ti-trhead .navbar-wp .navbar-nav > li > a:hover, .ti-trhead .navbar-wp .navbar-nav > li > a:focus, .ti-trhead .navbar-wp .navbar-nav > .active > a, .ti-trhead .navbar-wp .navbar-nav > .active > a:hover, .ti-trhead .navbar-wp .navbar-nav > .active > a:focus {
+	color: #1151d3;
+}
+.ti-trhead .navbar-wp .navbar-nav > .open > a, .ti-trhead .navbar-wp .navbar-nav > .open > a:hover, .ti-trhead .navbar-wp .navbar-nav > .open > a:focus {
+	color: #1151d3;
+	border-color: #1151d3;
+}
+.ti-trhead .navbar-default .navbar-toggle .icon-bar {
+	background: #fff;
+}
+/*=== navbar transparent contenar colors ===*/ 
+.ti-trhead.conte .navbar-wp {
+	background: rgba(0, 0, 0, 0.40);
+}
+.ti-trhead.conte .navbar-wp .navbar-nav > li > a {
+	color: #fff;
+}
+.ti-trhead.conte .is-sticky .navbar-wp, .ti-trhead.conte .ti-main-nav {
+	background: rgba(0, 0, 0, 0.0);
+}
+.ti-trhead.conte > .is-sticky .ti-main-nav {
+	background: rgba(0, 0, 0, 0.65);
+}
+/*=== navbar center colors ===*/ 
+.header-center .navbar-wp {
+	background: #fff;
+	border-color: rgba(230, 230, 230, 0.7);
+}
+.header-center .navbar-brand {
+	color: #222;
+}
+.header-center .navbar-brand span.site-description {
+	color: #8f9294;
+}
+.header-center .navbar-nav > li > a {
+	color: #222;
+}
+.header-center .navbar-wp .navbar-nav > li > a:hover, .header-center .navbar-wp .navbar-nav > li > a:focus, .header-center .navbar-wp .navbar-nav > .active > a, .header-center .navbar-wp .navbar-nav > .active > a:hover, .header-center .navbar-wp .navbar-nav > .active > a:focus {
+	color: #1151d3;
+}
+.header-center .navbar-wp .navbar-nav > .open > a, .header-center .navbar-wp .navbar-nav > .open > a:hover, .header-center .navbar-wp .navbar-nav > .open > a:focus {
+	color: #1151d3;
+	border-color: #1151d3;
+}
+/*=== navbar dropdown colors ===*/ 
+.navbar-wp .dropdown-menu {
+	background: #fff;
+}
+.navbar-wp .dropdown-menu > li > a {
+	color: #212121;
+}
+.navbar-wp .dropdown-menu > .active > a, .navbar-wp .dropdown-menu > .active > a:hover, .navbar-wp .dropdown-menu > .active > a:focus {
+	background: #f5f5f5;
+	color: #212121;
+}
+.navbar-wp .dropdown-menu > li > a:hover {
+	background: #f5f5f5;
+}
+.navbar-wp .navbar-nav > .disabled > a, .navbar-wp .navbar-nav > .disabled > a:hover, .navbar-wp .navbar-nav > .disabled > a:focus {
+	color: #ccc;
+}
+.ti-search-box .ti-search .btn {
+	background: #1151d3;
+	border-color: #1151d3;
+	color: #fff;
+}
+/*=== navbar drop down hover color ===*/
+.navbar-base .navbar-nav > .open > a, .navbar-base .navbar-nav > .open > a:hover, .navbar-base .navbar-nav > .open > a:focus {
+	color: #fff;
+}
+.navbar-base .navbar-nav > li > a.dropdown-form-toggle {
+	color: #fff;
+}
+/*=== navbar toggle color ===*/ 
+.navbar-default .navbar-toggle {
+	color: #fff;
+}
+.navbar-wp .navbar-nav > li > a.dropdown-form-toggle {
+	color: #fff;
+}
+.navbar-wp .navbar-toggle:hover, .navbar-wp .navbar-toggle:focus {
+	background: rgba(0,0,0,0);
+	color: #fff;
+}
+/*==================== Top Bar color ====================*/
+.consultup-trhead .consultup-head-detail .info-left li a , .consultup-trhead .consultup-head-detail li a i, .consultup-trhead .consultup-head-detail .info-right li a {
+	color: #fff;
+}
+.consultup-trhead .consultup-head-detail li a i {
+	color: #1151d3;
+}
+.consultup-trhead .consultup-head-detail .info-right li a i {
+	color: #1151d3;
+}
+/*==================== Theme Menu ====================*/
+/*=== navbar transparent colors ===*/ 
+.consultup-trhead .navbar-wp {
+	background: transparent;
+}
+.consultup-trhead .navbar-header .navbar-brand {
+	color: #fff;
+}
+/*=== navbar transparent contenar colors ===*/ 
+.consultup-trhead.conte .navbar-wp {
+	background: rgba(0, 0, 0, 0.35);
+}
+.consultup-trhead.conte .navbar-wp .navbar-nav > li > a {
+	color: #fff;
+}
+.consultup-trhead.conte .is-sticky .navbar-wp, .consultup-trhead.conte .consultup-main-nav {
+	background: rgba(0, 0, 0, 0.0);
+}
+.consultup-trhead.conte > .is-sticky .consultup-main-nav {
+	background: rgba(0, 0, 0, 0.65);
+}
+/*=== navbar dropdown colors ===*/ 
+.navbar-wp .dropdown-menu {
+	background: #fff;
+}
+.navbar-wp .dropdown-menu > li > a {
+	color: #212121;
+}
+.navbar-wp .dropdown-menu > .active > a, .navbar-wp .dropdown-menu > .active > a:hover, .navbar-wp .dropdown-menu > .active > a:focus {
+	background: #f5f5f5;
+	color: #212121;
+}
+.navbar-wp .dropdown-menu > li > a:hover {
+	background: #f5f5f5;
+}
+.navbar-wp .navbar-nav > .disabled > a, .navbar-wp .navbar-nav > .disabled > a:hover, .navbar-wp .navbar-nav > .disabled > a:focus {
+	color: #ccc;
+}
+.consultup-search-box .consultup-search .btn {
+	background: #1151d3;
+	border-color: #1151d3;
+	color: #fff;
+}
+/*=== navbar drop down hover color ===*/
+.navbar-base .navbar-nav > .open > a, .navbar-base .navbar-nav > .open > a:hover, .navbar-base .navbar-nav > .open > a:focus {
+	color: #fff;
+}
+.navbar-base .navbar-nav > li > a.dropdown-form-toggle {
+	color: #fff;
+}
+/*=== navbar toggle color ===*/ 
+.navbar-default .navbar-toggle {
+	color: #fff;
+}
+.navbar-wp .navbar-nav > li > a.dropdown-form-toggle {
+	color: #fff;
+}
+.navbar-wp .navbar-toggle:hover, .navbar-wp .navbar-toggle:focus {
+	background: rgba(0,0,0,0);
+	color: #fff;
+}
+/*==================== Body & Global ====================*/
+.wrapper {
+	background: #fff;
+}
+body {
+	color: #748182;
+}
+.consultup-heading h3, .consultup-heading h3 a {
+	color: #212121;
+}
+input[type="submit"], button {
+	background: #1151d3;
+	border-color: #1151d3;
+	color: #fff;
+}
+input[type="submit"]:hover, button:hover,input[type="submit"]:focus, button:focus {
+	background: #002954;
+	border-color: #002954;
+	color: #fff;
+}
+a {
+	color: #1151d3;
+}
+a:hover, a:focus {
+	color: #002954;
+}
+.consultup-search-modal .consultup-search .btn {
+	background: #1151d3;
+	color: #fff;
+}
+.consultup-search-modal .consultup-search .btn:hover {
+	background: #002954;
+}
+.consultup-error-404 h1 i {
+	color: #1151d3;
+}
+.consultup-breadcrumb-section .consultup-blog-date {
+	color: #222;
+}
+/*==================== Slider ====================*/
+#consultup-slider .slide-caption h1 {
+	color: #fff;
+}
+#consultup-slider .slide-caption h1 > span {
+	color: #1151d3;
+}
+.consultup-slider-warraper .owl-controls .owl-buttons div {
+	background: #fff;
+	color: #212121;
+	border-color: #fff;
+}
+#consultup-slider .consultup-slider-inner {
+	background: rgba(0, 0,0, 0.4);
+}
+.consultup-slider-warraper .slide-inner-box {
+	background: rgba(255, 255, 255, 0.85);
+}
+#consultup-slider .slide-inner-box h1 {
+	color: #111;
+}
+#consultup-slider .slide-caption .slide-inner-box .description p {
+    color: #5a5a5a;
+}
+.consultup-slider-warraper .slide-inner-box-two {
+	outline-color: #002954;
+}
+#consultup-slider .slide-caption .description p {
+	color: #fff;
+}
+.btn.btn-tislider {
+	background: #1151d3;
+	color: #fff;
+}
+.btn-tislider-two {
+	border-color: #fff;
+	color: #fff;
+}
+.btn.btn-tislider:hover, .btn.btn-tislider:focus {
+	background: #002954;
+}
+.btn-tislider-two:hover, .btn-tislider-two:focus {
+	background: #1151d3;
+	color: #fff;
+	border-color: #1151d3;
+}
+/*==================== service ====================*/
+.consultup-service {
+	background: #fff;
+	border-color: #e5e7f2;
+}
+.consultup-service-inner h3, .consultup-service-inner h3 a {
+	color: #121212;
+}
+.consultup-service:hover .consultup-service-inner h3, .consultup-service:hover .consultup-service-inner h3 a, .consultup-service:hover .consultup-service-inner i {
+	color: #222;
+}
+.consultup-service:hover .consultup-service-inner h3 span {
+	color: #222;
+}
+.consultup-service::after {
+	background: #1151d3;
+}
+.consultup-service-inner i {
+	color: #1151d3;
+}
+.consultup-service-inner p {
+	color: #626c84;
+}
+.consultup-service.three::before, .consultup-service.three::after {
+    background-color: #2154CF;
+}
+.consultup-service.three .btn-theme {
+	color: #444;
+	border-color: #444;
+} 
+.consultup-service.three .btn-theme:hover {
+	color: #2154CF;
+	border-color: #2154CF;
+}      
+/*==================== portfolio ====================*/
+.consultup-portfolio-box .overlay {
+	background: rgba(0, 0, 0, 0.6);
+}
+.consultup-portfolio-box {
+	background: #fff;
+	border-color: #eaeaea;
+}
+.consultup-portfolio-box figure {
+	border-color: #eaeaea;
+}
+.consultup-portfolio-box:hover .consultup-portfolio-box-caption {
+	background: rgba(0,12,28,0.8);
+}
+.consultup-portfolio-box h4, .consultup-portfolio-box h4 a {
+	color: #222;
+}
+.consultup-portfolio-box h4:hover, .consultup-portfolio-box h4 a:hover {
+	color: #1151d3;
+}
+.consultup-portfolio-category a {
+	color: #b6b6b6;
+}
+.consultup-portfolio-category a:hover, .consultup-portfolio-category a:focus {
+	color: #1151d3;
+}
+.consultup-portfolio-box .overlay .btn {
+	color: #fff;
+}
+.consultup-portfolio-box .overlay .btn:hover, .consultup-portfolio-box .overlay .btn:focus {
+	color: #002954;
+}
+.consultup-portfolio-block .consultup-portfolio-category a {
+    color: #fff;
+}
+.consultup-portfolio-block .inner-content .text h5 a {
+    color: #fff;
+}
+.consultup-portfolio-block .inner-content .text .btn {
+    background: #fff;
+    color: #979797;
+}
+.consultup-portfolio-block .inner-content .text .btn:hover {
+    background: #1151d3;
+    color: #fff;
+}
+/*==================== callout ====================*/
+.consultup-callout .overlay {
+	background: rgba(0, 41, 84, 0.8);
+}
+.consultup-callout h3, .consultup-callout p {
+	color: #fff;
+}
+/*==================== blog ====================*/
+.consultup-blog-section .overlay {
+	background: #fff;
+}
+.consultup-blog-post-box .small {
+	color: #748182;
+}
+.consultup-blog-post-box h1.title, .consultup-blog-post-box h1.title a {
+	color: #212121;
+}
+.consultup-blog-post-box h1.title:hover, .consultup-blog-post-box h1.title a:hover, .consultup-blog-post-box h1.title:focus, .consultup-blog-post-box h1.title a:focus {
+	color: #1151d3;
+}
+.consultup-blog-category {
+    background: #fff;
+    color: #222;
+    border-color: #c6d3e3;
+}
+
+
+.consultup-blog-category a {
+    color: #222;
+}
+
+.consultup-blog-category-left {
+    background: #fff;
+    color: #222;
+    border-color: #c6d3e3;
+}
+
+
+.consultup-blog-category-left a {
+    color: #222;
+}
+.consultup-blog-meta {
+    color: #bdbdbd;
+}
+.consultup-blog-meta a {
+	color: #bdbdbd;
+}
+.consultup-blog-meta a:hover {
+	color: #1151d3;
+}
+.consultup-blog-meta i {
+	color: #999;
+}
+.consultup-blog-date {
+	color: #bdbdbd;
+}
+.consultup-comments h4 {
+	color: #212121;
+}
+.consultup-blog-author {
+	background: #e8e8e8;
+}
+.consultup-info-author-block {
+	border-color: #eaeaea;
+	color: #999;
+}
+.consultup-info-author-block a {
+	color: #212121;
+}
+.consultup-info-author-block h4 {
+	color: #333;
+}
+.consultup-info-author-block h4 span {
+	color: #999999;
+}
+.consultup-info-author-block .consultup-info-author-social li {
+	background: #002954;
+	color: #fff;
+}
+.consultup-info-author-block .consultup-info-author-social li a {
+	color: #fff;
+}
+.consultup-info-author-block .consultup-info-author-social li:hover {
+	background: #1151d3;
+	color: #fff;
+}
+.consultup-info-author-block .consultup-info-author-social li:hover a {
+	color: #fff;
+}
+.comment_section .comment-reply-link {
+	background: #f0f0f0;
+	color: #666;
+	border-color: #f0f0f0;
+}
+.consultup-comments a {
+	color: #777;
+}
+.consultup-comments h4 span {
+	color: #999999;
+}
+.consultup-comments .comment .media-body > p:last-child {
+	border-color: #f0f0f0;
+}
+.consultup-comments li .media-body > .small {
+	color: #999;
+}
+.consultup-comments li .media-body > p {
+	border-color: #f0f0f0;
+	color: #999;
+}
+/*==================== testimonials ====================*/
+.testimonials-section .overlay {
+	background: #eef1f4;
+}
+.testimonials-section .overlay h3, .testimonials-section .overlay h3 a {
+	color: #212121;
+}
+/*---------testi widget---------*/
+.testimonials_qute .sub-qute i {
+	color: #1151d3;
+}
+.testimonials_qute .sub-qute {
+	background: #fff;
+	color: #757575;
+	border-color: #eaeaea;
+}
+.testimonials_qute .sub-qute::after {
+    border-top-color: #fff;
+}
+.testimonials_qute p {
+	color: #777;
+}
+.testimonials_qute .user-title {
+	color: #000;
+}
+.testimonials_qute .consultup-client {
+	border-bottom-color: #1151d3;
+	border-left-color: #1151d3;
+	border-top-color: #e8e8e8;
+	border-right-color: #e8e8e8;
+}
+/*==================== Sidebar ====================*/
+.consultup-sidebar .consultup-widget {
+	border-color: #eee;
+}
+.consultup-sidebar .consultup-widget h6 {
+	color: #212121;
+}
+.consultup-sidebar .consultup-widget h6::before {
+	background: #1151d3;
+}
+.consultup-sidebar .consultup-widget ul li {
+	border-color: #eee;
+}
+.consultup-sidebar .consultup-widget ul li a {
+	color: #757575;
+}
+.consultup-sidebar .consultup-widget ul li a:hover, .consultup-sidebar .consultup-widget ul li a:focus {
+	color: #1151d3;
+}
+.consultup-sidebar .consultup-widget .consultup-blog-post h3 a {
+	color: #212121;
+}
+.consultup-sidebar .consultup-widget.widget_search .btn {
+	color: #fff;
+	background: #1151d3;
+}
+.consultup-sidebar .consultup-widget.widget_search .btn:hover, .consultup-sidebar .consultup-widget.widget_search .btn:focus {
+	background: #002954;
+}
+.consultup-sidebar .consultup-mailchimp-widget .btn {
+	color: #fff;
+	background: #1151d3;
+}
+.consultup-sidebar .consultup-mailchimp-widget .btn:hover, .consultup-sidebar .consultup-mailchimp-widget .btn:focus {
+	background: #002954;
+}
+.consultup-sidebar .consultup-widget .consultup-widget-tags a, .consultup-sidebar .consultup-widget .tagcloud a {
+	background: #ebe9eb;
+	color: #999;
+}
+.consultup-sidebar .consultup-widget .consultup-widget-tags a:hover, .consultup-sidebar .consultup-widget .tagcloud a:hover, .consultup-sidebar .consultup-widget .consultup-widget-tags a:focus, .consultup-sidebar .consultup-widget .tagcloud a:focus {
+	color: #fff;
+	background: #1151d3;
+	border-color: #1151d3;
+}
+/*==================== general ====================*/
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+	color: #212121;
+}
+.btn-theme {
+	background: #1151d3;
+	color: #fff;
+	border-color: #1151d3;
+}
+.btn-theme:hover, .btn-theme:focus {
+	background: #fff;
+	color: #1151d3;
+	border-color: #1151d3;
+}
+.btn-theme-two {
+	color: #fff;
+	border-color: #fff;
+	background: rgba(0,0,0,0);
+}
+.btn-theme-two:hover, .btn-theme-two:focus {
+	background: #1151d3;
+	color: #fff;
+	border-color: #1151d3;
+}
+.btn-theme-three {
+	color: #3b3e79;
+	border-color: #e9f3ed;
+	background: rgba(0,0,0,0);
+}
+.btn-theme-three:hover, .btn-theme-three:focus {
+	background: #1151d3;
+	color: #fff;
+	border-color: #1151d3;
+}
+.btn-blog:hover, .btn-blog:focus {
+	background: #1151d3;
+	color: #fff;
+	border-color: #1151d3;
+}
+/*==================== pagination color ====================*/
+.pagination > li > a, .pagination > li > span {
+	background: #ebe9eb;
+	color: #999;
+}
+.pagination > .active > a, .pagination > .active > a:hover, .pagination > li > a:hover, .pagination > li > a:focus, .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+	border-color: #1151d3;
+	background: #1151d3;
+	color: #fff;
+}
+/*==================== blog ====================*/
+.consultup-comments .consultup-reply:hover, .consultup-comments .consultup-reply:focus {
+	color: #fff;
+	background: #1151d3;
+	border-color: #1151d3;
+}
+.consultup-heading-bor-bt h5 {
+	color: #212121;
+}
+/*==================== footer background ====================*/
+footer .overlay {
+	background: rgba(0,8,29,0.9);
+}
+footer .consultup-widget h6 {
+	color: #fff;
+}
+footer .consultup-widget ul li {
+	color: #969ea7;
+}
+footer .consultup-widget ul li a {
+	color: #969ea7;
+}
+footer .consultup-widget ul li a:hover, footer .consultup-widget ul li a:focus {
+	color: #fff;
+}
+footer .consultup-blog-post h3, footer .consultup-blog-post h3 a {
+	color: #fff;
+}
+footer .consultup-widget .consultup-widget-address li span.icon-addr i {
+	color: #1151d3;
+}
+footer .consultup-blog-post span {
+	color: #969ea7;
+}
+footer .consultup-footer-copyright {
+	background: #1e2332;
+}
+footer .consultup-footer-copyright p, footer .consultup-footer-copyright a {
+	color: #969ea7;
+}
+footer .consultup-footer-copyright a:hover, footer .consultup-footer-copyright a:focus {
+	color: #fff;
+}
+footer .consultup-widget p {
+	color: #fff;
+}
+footer .consultup-footer-copyright .consultup-social-navigation a {
+	color: #fff;
+}
+footer .consultup-social-navigation a {
+	background: rgba(255, 255, 255, 0.07);
+	color: #fff;
+}
+footer .consultup-social-navigation a:hover, footer .consultup-social-navigation a:focus {
+	border-color: #1151d3;
+	background: #1151d3;
+}
+footer .consultup-social-navigation a:hover .icon, footer .consultup-social-navigation a:focus .icon {
+	color: #fff;
+}
+footer .consultup-widget.widget_search .btn {
+	color: #fff;
+	background: #1151d3;
+	border-color: #1151d3;
+}
+footer .consultup-widget.widget_search .btn:hover, footer .consultup-widget.widget_search .btn:focus {
+	background: #002954;
+	border-color: #002954;
+}
+footer .consultup-widget .consultup-widget-tags a, footer .consultup-widget .tagcloud a {
+	background: rgba(255,255,255,0.1);
+    color: #fff;
+}
+footer .consultup-widget .consultup-widget-tags a:hover, footer .consultup-widget .tagcloud a:hover, footer .consultup-widget .consultup-widget-tags a:focus, footer .consultup-widget .tagcloud a:focus {
+	color: #fff;
+	background: #1151d3;
+}
+.ta_upscr {
+	background: #1151d3;
+	border-color: #1151d3;
+	color: #fff !important;
+}
+.ta_upscr:hover, .ta_upscr:focus {
+	color: #fff;
+}
+/*form-control*/
+.form-group label {
+    color: #515151;
+}
+.form-control:focus {
+	border-color: #1151d3;
+}
+.form-group label::before {
+    background-color: #dddddd;
+}
+.form-group label::after {
+	background-color: #1151d3;
+}
+
+
+/*Responsive*/ 
+@media (max-width: 992px) {
+.consultup-trhead {
+	background: rgba(0,12,28,0.8);
+}
+}
+
+.woocommerce-page .products h3 {
+	color: #333;
+}
+.woocommerce div.product .woocommerce-tabs .panel h2 {
+	color: #333;
+}
+.related.products h2 {
+	color: #333;
+}
+.woocommerce nav.woocommerce-pagination ul li a {
+	color: #333;
+}
+.woocommerce nav .woocommerce-pagination ul li span {
+	color: #333;
+}
+.woocommerce nav.woocommerce-pagination ul li a {
+	border-color: #ddd;
+}
+.woocommerce nav .woocommerce-pagination ul li span {
+	border-color: #ddd;
+}
+
+/*----woocommerce----*/ 
+.woocommerce-cart table.cart td.actions .coupon .input-text {
+	border-color: #ebebeb;
+}
+/*-theme-background-*/ 
+.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce .cart .button, .woocommerce .cart input.button, .woocommerce a.button, .woocommerce button.button, .woocommerce-page .products a.button, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt.disabled, .woocommerce #respond input#submit.alt.disabled:hover, .woocommerce #respond input#submit.alt:disabled, .woocommerce #respond input#submit.alt:disabled:hover, .woocommerce #respond input#submit.alt[disabled]:disabled, .woocommerce #respond input#submit.alt[disabled]:disabled:hover, .woocommerce a.button.alt.disabled, .woocommerce a.button.alt.disabled:hover, .woocommerce a.button.alt:disabled, .woocommerce a.button.alt:disabled:hover, .woocommerce a.button.alt[disabled]:disabled, .woocommerce a.button.alt[disabled]:disabled:hover, .woocommerce button.button.alt.disabled, .woocommerce button.button.alt.disabled:hover, .woocommerce button.button.alt:disabled, .woocommerce button.button.alt:disabled:hover, .woocommerce button.button.alt[disabled]:disabled, .woocommerce button.button.alt[disabled]:disabled:hover, .woocommerce input.button.alt.disabled, .woocommerce input.button.alt.disabled:hover, .woocommerce input.button.alt:disabled, .woocommerce input.button.alt:disabled:hover, .woocommerce input.button.alt[disabled]:disabled, .woocommerce input.button.alt[disabled]:disabled:hover {
+	background: #1151d3;
+}
+.woocommerce nav.woocommerce-pagination ul li a, .woocommerce nav.woocommerce-pagination ul li span {
+	background: #ebe9eb;
+	color: #999;
+}
+/*-theme-color-*/ 
+.woocommerce a, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce-page .products .added_to_cart, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+	color: #1151d3;
+}
+/*-theme-border-color-*/ 
+.woocommerce-cart table.cart td.actions .coupon .input-text:hover, .woocommerce-cart table.cart td.actions .coupon .input-text:focus, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce nav .woocommerce-pagination ul li a:focus, .woocommerce nav .woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current {
+	border-color: #1151d3;
+}
+
+/*-theme-secondary-background-*/ 
+.woocommerce #review_form #respond .form-submit input:hover, .woocommerce-page .products a.button:hover, .woocommerce .cart .button:hover, .woocommerce .cart input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit:focus, .woocommerce a.button:hover, .woocommerce a.button:focus, .woocommerce button.button:hover, .woocommerce button.button:focus, .woocommerce input.button:hover, .woocommerce input.button:focus {
+	background: #002954;
+}
+/*-theme-secondary-color-*/ 
+.woocommerce div.product .woocommerce-tabs ul.tabs li a {
+	color: #161c28;
+}
+/*-theme-color-white-*/ 
+.woocommerce-page .woocommerce .woocommerce-info a, .woocommerce-page .woocommerce .woocommerce-info:before, .woocommerce-page .woocommerce-message, .woocommerce-page .woocommerce-message a, .woocommerce-page .woocommerce-message a:hover, .woocommerce-page .woocommerce-message a:focus, .woocommerce .woocommerce-message::before, .woocommerce-page .woocommerce-error, .woocommerce-page .woocommerce-error a, .woocommerce-page .woocommerce .woocommerce-error:before, .woocommerce-page .woocommerce-info, .woocommerce-page .woocommerce-info a, .woocommerce-page .woocommerce-info:before, .woocommerce-page .woocommerce .woocommerce-info, .woocommerce-cart .wc-proceed-to-checkout a .checkout-button, .woocommerce .cart .button, .woocommerce .cart input.button, .woocommerce a.button, .woocommerce button.button, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce nav .woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-page .products a.button, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit:focus, .woocommerce a.button:hover, .woocommerce a.button:focus, .woocommerce button.button:hover, .woocommerce button.button:focus, .woocommerce input.button:hover, .woocommerce input.button:focus {
+	color: #fff;
+}
+
+.woocommerce .products span.onsale, .woocommerce span.onsale {
+	background: #1151d3;
+}
+
+.woocommerce-page .products a .price, .woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price {
+	color: #000;
+}
+.woocommerce-page .products a .price ins {
+	color: #e96656;
+}
+.woocommerce-page .products .star-rating, .woocommerce-page .star-rating span, .woocommerce-page .stars span a {
+	color: #ffc107;
+}
+
+.page-scroll-up{
+background: #1151d3;
+border-color: #1151d3;
+color: #fff !important;	
+}
+
+.navigation.pagination .nav-links .page-numbers.current, .navigation.pagination .nav-links a:hover, a.error-btn { background-color: #1151d3; color:#fff; }
+/*=== navbar drop down hover color ===*/
+.navbar-base .navbar-nav > .open > a, .navbar-base .navbar-nav > .open > a:hover, .navbar-base .navbar-nav > .open > a:focus {
+	color: #fff;
+}
+
+.navigation.pagination > .active > a, .navigation.pagination > .active > a:hover, .navigation.pagination > li > a:hover, .navigation.pagination > li > a:focus, .navigation.pagination > .active > a, .navigation.pagination > .active > span, .navigation.pagination > .active > a:hover, .navigation.pagination > .active > span:hover, .navigation.pagination > .active > a:focus, .navigation.pagination > .active > span:focus {
+    border-color: #1151d3;
+    background: #1151d3;
+    color: #fff;
+}
+
+.btn-theme, .more-link {
+    background: #1151d3;
+    color: #fff;
+    border-color: #1151d3;
+}
+
+.btn-theme:focus, .more-link:hover, .more-link:focus {
+    background: #fff;
+    color: #1151d3;
+    border-color: #1151d3;
+}
+
+blockquote {
+    border-left: 5px solid #1151d3;
+}
+
+footer .consultup-widget .calendar_wrap table caption, footer .consultup-widget .calendar_wrap table thead th, footer .consultup-widget .calendar_wrap table tbody td
+{color:#fff;}

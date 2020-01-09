@@ -1,0 +1,71 @@
+/* OPTIONS PANEL STYLES
+----------------------------*/
+
+ul.adminTabs {
+	margin-top:20px;
+}
+
+ul.adminTabs li {
+	float:left;
+	margin-right:2px;
+	
+}
+
+ul.adminTabs li a{
+	display:block;
+	padding:10px 15px;
+	border:1px solid #ddd;
+	-moz-border-radius:6px; 
+	-moz-border-radius-bottomleft:0; 
+	-moz-border-radius-bottomright:0; 
+	-webkit-border-radius:6px;
+	-webkit-border-radius-bottomleft:6px;
+	-webkit-border-radius-bottomright:6px;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-size:11px;
+}
+
+ul.adminTabs li a:focus{
+	outline:none;
+}
+
+ul.adminTabs li a.active{
+	font-weight:bold;
+	border-bottom:1px solid #F9F9F9;
+	color:#E14E21;
+}
+
+.tabs {
+	border:1px solid #ddd;
+	margin-top:58px;
+}
+
+.tab {
+	margin:0 15px 20px;
+	
+}
+
+.tab h3 {
+	border-bottom:2px solid #ddd;
+	margin-bottom:0;
+	padding-bottom:15px;
+}
+
+.tab h4 {
+	border-bottom:1px solid #ddd;
+}
+
+.form-table {
+	margin-top:0;
+	margin-bottom:15px;
+}
+
+.form-table tr{
+	border-bottom:1px dotted #ddd;
+}
+
+.form-table td, .form-table th {
+	padding:15px 0;
+}	
+

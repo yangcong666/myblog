@@ -1,0 +1,118 @@
+/*--------------------------------------------------------------
+# Footer-block
+--------------------------------------------------------------*/
+.site-footer {
+    .social-profile {
+        list-style: none;
+        padding: 0;
+        li {
+            display: inline-block;
+            padding: 5px 15px;
+            font-weight: 500;
+        }
+        &:empty {
+            display: none;
+        }
+    }
+
+    .widget {
+        margin-top: 70px;
+        margin-bottom: 45px;
+        @media only screen and (max-width: 991px) {
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+        .widget-title {
+            color: $color__white;
+            font-size: 16px;
+            text-transform: uppercase;
+            font-weight: 500;
+            word-spacing: 0.25em;
+            margin-bottom: 20px;
+        }
+        .widget-thumb {
+            margin-bottom: 30px;
+        }
+        ul li {
+            line-height: 1.75em;
+            .fa {
+                margin-right: 10px;
+            }
+        }
+        .product-categories li {
+            padding-top: 15px;;
+        }
+    }
+}
+.copyright-text {
+    a {
+        color: #fff;
+    }
+}
+/*--------------------------------------------------------------
+# Scroll Top
+--------------------------------------------------------------*/
+.topbutton {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    background: #ffffff;
+    display: block;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    width: 45px;
+    font-size: 25px;
+    border-radius: 50%;
+    transition: all 0.3s;
+    box-shadow: 0 0 10px -3px rgba(0, 0, 0, 0.4);
+    z-index: 9;
+    opacity: 0;
+    color: #1d1d1f;
+}
+.contact-sticky-button {
+    position: fixed;
+    left: 10%;
+    top: 30%;
+    display: block;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    width: 45px;
+    font-size: 18px;
+    border-radius: 50%;
+    transition: all 0.3s;
+    box-shadow: 0 0 10px -3px rgba(0, 0, 0, 0.4);
+    z-index: 9;
+    opacity: 0;
+    color: #fff; 
+    &:hover {
+        color: #fff;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .topbutton {
+        right: 10px;
+    }
+}
+@media only screen and (max-width: 1500px) {
+    .contact-sticky-button {
+        left: 5%;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .contact-sticky-button {
+        opacity: 0 !important;
+    }
+}
+
+.btn-show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.btn-hide {
+    opacity: 0;
+    transform: translateY(40px);
+}

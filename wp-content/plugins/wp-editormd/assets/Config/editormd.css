@@ -1,0 +1,56 @@
+/*样式修改*/
+.markdown-body img.emoji {
+    height: 24px !important;
+    width: 24px !important
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3 {
+    color: #888!important;
+}
+
+.markdown-body h2 {
+    font-size: 1.75em !important;
+    line-height: 1.225 !important;
+    padding: 0 0 .3em 0 !important
+}
+.markdown-body.editormd-preview-container ul {
+    list-style: initial
+}
+.markdown-body.editormd-preview-container ol {
+    margin-left: 0 !important
+}
+
+.editormd-dialog {
+    height: auto!important;
+}
+
+.edit-comments-php .wp-editor-container.editormd.editormd-vertical {
+    width: 100%!important;
+}
+
+.edit-comments-php .CodeMirror.cm-s-default.CodeMirror-wrap {
+    width: 100%!important;
+    margin-left: 0!important;
+}
+
+.edit-comments-php .CodeMirror-linenumber.CodeMirror-gutter-elt {
+    left: -12px!important;
+}
+
+.edit-comments-php .editormd .CodeMirror pre.CodeMirror-line  {
+    padding-left: 28px;
+ }
+
+.edit-comments-php .editormd .CodeMirror pre.CodeMirror-placeholder {
+    padding-left: 28px;
+}
+
+.edit-comments-php .CodeMirror-gutters {
+    left: 0;
+}
+
+.edit-comments-php .wp-editor-container.editormd #qt_replycontent_toolbar {
+    display: none;
+}

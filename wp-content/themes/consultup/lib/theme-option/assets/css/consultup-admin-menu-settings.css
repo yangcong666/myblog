@@ -1,0 +1,276 @@
+/**
+ * CSS code for all consultup Extensions admin screens
+ *
+ * @package consultup
+ */
+
+.consult-clear:before, .consult-clear:after {
+	content: " ";
+	display: table;
+}
+.consult-clear:after {
+	clear: both;
+}
+
+/**
+ * Error Message
+ */
+#message {
+    display: block;
+    margin-left: 0;
+}
+
+.appearance_page_consultup #wpcontent{
+ 	padding: 0;
+ }
+.consult-menu-page-wrapper.wrap{
+	margin: 0;
+}
+.consult-menu-page-wrapper a{
+	text-decoration: none;
+}
+
+.consultup-pro-build{font-size:14px; font-weight:600; color:#fff;}
+.consult-theme-page-header {
+    background-color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 20px;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+.consult-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+.consult-container .consult-normal-cusror.hndle{
+    cursor: initial;
+}
+.consult-container .postbox .hndle{
+    background: #0073aa;
+    border-bottom: 1px solid #e6e6e6;
+    color: #fff;
+}
+
+/* Top Right Links. */
+.consult-top-links {
+    flex: auto;
+    text-align: right;
+}
+
+.consult-top-links ul{
+    margin: 0;
+}
+.consult-top-links ul li {
+    display: inline-block;
+    margin-bottom: 0;
+	color:#fff;
+}
+
+.consult-container.consult-welcome,
+.general .consult-container {
+	max-width: 930px;
+}
+.consult-quick-setting-section span.dashicons {
+    margin: 1px 3px 0 10px;
+}
+.consult-container div.notice,
+.consult-container div.updated,
+.consult-container div.error{
+	margin-top: 0;
+}
+.consult-container #poststuff h2{
+	padding: 10px 12px;
+}
+.consult-container img.consult-starter-sites-img {
+    width: 100%;
+}
+.consult-flex{
+	-js-display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-content: center;
+    -ms-flex-line-pack: center;
+    align-content: center;
+}
+.consult-theme-title {
+    align-content: flex-start;
+    text-align: left;
+}
+.consult-theme-title {
+    border-radius: 3px;
+    font-size:  0.5em;
+    font-weight:  400;
+    padding: 2px 7px;
+}
+.consult-theme-title a {
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 120px;
+    margin: 0 auto;
+}
+.consult-theme-title a,
+.consult-theme-title span{
+	font-size: 1.5rem;
+    color: #fff;
+    font-weight: 500;
+}
+
+.consult-theme-icon{
+	width: 150px;
+    vertical-align: bottom;
+}
+.consult-theme-title,.ast-top-links{
+width:100%;
+margin-bottom:10px;
+}
+.consult-top-links {
+    flex: auto;
+    text-align: center;
+}
+.consult-theme-page-header {
+    background-color: #2961d7;
+}
+
+.consult-theme-title a:focus,.consult-theme-title a:focus-within{
+outline:0;
+box-shadow:none;
+}
+ .consult-quick-setting-section ul,
+ .consult-addon-list-section ul{
+ 	margin: 0;
+ }
+.consult-quick-setting-section li{
+	border-bottom: 1px solid #eee;
+	margin-bottom: 0;
+}
+.consult-addon-list-section li{
+    -moz-box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1) inset;
+    -webkit-box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1) inset;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1) inset;
+    margin-bottom: 0;
+}
+.consult-quick-setting-section li{
+    padding: 10px 0;
+}
+.consult-quick-setting-section li:nth-child(odd){
+    width: 74%;
+}
+.consult-quick-setting-section li:nth-child(even){
+    width: 26%;
+}
+.consult-quick-setting-section li a{
+	margin: 5px;
+	display: inline-block;
+}
+.consult-addon-list-section li{
+	padding: 10px 15px;
+}
+.consult-quick-setting-section a.ast-quick-setting-title{
+	flex: auto;
+}
+
+.consult-addon-list-section .consult-addon-list li {
+	-js-display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-content: center;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    padding: 10px 15px; 
+}
+
+.consult-addon-list-section .consult-addon-list li:nth-child(even){
+    background-color: #fbfbfb;
+}
+
+.consult-addon-link-wrapper{
+	-js-display: flex;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-content: center;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    display: -webkit-flex;
+    -webkit-flex-direction: row-reverse;
+    flex-direction: row-reverse;
+    flex: auto;
+}
+.consult-addon-link-wrapper a{
+    line-height: 1.6;
+}
+.consult-addon-link-wrapper a:nth-child(even){
+    margin: 0 10px;
+}
+
+.ast-sidebar .hndle .dashicons{
+	margin: 0 5px 0 0;
+}
+
+@media (max-width: 544px){
+	.consult-quick-setting-section li{
+		width: 100%;
+	}
+}
+
+.ast-notice{
+    margin-bottom: 20px;
+}
+.ast-notice.ast-notice-error{
+    border-left-color: #dc3232;
+}
+
+.ast-notice{
+    background: #fff;
+    border-left: 4px solid #fff;
+    box-shadow: 0 1px 1px 0 rgba( 0, 0, 0, 0.1 );
+    padding: 1px 12px;
+}
+.ast-notice p{
+    margin: 0.5em 0;
+    padding: 2px;
+}
+.consult-container .postbox.consultup-pro-link .hndle{
+   background: #fff;
+   border-bottom: 1px solid #e6e6e6;
+   color: #fff;
+
+}
+.consult-container .postbox.consultup-pro-link .hndle a{
+font-size:13px;
+}

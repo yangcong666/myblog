@@ -1,0 +1,185 @@
+.service-item {
+	box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.04);
+	padding: 45px 30px 30px;
+	.service-icon {
+		width: 77px;
+		height: 77px;
+		margin: auto;
+		text-align: center;
+		font-size: 28px;
+		line-height: 67px;
+	}
+	.service-short-desc {
+		font-size: 14px;
+	}
+	&.ver-two {
+		padding: 45px 30px 35px;
+		.read-btn {
+			margin-left: 5px;
+			font-size: 14px;
+		}
+		.service-short-desc {
+			font-size: 15px;
+		}
+	}	  
+}
+.service-item {
+	position: relative;
+	overflow: hidden;
+	transition: all 0.35s ease-in-out;
+	.service-hover {
+		position: absolute;
+        background-color: rgba($blue_violet ,0.85);
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        opacity: 0;
+        transition: all 0.35s ease-in-out;
+        .hover-content {
+            display: block;
+            width: 100%;
+			height: 100%;
+			display: block;
+			width: 100%;
+			height: 100%;
+			color: #fff;
+			position: absolute;
+			left: 0;
+			right: 0;
+			margin: auto;
+			text-align: center;
+			top: 45%;
+			a {
+				color: #fff;
+				display: inline-block;
+				border: 2px solid #fff;
+				padding: 10px 22px;
+				border-radius: 30px;
+				font-size: 13px;
+				font-weight: 500;
+			}
+        }
+	}
+	&:hover {
+		transform: scale(1.2);
+		.service-hover {
+			opacity: 1;
+		}
+	}
+}
+.service-carousel {
+	.item {
+		padding: 15px;
+	}
+	.owl-nav {
+		> div {
+			position: absolute;
+			font-size: 20px;
+			top: 50%;
+			transform: translateY(-50%);
+		}
+		.owl-prev {
+			left: -30px;
+		} 
+		.owl-next {
+			right: -30px;
+		} 
+	}
+}
+
+.service-content {
+	margin-bottom: 45px;
+}
+.service-page-block {
+	background: #f8f8ff;
+}
+.service-single-page {
+	background-color: $white;
+	box-shadow: 0px 6px 80px 0px rgba(0, 0, 0, 0.06);
+	padding: 75px;
+	.service-title {
+		font-size: 45px;
+		font-weight: 700;
+		margin-bottom: 30px;
+		text-align: center;
+	}
+	.service-thumb {
+		margin-bottom: 30px;
+	}
+	.service-content {
+		font-size: 16px;
+	}
+}
+
+/*--------------------------------------------------------------
+## Progress Bar
+--------------------------------------------------------------*/
+.skill-bar {
+    margin-bottom: 45px;
+}
+.progress-title-holder {
+    position: relative;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.progress-mark span, 
+.progress-title-holder {
+    color: #0d1422;
+    font-weight: 600;
+    margin: 0 0 10px;
+}
+.progress-title {
+    z-index: 100;
+}
+.progress-wrapper {
+    width: 100%;
+    z-index: 10;
+}
+.progress-mark {
+    position: absolute;
+    bottom: 0;
+    transform: translateX(-50%);
+    span.percent {
+        color: $soft_black;
+    }
+}
+.progress-content {
+    background-color: $blue_violet;
+    width: 0%;
+}
+.progress-outter {
+    background-color: #fff;
+}
+.progress-content, .progress-outter {
+    height: 8px;
+    border-radius: 10px;
+}
+
+/*--------------------------------------------------------------
+## Subscriber Block
+--------------------------------------------------------------*/
+.mail-subscribe-block {
+	text-align: center;
+	.form-control {
+		padding: 15px 30px;
+		border-radius: 30px;
+	}
+	.newsletter-btn {
+		padding: 15px 30px;
+		border-radius: 30px;
+		border: 0 none;
+		font-size: 16px;
+		font-weight: 600;
+	}	
+}
+
+/*--------------------------------------------------------------
+## Featured On Block
+--------------------------------------------------------------*/
+.company-item {
+	img {
+		display: block;
+		margin: auto;
+	}
+}

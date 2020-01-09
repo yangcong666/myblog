@@ -1,0 +1,45 @@
+.tabs-nav-area {
+    text-align: center;
+    position: relative;
+    border-bottom: 1px solid $color__widget-text;
+    margin-bottom: 90px;
+    @media only screen and (min-width: 992px) {
+        max-width: 75%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .bsm-tabs {
+        background: transparent;
+    }
+    .bsm-tabs .bsm-tab a {
+        color: $color__matterhorn;
+        font-size: 14px;
+        font-weight: 800;
+        .fa {
+            margin-right: 5px;
+        }
+    }
+    .bsm-tab.active a {
+        color: $golden_poppy !important;
+        .fa {
+            color: $golden_poppy;
+        }
+    }
+    .bsm-indicator {
+        background: transparent;
+    }
+    &:after {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        border-bottom: 1px solid $color__widget-text;
+        max-width: 50%;
+        margin: auto;
+        bottom: -15px;
+    }
+
+}
+.tabs-content.active {
+    display: block !important;
+}

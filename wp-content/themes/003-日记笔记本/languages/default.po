@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Diary - Site5.com\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-17 10:10+0200\n"
+"PO-Revision-Date: 2012-08-17 10:10+0200\n"
+"Last-Translator: Bulent Sahin <wpthemess@gmail.com>\n"
+"Language-Team: Bulent Sahin <wpthemess@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: __;_e;_c;esc_attr_e;_n\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:28
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:45
+msgid "You must be"
+msgstr ""
+
+#: comments.php:45
+msgid "logged in"
+msgstr ""
+
+#: comments.php:45
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:52
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:52
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:56
+msgid "Name"
+msgstr ""
+
+#: comments.php:60
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:64
+msgid "Website"
+msgstr ""
+
+#: comments.php:71
+msgid "Comment"
+msgstr ""
+
+#: comments.php:74
+msgid "POST COMMENT"
+msgstr ""
+
+#: contact.php:8
+#: contact.php:78
+msgid "You forgot to enter your name."
+msgstr ""
+
+#: contact.php:16
+#: contact.php:81
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#: contact.php:19
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: contact.php:27
+#: contact.php:84
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#: contact.php:71
+msgid "There was an error submitting the form."
+msgstr ""
+
+#: contact.php:73
+msgid "<strong>Thanks!</strong> Your email was successfully sent. We should be in touch soon."
+msgstr ""
+
+#: contact.php:76
+msgid "Your name"
+msgstr ""
+
+#: contact.php:79
+msgid "Your email"
+msgstr ""
+
+#: contact.php:82
+msgid "Your message"
+msgstr ""
+
+#: contact.php:87
+msgid "SEND MESSAGE"
+msgstr ""
+
+#: functions.php:72
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:73
+msgid "&raquo;"
+msgstr ""
+
+#: functions.php:73
+msgid "&laquo"
+msgstr ""
+
+#: functions.php:195
+#, php-format
+msgid "<strong>%s</strong>"
+msgstr ""
+
+#: functions.php:195
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:195
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:204
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:234
+msgid "Display a list of latest tweets"
+msgstr ""
+
+#: functions.php:240
+#: functions.php:308
+msgid "Latest Tweets"
+msgstr ""
+
+#: functions.php:278
+msgid "Follow me on Twitter!"
+msgstr ""
+
+#: functions.php:313
+msgid "Title:"
+msgstr ""
+
+#: functions.php:319
+msgid "No. of Tweets:"
+msgstr ""
+
+#: functions.php:325
+msgid "Display avatar?:"
+msgstr ""
+
+#: header.php:83
+msgid "type your search and hit enter"
+msgstr ""
+
+#: index.php:7
+msgid "Archive from"
+msgstr ""
+
+#: index.php:12
+msgid "Browsing"
+msgstr ""
+
+#: index.php:17
+msgid "Tagged with"
+msgstr ""
+
+#: index.php:22
+msgid "Articles by"
+msgstr ""
+
+#: index.php:40
+#: page.php:19
+#: search.php:23
+#: single.php:21
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: search.php:6
+msgid "Search results for"
+msgstr ""
+
+#: search.php:6
+msgid "\""
+msgstr ""
+
+#: sidebar.php:6
+msgid "Follow Us on Twitter!"
+msgstr ""
+
+#: sidebar.php:9
+msgid "Join Us on Facebook!"
+msgstr ""
+
+#: sidebar.php:11
+msgid "RSS"
+msgstr ""
+
+#: sidebar.php:14
+msgid "Contact"
+msgstr ""
+
+#: sidebar.php:21
+msgid "WIDGETS NEEDED!"
+msgstr ""
+
+#: sidebar.php:22
+msgid "Go ahead and add some widgets here! Admin > Appearance > Widgets"
+msgstr ""
+
+#: admin/options-framework.php:210
+msgid "A Theme by"
+msgstr ""
+
+#: admin/options-framework.php:210
+msgid "Site5.com"
+msgstr ""
+
+#: admin/options-framework.php:228
+msgid "Save Options"
+msgstr ""
+
+#: admin/options-framework.php:229
+msgid "Restore Defaults"
+msgstr ""
+
+#: admin/options-framework.php:229
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: admin/options-framework.php:259
+msgid "Default options restored."
+msgstr ""
+
+#: admin/options-framework.php:306
+msgid "Options saved."
+msgstr ""
+
+#: admin/options-framework.php:354
+msgid "Theme Options"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr ""
+
+#: admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""
+
+#: admin/inc/customfunctions.php:18
+msgid "Portfolio archive pages will only display in WordPress 3.1 or above.  Please upgrade."
+msgstr ""
+
+#: admin/inc/customfunctions.php:79
+#: admin/inc/customfunctions.php:81
+msgid "Read more &raquo;"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:107
+msgid "<div style=\"color:"
+msgstr ""
+
+#: admin/shortcodes/shortcodes.php:1410
+#, php-format
+msgid "%s: Widget class not found. Make sure this widget exists and the class name is correct"
+msgstr ""
+

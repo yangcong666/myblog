@@ -1,0 +1,433 @@
+# Translation of Themes - Consultup in Chinese (China)
+# This file is distributed under the same license as the Themes - Consultup package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-28 07:00:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Consultup\n"
+
+#. Description of the theme
+msgid "Consultup WordPress theme ideal for a business or perfect solutions for corporate, consulting, wedding planners, agency, law firms, finance, law travel, recipes, sport/medical shops, startups, online agencies, portfolios, freelancers, E-commerce.  The theme is responsive, WPML, Retina ready, SEO friendly(Live preview : https://demo.themeansar.com/consultup/)"
+msgstr "Consultup WordPress主题为企业、咨询、婚礼策划师、代理、法律事务所、金融、法律、旅行、食谱、运动/医疗商店、初创公司、在线代理、产品组合、自由职业者、电子商务提供理想的商业或完美的解决方案。主题具有响应度高、WPML、视网膜就绪、搜索引擎友好度好的特点(实时预览:  https://demo.themeansar.com/consultup/)"
+
+#. Theme Name of the theme
+#: lib/theme-option/view-general.php:13
+msgid "Consultup"
+msgstr "Consultup"
+
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Search"
+msgstr "搜索"
+
+#: 404.php:29
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "很抱歉，但您正在寻找的页面不存在。"
+
+#: functions.php:153
+msgid "Sidebar Widget Area"
+msgstr "侧边栏小工具区"
+
+#: inc/icy/customize/consultup_customize_copyright.php:180
+msgid "Background Image"
+msgstr "背景图像"
+
+#: inc/icy/customize/consultup_customize_header.php:322
+msgid "Button Text"
+msgstr "按钮文字"
+
+#: inc/icy/customize/consultup_customize_header.php:258
+#: inc/icy/customize/consultup_customize_header.php:302
+msgid "Description"
+msgstr "描述"
+
+#: inc/icy/customize/consultup_customize_header.php:246
+#: inc/icy/customize/consultup_customize_header.php:290
+msgid "Title"
+msgstr "标题"
+
+#: inc/icy/customize/consultup_customize_header.php:82
+#: inc/icy/customize/consultup_customize_copyright.php:28
+msgid "Hide / Show"
+msgstr "隐藏/显示"
+
+#: inc/icy/customize/consultup_customize_header.php:35
+#: inc/icy/customize/consultup_customize_header.php:58
+msgid "Text"
+msgstr "文本"
+
+#: inc/icy/customize/consultup_customize_header.php:24
+#: inc/icy/customize/consultup_customize_header.php:47
+#: inc/icy/customize/consultup_customize_header.php:234
+#: inc/icy/customize/consultup_customize_header.php:278
+msgid "Icon"
+msgstr "图标"
+
+#: search.php:27
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: search.php:25
+msgid "Nothing Found"
+msgstr "没有找到任何内容"
+
+#. Template Name of the theme
+msgid "Homepage"
+msgstr "主页"
+
+#. translators: %s: search term
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "%s 的搜索结果"
+
+#: content.php:56
+msgid "Pages:"
+msgstr "页码："
+
+#: content.php:55
+msgid "Read More"
+msgstr "阅读更多"
+
+#: content.php:48
+msgid "by"
+msgstr "由"
+
+#: functions.php:163
+msgid "Footer Widget Area"
+msgstr "页脚挂件区"
+
+#: functions.php:65
+msgid "Social Links Menu"
+msgstr "社交网络链接菜单"
+
+#: functions.php:64
+msgid "Primary menu"
+msgstr "主要菜单"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "全宽页面"
+
+#: lib/theme-option/class-consultup-admin-settings.php:492
+msgid "Easy to use, Fully Customizable, Unique options"
+msgstr "简单易用、完全可自定义的独特选项"
+
+#: lib/theme-option/class-consultup-admin-settings.php:438
+msgid "Premium Support"
+msgstr "付费支持"
+
+#: lib/theme-option/class-consultup-admin-settings.php:436
+msgid "Your Feedback"
+msgstr "您的反馈"
+
+#: lib/theme-option/class-consultup-admin-settings.php:434
+msgid "Pro Demo"
+msgstr "专业版演示"
+
+#: lib/theme-option/class-consultup-admin-settings.php:432
+msgid "Lite Demo"
+msgstr "精简版演示"
+
+#: lib/theme-option/class-consultup-admin-settings.php:428
+msgid "Consultup Usefull Links"
+msgstr "Consultup实用链接"
+
+#: lib/theme-option/class-consultup-admin-settings.php:409
+msgid "Visit to Customizer Settings:"
+msgstr "访问定制器设置:"
+
+#: lib/theme-option/class-consultup-admin-settings.php:401
+msgid "Site Button"
+msgstr "站点按钮"
+
+#: lib/theme-option/class-consultup-admin-settings.php:395
+msgid "Social Icon"
+msgstr "社交图标"
+
+#: lib/theme-option/class-consultup-admin-settings.php:389
+msgid "Sidebar Options"
+msgstr "侧栏选项"
+
+#: lib/theme-option/class-consultup-admin-settings.php:383
+msgid "Set Colors"
+msgstr "设置颜色"
+
+#: lib/theme-option/class-consultup-admin-settings.php:378
+msgid "Upload Logo"
+msgstr "上传徽标"
+
+#: lib/theme-option/class-consultup-admin-settings.php:369
+#: lib/theme-option/class-consultup-admin-settings.php:446
+msgid "Get More Options with Consultup Pro!"
+msgstr "通过Consultup专业版获得更多选择！"
+
+#: lib/theme-option/class-consultup-admin-settings.php:355
+msgid "Submit Ticket"
+msgstr "提交门票"
+
+#: lib/theme-option/class-consultup-admin-settings.php:352
+msgid "We start with what the customer needs and we work backwards. You're absolutely free to contact us and consultup team will be happy to help you."
+msgstr "我们依据客户的最终需求施行方案。您可以随时与我们联系，我们的Consultup团队将很乐意为您提供帮助。"
+
+#: lib/theme-option/class-consultup-admin-settings.php:346
+msgid "Customer Support"
+msgstr "客户支持"
+
+#: lib/theme-option/class-consultup-admin-settings.php:329
+msgid "Visit Us"
+msgstr "访问我们"
+
+#: lib/theme-option/class-consultup-admin-settings.php:327
+msgid "Want to know how it works, take a look on this and get whole knowledge about consultup. Learn consultup"
+msgstr "要知晓其工作方式，看看这个，获得关于Consultup的全部知识。请了解Consultup"
+
+#: lib/theme-option/class-consultup-admin-settings.php:323
+msgid "Learn More"
+msgstr "了解详情"
+
+#: lib/theme-option/class-consultup-admin-settings.php:306
+msgid "Go to Cutomizer Panel"
+msgstr "前往定制器面板"
+
+#: lib/theme-option/class-consultup-admin-settings.php:302
+msgid "Click the below button and install ICYCLUB plugin in customizer Setting for full advatages frontpage and many other theme feature"
+msgstr "点按下方按钮，在定制器设置中安装ICYCLUB插件可获取完整优势首页和许多其他主题功能"
+
+#: lib/theme-option/class-consultup-admin-settings.php:295
+msgid "Install Plugin"
+msgstr "安装插件"
+
+#: lib/theme-option/class-consultup-admin-settings.php:174
+msgid "Welcome"
+msgstr "欢迎"
+
+#: lib/theme-option/class-consultup-admin-settings.php:147
+msgid "consultup"
+msgstr "consultup"
+
+#: lib/theme-option/class-consultup-admin-settings.php:146
+msgid "Consultup Options"
+msgstr "Consultup选项"
+
+#. translators: %s theme name
+#: lib/theme-option/class-consultup-admin-settings.php:48
+msgid "Get started with %s"
+msgstr "从%s开始"
+
+#. translators: %1$s: theme name, %2$s link
+#: lib/theme-option/class-consultup-admin-settings.php:40
+msgid "Visit consultup page to take full advantage of theme."
+msgstr "访问Consultup页面，充分利用主题。"
+
+#. translators: %1$s: theme name, %2$s theme version
+#: lib/theme-option/class-consultup-admin-settings.php:34
+msgid "Thanks For Choosing %1$s - Version %2$s"
+msgstr "感谢选择%1$s - 版本：%2$s"
+
+#: inc/icy/customize-pro/class-customize.php:65
+msgid "Go Pro"
+msgstr "获取专业版"
+
+#: inc/icy/customize-pro/class-customize.php:64
+msgid "Consultup Pro Available!"
+msgstr "Consultup专业版可用！"
+
+#: inc/icy/customizer-notify/consultup-customizer-notify.php:111
+msgid "Activating"
+msgstr "正在激活"
+
+#: inc/icy/customize/plugin_recommend.php:17
+msgid "Deactivate"
+msgstr "停用"
+
+#: inc/icy/customize/plugin_recommend.php:16
+msgid "Activate"
+msgstr "启用"
+
+#: inc/icy/customize/plugin_recommend.php:15
+msgid "Install and Activate"
+msgstr "安装并激活"
+
+#: inc/icy/customize/plugin_recommend.php:14
+msgid "Recommended Plugin"
+msgstr "插件推荐"
+
+#: inc/icy/customize/plugin_recommend.php:13
+msgid "Recommended Actions"
+msgstr "推荐操作"
+
+#: inc/icy/customize/consultup_customize_home.php:8
+msgid "Homepage section settings"
+msgstr "首页部分设置"
+
+#: inc/icy/customize/consultup_customize_copyright.php:209
+msgid "Footer social icon"
+msgstr "页脚社交图标"
+
+#: inc/icy/customize/consultup_customize_copyright.php:203
+msgid "Select Column Layout"
+msgstr "选择栏布局"
+
+#: inc/icy/customize/consultup_customize_copyright.php:187
+msgid "Footer widget column layout"
+msgstr "页脚小工具栏布局"
+
+#: inc/icy/customize/consultup_customize_copyright.php:166
+msgid "Footer background setting"
+msgstr "页脚背景设置"
+
+#: inc/icy/customize/consultup_customize_copyright.php:10
+msgid "Footer social icon settings"
+msgstr "页脚社交图标设置"
+
+#: inc/icy/customize/consultup_customize_copyright.php:6
+msgid "Footer Settings"
+msgstr "页脚设置"
+
+#: inc/icy/customize/consultup_customize_header.php:334
+msgid "Button Link"
+msgstr "按钮链接"
+
+#: inc/icy/customize/consultup_customize_header.php:309
+msgid "Header Widget Three Setting"
+msgstr "标题小工具3设置"
+
+#: inc/icy/customize/consultup_customize_header.php:266
+msgid "Header Widget Two Setting"
+msgstr "标题小工具2设置"
+
+#: inc/icy/customize/consultup_customize_header.php:222
+msgid "Header Widget One Setting"
+msgstr "标题小工具1设置"
+
+#: inc/icy/customize/consultup_customize_header.php:200
+#: inc/icy/customize/consultup_customize_copyright.php:143
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: inc/icy/customize/consultup_customize_header.php:167
+#: inc/icy/customize/consultup_customize_copyright.php:110
+msgid "Linkedin URL"
+msgstr "Linkedin URL"
+
+#: inc/icy/customize/consultup_customize_header.php:135
+#: inc/icy/customize/consultup_customize_copyright.php:78
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: inc/icy/customize/consultup_customize_header.php:118
+#: inc/icy/customize/consultup_customize_header.php:151
+#: inc/icy/customize/consultup_customize_header.php:183
+#: inc/icy/customize/consultup_customize_header.php:216
+#: inc/icy/customize/consultup_customize_header.php:347
+#: inc/icy/customize/consultup_customize_copyright.php:61
+#: inc/icy/customize/consultup_customize_copyright.php:94
+#: inc/icy/customize/consultup_customize_copyright.php:126
+#: inc/icy/customize/consultup_customize_copyright.php:159
+msgid "Open link in a new tab"
+msgstr "在新标签页中打开链接"
+
+#: inc/icy/customize/consultup_customize_header.php:102
+#: inc/icy/customize/consultup_customize_copyright.php:45
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: inc/icy/customize/consultup_customize_header.php:64
+msgid "Header Social Icon Settings"
+msgstr "标题社交图标设置"
+
+#: inc/icy/customize/consultup_customize_header.php:13
+msgid "Header Top Bar Setting"
+msgstr "标题顶栏设置"
+
+#: inc/icy/customize/consultup_customize_header.php:9
+msgid "Header Settings"
+msgstr "页眉设置"
+
+#. translators: placeholder replaced with string
+#: footer.php:45
+msgid "https://themeansar.com/"
+msgstr "https://themeansar.com/"
+
+#. translators: placeholder replaced with string
+#: footer.php:45
+msgid "Theme: %1$s by %2$s."
+msgstr "主题: %1$s 作者 %2$s"
+
+#. translators: placeholder replaced with string
+#: footer.php:39
+msgid "Proudly powered by %s"
+msgstr "由 %s 强力驱动"
+
+#: footer.php:36
+msgid "https://wordpress.org/"
+msgstr "https://cn.wordpress.org/"
+
+#: header.php:88 header.php:154
+msgid "Toggle Navigation"
+msgstr "切换导航"
+
+#: 404.php:30
+msgid "Go Back"
+msgstr "返回"
+
+#: 404.php:28
+msgid "Oops! Page not found"
+msgstr "出错了！未找到页面"
+
+#: 404.php:27
+msgid "4"
+msgstr "4"
+
+#: 404.php:15
+msgid "404"
+msgstr "404"
+
+#: single.php:67
+msgid "By"
+msgstr "作者"
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:60 comments.php:81
+msgid "Newer Comments"
+msgstr "较新评论"
+
+#: comments.php:59 comments.php:80
+msgid "Older Comments"
+msgstr "较早评论"
+
+#: comments.php:56 comments.php:77
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有%1$s个想法"
+
+#. translators: %s: post title
+#: comments.php:33
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "《%s》有一个想法"
+
+#. Author URI of the theme
+msgid "https://themeansar.com"
+msgstr "https://themeansar.com"
+
+#. Author of the theme
+msgid "themeansar"
+msgstr "themeansar"
+
+#. Theme URI of the theme
+msgid "https://themeansar.com/themes/consultup/"
+msgstr "https://themeansar.com/themes/consultup/"

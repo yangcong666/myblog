@@ -1,0 +1,241 @@
+h1, h2, h3, h4, h5, h6 {
+	clear: both;
+	font-family: $font_heading;
+	line-height: $font__line-height-heading;
+	color: $color__heading;
+	font-weight: 500;
+	-webkit-font-smoothing: antialiased;
+}
+
+h1 {
+  	font-size: $heading__one;
+}
+
+h2 {
+	font-size: $heading__two;
+}
+
+h3 {
+	font-size: $heading__three;
+}
+
+h4 {
+	font-size: $heading__four;
+}
+
+h5 {
+	font-size: $heading__five;
+}
+
+h6 {
+	font-size: $heading__six;
+}
+
+small {
+	font-size: $heading__six;
+} 
+
+.font_small {
+	@extend small;
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a {
+    color: inherit;
+    text-decoration: none
+}
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover {
+    color: inherit;
+    text-decoration: none;
+}
+
+/*--------------------------------------------------------------
+# Font Weight
+--------------------------------------------------------------*/
+.w-100 {
+    font-weight: 100;
+}
+.w-300 {
+    font-weight: 300;
+}
+.w-400 {
+    font-weight: 400;
+}
+.w-500 {
+    font-weight: 500;
+}
+.w-600 {
+    font-weight: 600;
+}
+.w-700 {
+    font-weight: 700;
+}
+.w-800 {
+    font-weight: 800;
+}
+.w-900 {
+    font-weight: 900;
+}
+/*--------------------------------------------------------------
+# Extra Headings
+--------------------------------------------------------------*/
+.navolio-light-heading {
+    .navolio-light-pre-heading, 
+    .navolio-light-animated-heading, 
+    .navolio-light-post-heading {
+        display: inline-block;
+    }
+    a {
+        color: inherit;
+        &:hover {
+            color: inherit;
+        }
+    }
+    span {
+        display: inline-block;
+    }
+    .typed-cursor {
+        opacity: 1;
+        font-weight: 100;
+        -webkit-animation: typed-blink 0.7s infinite;
+        -moz-animation: typed-blink 0.7s infinite;
+        -ms-animation: typed-blink 0.7s infinite;
+        -o-animation: typed-blink 0.7s infinite;
+        animation: typed-blink 0.7s infinite;
+    }
+}
+
+.navolio-light-advanced-heading {
+    .navolio-light-heading-tag {
+        margin: 0;
+        padding: 0;
+    }
+    a {
+        color: inherit;
+        &:hover {
+            color: inherit;
+        }
+    }
+    .navolio-light-sub-heading,
+    .navolio-light-main-heading {
+        z-index: 1;
+        position: relative;
+    }
+    .navolio-light-sub-heading {
+        display: inline-block;
+        line-height: 1;
+    }
+    .navolio-light-sub-heading-content,
+    .navolio-light-main-heading {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .navolio-light-sub-heading .line:after,
+    .navolio-light-main-heading .line:after {
+        content: "";
+        background-color: #1e87f0;
+        height: 2px;
+        width: 40px;
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .navolio-light-sub-heading .line.navolio-light-button-icon-align-bottom,
+    .navolio-light-main-heading .line.navolio-light-button-icon-align-bottom {
+        line-height: 0;
+    }
+    .navolio-light-advanced-heading-content {
+        color: rgba(156, 156, 156, 0.12);
+        z-index: 0;
+        font-size: 60px;
+        text-transform: uppercase;
+        font-weight: 700;
+        line-height: 1;
+        bottom: 0;
+        width: 100%;
+        transition: all 0.3s ease-out;
+        position: absolute;
+    }
+    .navolio-light-advanced-heading-content > div {
+        display: inline-block;
+    }
+}
+.navolio-light-ep-main-color-yes .navolio-light-advanced-heading .navolio-light-main-heading {
+    background-color: transparent;
+    background-image: linear-gradient(240deg, #0E83CD 0, #8062d4 100%);
+    background-clip: text;
+    text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.navolio-light-ep-advanced-color-yes .navolio-light-advanced-heading .navolio-light-advanced-heading-content > div {
+    background-color: transparent;
+    background-image: linear-gradient(240deg, #0E83CD 0, #8062d4 100%);
+    background-clip: text;
+    text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+/*--------------------------------------------------------------
+# Animations Type Blink
+--------------------------------------------------------------*/
+@keyframes typed-blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-webkit-keyframes typed-blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-moz-keyframes typed-blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-ms-keyframes typed-blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-o-keyframes typed-blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}

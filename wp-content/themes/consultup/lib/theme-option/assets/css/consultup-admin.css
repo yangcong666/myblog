@@ -1,0 +1,131 @@
+@font-face {
+	font-family: 'ast-logo';
+	src:    url('fonts/ast-logo.eot?476cfz');
+	src:    url('fonts/ast-logo.eot?476cfz#iefix') format('embedded-opentype'),
+		url('fonts/ast-logo.ttf?476cfz') format('truetype'),
+		url('fonts/ast-logo.woff?476cfz') format('woff'),
+		url('fonts/ast-logo.svg?476cfz#ast-logo') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+#wp-admin-bar-consultup .ab-icon:before,
+#toplevel_page_consultup .wp-menu-image:before,
+[class^="ast-icon-"],
+[class*=" ast-icon-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'ast-logo' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.appearance_page_consultup #wpcontent {
+    padding: 0;
+}
+#wp-admin-bar-consultup .ab-icon:before,
+#toplevel_page_consultup .wp-menu-image:before,
+.ast-icon-logo:before {
+	content: "\e900" !important;
+}
+
+#side-sortables #consultup_settings_meta_box select {
+	min-width: 100%;
+}
+
+#normal-sortables #consultup_settings_meta_box select {
+	min-width: 200px;
+}
+
+.customize-control {
+	position: relative;
+}
+
+.customize-control .ast-control-tooltip {
+    position: absolute;
+    top: 6px;
+    right: 0;
+}
+.customize-control.customize-control-ast-divider .ast-control-tooltip {
+    position: absolute;
+    top: auto;
+    bottom: 3px;
+    right: 0;
+}
+.consultup-review-notice-container {
+	display: flex;
+	align-items: center;
+	padding-top: 10px;
+}
+
+.consultup-review-notice-container .dashicons {
+    font-size: 1.4em;
+	padding-left: 10px;
+}
+
+.consultup-review-notice-container a {
+    padding-left: 5px;
+    text-decoration: none;
+}
+
+.consultup-review-notice-container .dashicons:first-child {
+    padding-left: 0;
+}
+
+.notice-image img {
+    max-width: 90px;
+}
+
+.notice-content .notice-heading {
+    padding-bottom: 5px;
+}
+
+.notice-content {
+    margin-left: 15px;
+}
+
+.notice-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+/*theme notice */
+.notice.consultup-notice{
+    background:rgba(239, 247, 251, 0.8);
+	text-align:center;
+    padding: 30px !important;
+	border: 8px solid #fff;
+	position: relative;
+	box-shadow: none;
+}
+.notice.consultup-notice .button-hero{
+background:#0073aa;
+box-shadow: 0 2px 0 #0073aa!important;
+border-color: #0073aa #0073aa #0073aa;
+    box-shadow: 0 1px 0 #0073aa;
+    text-shadow: 0 -1px 1px #0073aa, 1px 0 1px #0073aa, 0 1px 1px #0073aa, -1px 0 1px #0073aa;
+margin-top:15px;
+}
+.notice.consultup-notice .button-hero:hover{
+background:#0680bb;
+border-color: #0680bb #0680bb #0680bb;
+}
+
+.consultup-logo {
+	background-image: url(../images/logo.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 70%;
+	padding: 0;
+	width: 250px;
+	height: 50px;
+	display: inline-block;
+	border-radius: 4px;
+}

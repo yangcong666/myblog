@@ -1,0 +1,253 @@
+.comment-content a {
+	word-wrap: break-word;
+}
+.bypostauthor {
+	display: block;
+}
+.comment-content a {
+	word-wrap: break-word;
+}
+.comment-content {
+	font-size: 15px;
+	ul, ol {
+		li {
+			margin-top: 10px;
+			line-height: 1.6em;
+		}
+	}
+	> ul,
+	> ol {
+		padding-left: 20px;
+	}
+	a {
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}
+.bypostauthor {
+	display: block;
+}
+
+.cancel-comment-reply-link {
+	bottom: -2px;
+	display: inline-block;
+	left: 0.6em;
+	position: relative;
+}
+.logged-in-as {
+	margin-bottom: 0.7em !important;
+	padding: 0 15px;
+}
+.comments-area {
+	overflow: hidden;
+	margin-top: 60px;
+	padding: 45px;
+	background-color: white;
+	border: 1px solid #e1e1e1;
+	border-radius: 30px;
+	.comment-list, .children {
+		list-style: none;
+		padding: 0;
+	}
+	.comments-title {
+		font-size: 23px;
+		font-weight: 700;
+		margin: 0;
+		margin-bottom: 30px;
+		span {
+			background: $color__white;
+			z-index: 10;
+	    	position: relative;
+		}
+
+	}
+	.comment-list {
+		margin-bottom: 45px;
+		border-top: none;
+		.comment .comment-respond {
+			margin-bottom: 75px;
+			margin-top: 0;
+		}
+	}
+	.comment-body {
+		overflow: hidden;
+		position: relative;
+		margin-bottom: 45px;
+	}
+	.comment-author {
+	    float: left;
+	    margin-right: 15px;
+	    width: 60px;
+	    img {
+	    	width: 60px;
+	    	height: 60px;
+	    	border-radius: 50%;
+	    }
+	}
+	.date {
+		display: block;
+		font-size: 13px;
+		color: #a0a0a0;
+		margin-top: 0;
+	}
+	.comment-details {
+		display: table-cell;
+		vertical-align: top;
+		width: 100%;
+	}
+	.comment-metadata {
+	    margin-bottom: 0.5em;
+	    color: $color__heading; 
+	    .author {
+	    	font-size: 16px;
+	    }
+	    .says, .comment-edit-link {
+	    	color: #777;
+	    }
+	}
+	.children {
+		margin-left: 75px;
+		@media only screen and (max-width: 1199px) {
+			margin-left: 60px;
+		}		
+		@media only screen and (max-width: 992px) {
+			margin-left: 45px;
+		}		
+		@media only screen and (max-width: 767px) {
+			margin-left: 30px;
+		}		
+		@media only screen and (max-width: 450px) {
+			margin-left: 30px;
+		}		
+		@media only screen and (max-width: 400px) {
+			margin-left: 25px;
+		}
+	}
+	.comment-navigation {
+		 margin-bottom: 3.5em;
+		.nav-links {
+			.nav-previous {
+				float: left;
+			}
+			.nav-next {
+				float: right;
+			}
+			span {
+				font-size: 18px;
+			}
+			a {
+				background-color: #ebebeb;
+				color: #2a2a2a;
+				border-radius: 5px;
+				font-weight: 500;
+				font-size: 13px;
+			}	
+		}
+	}
+	
+}
+.comment-respond {
+	label {
+		font-weight: 500;
+		font-size: 14px;
+	}
+	.comment-reply-title {
+		margin-top: 0;
+		margin-bottom: 30px;
+		font-size: 20px;
+		font-weight: 700;
+		small {
+			font-size: 14px;
+			color: #767676;
+		}
+	}
+}
+
+.comment-respond {
+	margin-top: 75px;
+	p {
+		margin-bottom: 1em;
+	}
+	.form-control {
+		border: 1px solid #e1e1e1;
+		padding: 15px 15px;
+		margin-bottom: 20px;
+		border-radius: 30px;
+	}
+	.form-submit {
+		margin-bottom: 0;
+		padding: 0 15px;
+	}
+	.comment-subscription-form {
+		display: none;
+	}
+	.comment-form-rating {
+		margin-bottom: 1em;
+	}
+	.form-submit {
+		text-align: center;
+		width: 100%;
+	}
+	#submit,
+	.submit {
+		border: 1px solid #e1e1e1;
+		border-radius: 30px;
+		padding: 15px 45px;
+    	font-size: 15px;
+	}
+}
+#review_form {
+	.form-submit {
+		padding: 0;
+	}
+}
+
+.no-comments {
+	position: relative;
+	padding: 0.75rem 1.25rem;
+	margin-bottom: 1rem;
+	border: 1px solid transparent;
+	border-radius: .25rem;
+	color: #721c24;
+	background-color: #f8d7da;
+	border-color: #f5c6cb;
+}
+
+.comment-reply-link {
+    padding: 8px 22px;
+	font-size: 13px;
+	border: 1px solid $gainsboro;
+    line-height: normal;
+    font-weight: bold;
+    display: inline-block;
+    background-color: transparent;
+	border-radius: 30px;
+	color: $blue_violet;
+	transition: all 0.35s ease-in-out;
+	&:hover {
+		background: $blue_violet;
+		color: $white;
+		border-color: $blue_violet;
+	}
+	@media only screen and (min-width: 600px) {
+		position: absolute;
+		right: 0;
+		top: 0;
+	}
+}
+
+
+input[type="checkbox"]::-ms-check {
+    color: transparent;
+}
+
+@media only screen and (max-width: 767px) {
+  .comments-area .comment-author  {
+    float: none;
+    margin-right: 0;
+    margin-bottom: 10px;
+    width: 60px;
+    height: 60px;
+  }
+}

@@ -1,0 +1,45 @@
+/*
+Theme Name: 香蕉咖啡
+Theme URI: http://www.bananacafe.cn
+
+Author: "韵"
+Author URI: http://www.mohuansenlin.com
+
+Description:香蕉咖啡主题用了自适应网页设计的理念进行设计，在任何设备上都显示得完美无缺．有需要做设计网站，设计LOGO的同学可以联系我．QQ:1875522872 .
+Version: 3.0
+
+-------------------------------------------------------------- */
+
+@charset "utf-8";
+/* Email 320310310@.com ,定义了大小，缩小都不会变，最多一起缩小;不定义大小或１００％，会跟着一起缩*/
+/*　文章标题字体大小：１８，文章字体１４，右侧标题：１５加粗，右侧列表：１３默认　*/
+/*　深彩： #ce5b16　*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+ol, ul {
+	list-style: none;
+}
+img {
+	border: 0;
+	height: auto;
+	width: auto;
+}
+
+body {
+	font-family: "Microsoft Yahei", "冬青黑体简体中文 w3";
+	font-size: 13px;
+	background: #f8f8f8;
+	color: #656565;
+}
+a {
+	color: #666;
+	font-size: 13px;
+	text-decoration: none;
+}
+a:hover {
+	color: #ff5f1a;
+}
+::selection{background:#ff5f1a;color:#fff;}

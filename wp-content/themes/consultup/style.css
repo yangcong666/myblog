@@ -1,0 +1,4051 @@
+/*
+Theme Name: Consultup
+Theme URI: https://themeansar.com/themes/consultup/
+Author: themeansar
+Author URI: https://themeansar.com
+Description: Consultup WordPress theme ideal for a business or perfect solutions for corporate, consulting, wedding planners, agency, law firms, finance, law travel, recipes, sport/medical shops, startups, online agencies, portfolios, freelancers, E-commerce.  The theme is responsive, WPML, Retina ready, SEO friendly(Live preview : https://demo.themeansar.com/consultup/)
+Version: 1.5.9
+Tags: two-columns, three-columns, left-sidebar, right-sidebar, translation-ready, custom-background, custom-logo, featured-images, footer-widgets, full-width-template, blog, e-commerce
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl.html
+Text Domain: consultup
+*/
+.consultup-trhead {
+	position: absolute;
+	right: 0;
+	left: 0;
+	z-index: 999;
+}
+.consultup-trhead.conte .navbar-wp .navbar-brand {
+    padding: 20px 0;
+}
+.consultup-trhead.conte .navbar-wp .navbar-nav > li > a {
+    padding: 35px 16px;
+    text-transform: uppercase;
+}
+.consultup-trhead.conte .consultup-head-detail {
+	border-bottom: inherit;
+}
+.consultup-trhead {
+	position: absolute;
+	right: 0;
+	left: 0;
+	z-index: 999;
+}
+.consultup-head-detail .btn-theme.quote {
+    margin: -5px 0 -5px 0;
+    border-radius: 0;
+    float: right;
+}
+.consultup-head-detail {
+	padding: 5px 0;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.consultup-head-detail .info-left {
+	display: block;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+.consultup-head-detail .info-left li {
+	display: inline-block;
+	margin-right: 15px;
+	padding: 0;
+}
+.consultup-head-detail .info-left li a {
+	font-size: 13px;
+}
+.consultup-head-detail .info-left i {
+	font-size: 14px;
+	padding-right: 10px;
+}
+.info-right {
+	display: block;
+	float: right;
+	margin: 0;
+	padding: 0;
+}
+.info-right li {
+	display: inline-block;
+	margin-right: 15px;
+	padding: 0;
+}
+.consultup-head-detail .info-right li a {
+	font-size: 13px;
+}
+.consultup-head-detail .info-right i {
+	font-size: 14px;
+	padding-right: 10px;
+}
+.consultup-head-detail .consultup-social {
+	padding: 0;
+	float: right;
+}
+.consultup-head-detail .consultup-social li {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+.consultup-head-detail .consultup-social li a:hover {
+	padding-left: 0;
+}
+.consultup-head-detail .consultup-social li span.icon-soci {
+	border-radius: 2px;
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	line-height: 18px;
+	margin: 0 5px 0 0;
+	text-align: center;
+	padding: 2px 0px 0 6px;
+}
+.consultup-head-detail .consultup-social li span.icon-soci:hover {
+	transition: all 0.4s ease-in-out 0s;
+}
+.consultup-head-detail .consultup-social li span.icon-soci i {
+	font-size: 14px;
+	color: #fff;
+}
+.consultup-cart {
+	position: relative;
+}
+.consultup-cart-count {
+	background: #e33729;
+	border-radius: 20px;
+	color: #ffffff;
+	display: inline-block;
+	font-size: 9px;
+	font-weight: bold;
+	height: 16px;
+	line-height: 15px;
+	margin-left: -15px;
+	margin-top: 0;
+	position: absolute;
+	text-align: center;
+	vertical-align: top;
+	width: 16px;
+}
+.site-title{font-size:26px; text-align:left;}
+.site-description{font-size:14px; text-align:left;}
+/* --------------------------------------
+=========================================
+	1. Header
+=========================================
+-----------------------------------------*/
+.ti-trhead {
+	position: absolute;
+	right: 0;
+	left: 0;
+	z-index: 999;
+}
+.ti-trhead.conte .navbar-wp .navbar-brand {
+    padding: 20px 0;
+}
+.ti-trhead.conte .navbar-wp .navbar-nav > li > a {
+    padding: 35px 16px;
+    text-transform: uppercase;
+}
+.ti-trhead.conte .ti-head-detail {
+	border-bottom: inherit;
+}
+.ti-trhead.conte .ti-head-detail .ti-social {
+	float: right;
+}
+.ti-headwidget.trans .ti-head-detail .info-left {
+	padding-left: 10px;
+}
+.ti-headwidget.trans .ti-head-detail .ti-social {
+	padding-right: 10px;
+}
+.ti-headwidget.trans .ti-header-box {
+    margin-right: -15px;
+}
+.ti-headwidget.trans  .pull-right.ti-search-box {
+    margin-right: 10px;
+}
+.ti-standard .navbar-wp .navbar-nav > li > a {
+    padding: 40px 12px;
+}
+.ti-standard .navbar-wp .navbar-brand {
+    padding: 25px 0;
+}
+
+/*---------------------------------------
+	1.1.Top Bar           
+-----------------------------------------*/
+.ti-headwidget .ti-head-detail {
+	border-bottom: 1px solid #eee;
+}
+.ti-head-detail {
+	padding: 5px 0;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.ti-head-detail .info-left {
+	display: block;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+.ti-head-detail .info-left li {
+	display: inline-block;
+	margin-right: 15px;
+	padding: 0;
+}
+.ti-head-detail .info-left li a {
+	font-size: 13px;
+}
+.ti-head-detail .info-left i {
+	font-size: 14px;
+	padding-right: 10px;
+}
+.ti-head-detail .btn-theme.quote {
+    margin: -5px 0 -5px 0;
+    border-radius: 0;
+    float: right;
+}
+.info-right {
+	display: block;
+	float: right;
+	margin: 0;
+	padding: 0;
+}
+.info-right li {
+	display: inline-block;
+	margin-right: 15px;
+	padding: 0;
+}
+.ti-head-detail .info-right li a {
+	font-size: 13px;
+}
+.ti-head-detail .info-right i {
+	font-size: 14px;
+	padding-right: 10px;
+}
+.ti-head-detail .ti-social {
+	padding: 0;
+}
+.ti-head-detail .ti-social li {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+.ti-head-detail .ti-social li a:hover {
+	padding-left: 0;
+}
+.ti-head-detail .ti-social li span.icon-soci {
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	line-height: 18px;
+	margin: 0 5px 0 0;
+	text-align: center;
+	padding: 2px 0px 0 6px;
+}
+.ti-head-detail .ti-social li span.icon-soci:hover {
+	transition: all 0.4s ease-in-out 0s;
+}
+.ti-head-detail .ti-social li span.icon-soci i {
+	font-size: 14px;
+}
+.ti-cart {
+	position: relative;
+}
+.ti-cart-count {
+	background: #e33729;
+	border-radius: 20px;
+	color: #ffffff;
+	display: inline-block;
+	font-size: 9px;
+	font-weight: bold;
+	height: 16px;
+	line-height: 15px;
+	margin-left: -15px;
+	margin-top: 0;
+	position: absolute;
+	text-align: center;
+	vertical-align: top;
+	width: 16px;
+}
+
+/*---------------------------------------
+	1.2 ti-category      
+-----------------------------------------*/
+.ti-category {
+	background-color: #f1f1f1;
+	float: left;
+	font-weight: normal;
+	height: 55px;
+	line-height: 50px;
+	position: relative;
+	text-transform: capitalize;
+	width: auto;
+	margin: 0;
+}
+.ti-category i {
+	margin-left: 10px;
+}
+.ti-category a {
+	color: #8a8a8a;
+	font-size: 14px;
+	padding: 10px;
+	line-height: 20px;
+}
+.ti-category ul.ti-category-submenu {
+	background: #fff;
+	height: auto;
+	max-height: 200px;
+	min-width: 140px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	left: 0;
+	padding: 10px 0 10px 0;
+	position: absolute;
+	top: 100%;
+	transform: scaleY(0);
+	transform-origin: 0 0 0;
+	transition: all 0.5s ease 0s;
+	width: 100%;
+	z-index: 15000;
+}
+.ti-category ul.ti-category-submenu li {
+	display: block;
+	padding: 6px 10px;
+	border-width: 1px 0;
+	border-style: solid;
+	border-color: #f5f5f5;
+}
+.ti-category ul.ti-category-submenu li:hover {
+	color: #fff;
+	background: #000;
+}
+.ti-category ul.ti-category-submenu li a {
+	color: #000;
+	font-weight: 300;
+	font-size: 14px;
+	transition: all 0.5s ease 0s;
+}
+.ti-category ul.ti-category-submenu li:hover a {
+	color: #fff;
+	margin-left: 4px;
+}
+.ti-category:hover ul.ti-category-submenu {
+	opacity: 1;
+	transform: scaleY(1);
+}
+/*---------------------------------------
+	1.2.Header Widget      
+-----------------------------------------*/
+.ti-head-detail .ti-social-navigation a {
+    height: 28px;
+    line-height: 28px;
+    width: 25px;
+    border-radius: inherit;
+    box-shadow: inherit;
+}
+.ti-head-detail .ti-social-navigation .icon {
+    height: 16px;
+    top: 5px;
+    width: 14px;
+    vertical-align: middle;
+    display: inline-block;
+    fill: currentColor;
+    position: relative;
+}
+.header-widget .ti-head-detail .info-left li a {
+    line-height: 38px;
+}
+.header-widget .ti-header-box {
+	margin: 28px 0 0 0;
+}
+.header-widget .ti-header-box-icon {
+	float: left;
+    display: inline-block;
+    height: auto;
+    margin-right: 0;
+    position: relative;
+    text-align: center;
+    top: 5px;
+    width: auto;
+    line-height: 35px;
+}
+.header-widget .ti-header-box-icon i {
+	border-radius: 10px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    width: 36px;
+    font-size: 36px;
+}
+.header-widget .ti-header-box-icon i:hover {
+	transition: all 0.3s ease 0s;
+}
+.header-widget .ti-header-box-info {
+	margin-left: 20px;
+	padding-left: 25px;
+}
+.header-widget .ti-header-box-info h4 {
+	font-size: 14px;
+	line-height: 15px;
+	padding: 2px 0 0;
+	font-weight: 600;
+}
+.header-widget .ti-header-box-info p {
+	line-height: 14px;
+	font-size: 12px;
+}
+.header-widget .ti-header-box .ti-social {
+    padding: 0;
+    margin: 10px -15px 0 0;
+    float: right;
+}
+.header-widget .ti-header-box .ti-social li {
+    display: inline-block;
+    margin-left: 5px;
+    border-bottom: none;
+}
+.header-widget .ti-header-box .ti-social li span.icon-soci {
+    display: inline-block;
+    float: left;
+    height: 28px;
+    line-height: 28px;
+    margin: 3px 0 0 0;
+    text-align: center;
+    width: 28px;
+    border-radius: 10px;
+}
+.header-widget .ti-header-box .ti-social li span.icon-soci a {
+    font-size: 13px;
+}
+.header-widget .ti-header-box .ti-social-navigation {
+	margin: 40px -18px 0 0;
+}
+.header-widget .ti-header-box .ti-social-navigation a {
+   display: inline-block;
+    float: left;
+    height: 28px;
+    line-height: 28px;
+    margin: 0px 0;
+    text-align: center;
+    width: 28px;
+    border-radius: 10px;
+}
+.header-widget .ti-header-box .ti-social-navigation .icon {
+	top: 0;
+}
+.ti-nav-widget-area {
+	padding-bottom: 50px;
+}
+.ti-menu-full {
+	position: relative;
+}
+.ti-headwidget .navbar-wp {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -35px;
+    margin: 0;
+    z-index: 999;
+    transition: all 1s ease-out;
+    border-radius: 0;
+}
+.ti-headwidget .navbar-wp .navbar-nav > li> a {
+    padding: 18px 16px;
+    text-transform: capitalize;
+}
+.ti-headwidget.trans {
+    position: absolute;
+    right: 0;
+    left: 0;
+    z-index: 999;
+}
+/*---------------------------------------
+	1.2.Theme Menu   
+-----------------------------------------*/
+.ti-headwidget  .navbar-brand {
+    padding: 20px 0 0 0;
+}
+.ti-standhead .ti-head-detail {
+	border-bottom: inherit;
+}
+.ti-standhead .btn-theme.quote {
+    padding: 4px 30px;
+}
+.ti-standhead .navbar-wp .navbar-brand {
+    padding: 8px 0;
+}
+.ti-standhead .navbar-brand > img {
+    height: 45px;
+}
+.ti-standhead .navbar-wp .navbar-nav > li > a {
+    padding: 20px 16px;
+    font-size: 14px;
+}
+.navbar-wp {
+	margin: 0;
+	padding: 0;
+	border: none;
+	border-radius: 0;
+	z-index: 1000;
+}
+.navbar-brand {
+	font-size: 26px;
+	height: auto;
+	line-height: 25px;
+	margin-right: 50px;
+	padding: 15px 0;
+	text-shadow: 2px 2px 1px rgba(150, 150, 183, 0.18);
+}
+.navbar-brand span.site-description {
+	font-size: 13px;
+	line-height: 0;
+}
+.navbar-wp .navbar-nav > li> a {
+	padding: 30px 16px;
+	margin-right: 0;
+	font-size: 16px;
+	letter-spacing: 0.5px;
+	-webkit-transition: all .25s ease-out;
+	-moz-transition: all .25s ease-out;
+	transition: all .25s ease-out;
+	margin-bottom: 0px;
+	font-weight: 600;
+	text-transform: capitalize;
+	display: block;
+}
+.navbar-wp .navbar-nav > .active > a, .navbar-wp .navbar-nav > .active > a:hover, .navbar-wp .navbar-nav > .active > a:focus {
+	background: none;
+}
+.navbar-wp .navbar-nav > li > ul > li > a i {
+	padding-right: 10px;
+}
+.navbar-wp .navbar-nav > .disabled > a, .navbar-wp .navbar-nav > .disabled > a:hover, .navbar-wp .navbar-nav > .disabled > a:focus {
+	background-color: transparent;
+}
+.navbar-wp .navbar-nav > .open > a, .navbar-wp .navbar-nav > .open > a:hover, .navbar-wp .navbar-nav > .open > a:focus {
+	background: transparent;
+}
+.navbar-base .navbar-nav > .open > a, .navbar-base .navbar-nav > .open > a:hover, .navbar-base .navbar-nav > .open > a:focus {
+	background: transparent;
+}
+.navbar-toggle {
+	border-radius: 0;
+	margin: 24px auto;
+	position: absolute;
+	right: 5%;
+	border: none;
+	box-shadow: none;
+}
+.navbar-wp .dropdown-menu {
+	min-width: 200px;
+	padding: 0;
+	border: none;
+	border-radius: 0;
+	z-index: 10;
+	right: auto;
+	left: 0;
+}
+.navbar-wp .dropdown-menu > li, .navbar-wp .dropdown-menu > li:last-child {
+	border: 0
+}
+.navbar-wp .dropdown-menu > li > a {
+	padding: 12px 15px;
+	font-size: 12px;
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	transition: .3s;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+.navbar-wp .dropdown-menu > .dropdown-menu {
+	right: 0;
+	left: auto;
+}
+.navbar-nav > li:last-child > .dropdown-menu {
+	right: 0;
+	left: auto;
+}
+.navbar-wp.affix .navbar-inner {
+	border-bottom: 0
+}
+.navbar-wp.affix .navbar-nav > li > a {
+	padding: 18px 16px;
+	margin-right: 0;
+	font-size: 14px;
+	font-weight: 500;
+	text-transform: uppercase
+}
+.dropdown-submenu {
+	position: relative
+}
+.dropdown-submenu > .dropdown-menu {
+	top: -1px;
+	left: 100%;
+	margin-top: 0;
+	margin-left: 0;
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0
+}
+.dropdown-submenu:hover > .dropdown-menu {
+	display: block;
+	padding: 0
+}
+.dropdown-submenu.pull-left {
+	float: none
+}
+.dropdown-submenu.pull-left > .dropdown-menu {
+	left: -100%;
+	margin-left: 10px
+}
+.navbar-wp .navbar-brand {
+	font-size: 22px;
+	line-height: 20px;
+	padding: 15px 0;
+	transition: all 0.25s ease-out 0s;
+}
+.is-sticky .ti-main-nav {
+	box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.2);
+	z-index: 999;
+}
+.is-sticky .navbar-brand {
+	padding: 8px 0 0 15px;
+	transition: all 0.25s ease-out 0s;
+	font-size: 22px;
+	line-height: 18px;
+}
+.is-sticky .navbar-brand img {
+	height: 40px;
+	transition: all 0.25s ease-out 0s;
+}
+.is-sticky .navbar-nav > li > a {
+	padding: 16px 16px;
+	transition: all 0.25s ease-out 0s;
+}
+.is-sticky .navbar-toggle {
+	margin: 8px auto;
+}
+.ti-search-box {
+	position: absolute;
+	right: 0px;
+	top: 0;
+}
+.ti-search-box .btn {
+	border-width: 1px;
+	border-style: solid;
+	padding: 0 10px;
+    height: 34px;
+}
+.ti-search-modal .ti-search .btn {
+	padding: 2px 12px;
+	height: 40px;
+	border-width: 1px;
+	border-style: solid;
+}
+.ti-search-modal .modal-header .close {
+	box-shadow: none;
+}
+.ti-search-modal .modal-header .close:focus, .ti-search-modal .modal-header .close:hover {
+	background: none;
+}
+.ti-search-modal {
+	top: 30%;
+}
+.ti-search-modal .modal-header {
+}
+.ti-search-modal .modal-content {
+	background: transparent;
+	box-shadow: none;
+	border: none;
+}
+.modal-backdrop {
+	background: #fff;
+}
+.modal-backdrop.in {
+	opacity: 0.90;
+}
+.modal-header {
+	border-bottom: none;
+}
+/*---------------------------------------
+	1.3.Theme Menu Center 
+-----------------------------------------*/
+.header-center .ti-head-detail {
+	border-width: 0px 0 1px 0;
+	border-style: solid;
+}
+.header-center .navbar-wp {
+	box-shadow: 0 3px 5px rgba(0,0,0,.05);
+	border-width: 1px 0 1px 0;
+	border-style: solid;
+}
+.header-center .logo-center {
+	width: 100%;
+	text-align: center;
+	padding: 0;
+}
+.header-center .logo-center .navbar-brand {
+	float: none;
+    display: inline-block;
+    margin: 8px auto 0 auto;
+    font-weight: bold;
+}
+.navbar-brand span.site-description {
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 0;
+}
+.header-center .navbar-wp .navbar-nav > li > a {
+	padding: 16px 16px;
+}
+.header-center .ti-search-box {
+    position: absolute;
+    right: 0px;
+    top: 0;
+}
+/*---------------------------------------
+	1.2.Header Widget      
+-----------------------------------------*/
+.consultup-head-detail .consultup-social-navigation a {
+    height: 28px;
+    line-height: 28px;
+    width: 20px;
+    border-radius: inherit;
+    box-shadow: inherit;
+}
+.consultup-head-detail .consultup-social-navigation .icon {
+    height: 16px;
+    top: 5px;
+    width: 14px;
+    vertical-align: middle;
+    display: inline-block;
+    fill: currentColor;
+    position: relative;
+}
+.header-widget .consultup-header-box .consultup-social {
+    padding: 0;
+    margin: 10px -15px 0 0;
+    float: right;
+}
+.header-widget .consultup-header-box .consultup-social li {
+    display: inline-block;
+    margin-left: 5px;
+    border-bottom: none;
+}
+.header-widget .consultup-header-box .consultup-social-navigation {
+	margin: 40px -18px 0 0;
+}
+.header-widget .consultup-header-box .consultup-social-navigation a {
+   display: inline-block;
+    float: left;
+    height: 28px;
+    line-height: 28px;
+    margin: 0px 0;
+    text-align: center;
+    width: 28px;
+    border-radius: 10px;
+}
+.header-widget .consultup-header-box .consultup-social-navigation .icon {
+	top: 0;
+}
+/*---------------------------------------
+	1.2.Theme Menu   
+-----------------------------------------*/
+.navbar-wp {
+	margin: 0;
+	padding: 0;
+	border: none;
+	border-radius: 0;
+	z-index: 1000;
+}
+.navbar-brand {
+	font-size: 26px;
+	height: auto;
+	line-height: 25px;
+	margin-right: 50px;
+	padding: 15px 0;
+	text-shadow: 2px 2px 1px rgba(150, 150, 183, 0.18);
+}
+.navbar-brand span.site-description {
+	font-size: 13px;
+	line-height: 0;
+}
+.navbar-wp .navbar-nav > li> a {
+	padding: 30px 16px;
+	margin-right: 0;
+	font-size: 16px;
+	letter-spacing: 0.5px;
+	-webkit-transition: all .25s ease-out;
+	-moz-transition: all .25s ease-out;
+	transition: all .25s ease-out;
+	margin-bottom: 0px;
+	font-weight: 600;
+	text-transform: capitalize;
+	display: block;
+}
+.navbar-wp .navbar-nav > .active > a, .navbar-wp .navbar-nav > .active > a:hover, .navbar-wp .navbar-nav > .active > a:focus {
+	background: none;
+}
+.navbar-wp .navbar-nav > li > ul > li > a i {
+	padding-right: 10px;
+}
+.navbar-wp .navbar-nav > .disabled > a, .navbar-wp .navbar-nav > .disabled > a:hover, .navbar-wp .navbar-nav > .disabled > a:focus {
+	background-color: transparent;
+}
+.navbar-wp .navbar-nav > .open > a, .navbar-wp .navbar-nav > .open > a:hover, .navbar-wp .navbar-nav > .open > a:focus {
+	background: transparent;
+}
+.navbar-base .navbar-nav > .open > a, .navbar-base .navbar-nav > .open > a:hover, .navbar-base .navbar-nav > .open > a:focus {
+	background: transparent;
+}
+.navbar-toggle {
+	border-radius: 0;
+	margin: 24px auto;
+	position: absolute;
+	right: 5%;
+	border: none;
+	box-shadow: none;
+}
+.navbar-wp .dropdown-menu {
+	min-width: 200px;
+	padding: 0;
+	border: none;
+	border-radius: 0;
+	z-index: 10;
+	right: auto;
+	left: 0;
+}
+.navbar-wp .dropdown-menu > li, .navbar-wp .dropdown-menu > li:last-child {
+	border: 0
+}
+.navbar-wp .dropdown-menu > li > a {
+	padding: 12px 15px;
+	font-size: 12px;
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	transition: .3s;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+.navbar-wp .dropdown-menu > .dropdown-menu {
+	right: 0;
+	left: auto;
+}
+.navbar-nav > li:last-child > .dropdown-menu {
+	right: 0;
+	left: auto;
+}
+.navbar-wp.affix .navbar-inner {
+	border-bottom: 0
+}
+.navbar-wp.affix .navbar-nav > li > a {
+	padding: 18px 16px;
+	margin-right: 0;
+	font-size: 14px;
+	font-weight: 500;
+	text-transform: uppercase
+}
+.dropdown-submenu {
+	position: relative
+}
+.dropdown-submenu > .dropdown-menu {
+	top: -1px;
+	left: 100%;
+	margin-top: 0;
+	margin-left: 0;
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0
+}
+.dropdown-submenu:hover > .dropdown-menu {
+	display: block;
+	padding: 0
+}
+.dropdown-submenu.pull-left {
+	float: none
+}
+.dropdown-submenu.pull-left > .dropdown-menu {
+	left: -100%;
+	margin-left: 10px
+}
+.navbar-wp .navbar-brand {
+	font-size: 22px;
+	line-height: 20px;
+	padding: 10px 0;
+	transition: all 0.25s ease-out 0s;
+}
+.consultup-search-box {
+	position: absolute;
+	right: 0px;
+	top: 0;
+}
+.consultup-search-box .btn {
+	border-width: 1px;
+	border-style: solid;
+	padding: 0 10px;
+    height: 34px;
+}
+.consultup-search-modal .consultup-search .btn {
+	padding: 2px 12px;
+	height: 40px;
+	border-width: 1px;
+	border-style: solid;
+}
+/*---------------------------------------
+	1.3.Theme Menu Center 
+-----------------------------------------*/
+.header-center .consultup-head-detail {
+	border-width: 0px 0 1px 0;
+	border-style: solid;
+}
+.header-center .navbar-wp {
+	box-shadow: 0 3px 5px rgba(0,0,0,.05);
+	border-width: 1px 0 1px 0;
+	border-style: solid;
+}
+.header-center .logo-center {
+	width: 100%;
+	text-align: center;
+	padding: 0;
+}
+.header-center .logo-center .navbar-brand {
+	float: none;
+    display: inline-block;
+    margin: 8px auto 0 auto;
+    font-weight: bold;
+}
+.navbar-brand span.site-description {
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 0;
+}
+.header-center .navbar-wp .navbar-nav > li > a {
+	padding: 16px 16px;
+}
+.header-center .consultup-search-box {
+    position: absolute;
+    right: 0px;
+    top: 0;
+}
+/* --------------------------------------
+=========================================
+	2.General
+=========================================
+-----------------------------------------*/
+
+/*---------------------------------------
+	2.1.Body & Global    
+-----------------------------------------*/
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Poppins', sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 30px;
+	color: #748182;
+}
+.boxed {
+	width: 1170px;
+	margin: 0 auto;
+	position: relative;
+	box-shadow: 0 0 10px 0 rgba(48, 48, 48, 0.5);
+}
+a {
+	text-decoration: none;
+}
+body a:focus, body a:hover {
+	outline: none;
+	text-decoration: none;
+}
+select {
+	background-clip: padding-box;
+	background-color: #fff;
+	border: 2px solid #ccc;
+	border-radius: 0;
+	color: #444;
+	display: block;
+	font-weight: 400;
+	overflow: hidden;
+	padding: 6px 12px;
+	position: relative;
+	text-decoration: none;
+	white-space: nowrap;
+}
+ .no-gutter > [class*=col-] {
+ padding-right: 0;
+ padding-left: 0;
+}
+input:not([type]), input[type="email"], input[type="number"], input[type="password"], input[type="tel"], input[type="url"], input[type="text"] {
+	border-radius: 0;
+    margin-bottom: 20px;
+    box-shadow: inherit;
+    padding: 6px 12px;
+    line-height: 25px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #eef3fb;
+}
+input[type="submit"], button {
+	padding: 5px 35px;
+	line-height: 30px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-size: 14px;
+	border-width: 1px;
+	border-style: solid;
+	transition: all 0.4s ease-in-out 0s;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+input:not([type]):hover, input[type="email"]:hover, input[type="number"]:hover, input[type="password"]:hover, input[type="tel"]:hover, input[type="url"]:hover, input[type="text"]:hover, input:not([type]):focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="tel"]:focus, input[type="url"]:focus, input[type="text"]:focus {
+}
+input[type="submit"]:hover, button:hover, input[type="submit"]:focus, button:focus {
+	transition: all 0.3s ease 0s;
+	outline: none;
+}
+.form-control {
+	border-radius: 0;
+    margin-bottom: 20px;
+    box-shadow: inherit;
+    padding: 6px 12px;
+    line-height: 25px;
+    border-width: 2px;
+    border-style: solid;
+}
+mark, .mark {
+	padding: 2px 5px;
+	border-radius: 3px;
+}
+.consultup-card-box {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #eaeaea;
+}
+/*---------------------------------------
+	2.2.Typography        
+-----------------------------------------*/
+h1, .h1 {
+	font-size: 34px;
+	line-height: 40px;
+}
+h2, .h2 {
+	font-size: 32px;
+	line-height: 35px;
+}
+h3, .h3 {
+	font-size: 28px;
+	line-height: 30px;
+}
+h4, .h4 {
+	font-size: 24px;
+	line-height: 25px;
+}
+h5, .h5 {
+	font-size: 20px;
+	line-height: 20px;
+}
+h6, .h6 {
+	font-size: 16px;
+	line-height: 20px;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+	font-weight: normal;
+}
+.alignright {
+	text-align: right;
+}
+.alignleft {
+	text-align: left;
+}
+.aligncenter {
+	text-align: center;
+}
+blockquote {
+	position: relative;
+	width: 100%;
+	border-width: 0 0 0 5px;
+	border-style: solid;
+}
+blockquote::before {
+	color: #d0d0d0;
+	content: "\f10d";
+	display: table;
+	float: left;
+	font-family: "FontAwesome";
+	font-size: 28px;
+	margin-top: 6px;
+	font-weight: normal;
+	width: 6%;
+}
+blockquote p {
+	font-style: italic;
+	width: 94%;
+	display: table;
+}
+.margin-top-zero {
+	margin-top: 0px;
+}
+.margin-bottom-zero {
+	margin-bottom: 0px;
+}
+.margin-top-10 {
+	margin-bottom: 10px;
+}
+.margin-top-15 {
+	margin-top: 15px;
+}
+.margin-top-20 {
+	margin-top: 20px;
+}
+.margin-top-30 {
+	margin-top: 30px;
+}
+.margin-top-50 {
+	margin-top: 50px;
+}
+.margin-top-80 {
+	margin-top: 80px;
+}
+.margin-bottom-10 {
+	margin-bottom: 10px;
+}
+.margin-bottom-20 {
+	margin-bottom: 20px;
+}
+.margin-bottom-30 {
+	margin-bottom: 30px;
+}
+.margin-bottom-50 {
+	margin-bottom: 50px;
+}
+.margin-bottom-80 {
+	margin-bottom: 80px;
+}
+.padding-top-10 {
+	padding-top: 10px;
+}
+.padding-top-20 {
+	padding-top: 20px;
+}
+.padding-top-30 {
+	padding-top: 30px;
+}
+.padding-top-50 {
+	padding-top: 50px;
+}
+.padding-top-40 {
+	padding-top: 40px;
+}
+.padding-top-60 {
+	padding-top: 60px;
+}
+.padding-top-80 {
+	padding-top: 80px;
+}
+.padding-bottom-10 {
+	padding-bottom: 10px;
+}
+.padding-bottom-20 {
+	padding-bottom: 20px;
+}
+.padding-bottom-30 {
+	padding-bottom: 30px;
+}
+.padding-bottom-40 {
+	padding-bottom: 40px;
+}
+.padding-bottom-50 {
+	padding-bottom: 50px;
+}
+.padding-bottom-60 {
+	padding-bottom: 60px;
+}
+.padding-bottom-80 {
+	padding-bottom: 80px;
+}
+.padding-15 {
+	padding: 15px;
+}
+.padding-20 {
+	padding: 20px;
+}
+.padding-30 {
+	padding: 30px;
+}
+.padding-40 {
+	padding: 40px;
+}
+.padding-60 {
+	padding: 60px;
+}
+
+/*---------------------------------------
+	2.5.WP Styles  
+-----------------------------------------*/
+/*--WP--*/
+
+.bypostauthor > article .fn:after {
+	display: inline-block;
+	font-size: 16px;
+	line-height: 1;
+	speak: none;
+	text-align: center;
+	text-decoration: inherit;
+	text-transform: none;
+	vertical-align: top;
+}
+.sticky {
+	display: none;
+}
+.gallery-caption {
+	color: #686868;
+	display: block;
+	font-size: 13px;
+	font-style: italic;
+	line-height: 1.6153846154;
+	padding-top: 0.5384615385em;
+}
+.wp-caption {
+	margin-bottom: 1.75em;
+	max-width: 100%;
+}
+.wp-caption img[class*="wp-image-"] {
+	display: block;
+	margin: 0;
+	max-width:100%;
+}
+.wp-caption .wp-caption-text {
+	color: #686868;
+	font-style: italic;
+	line-height: 1.6153846154;
+	padding-top: 0.5384615385em;
+}
+.content-area img.alignnone, .content-area figure.alignnone img {
+	width: 100%;
+	height: auto;
+}
+.content-area figure {
+	width: 100%;
+}
+.entry-header h1 {
+	position: relative;
+	padding-bottom: 15px;
+	margin-bottom: 20px;
+	font-size: 24px;
+}
+.entry-header h1::before {
+	border: 1px solid;
+	bottom: 0;
+	content: "";
+	display: block;
+	left: 0;
+	margin: auto;
+	position: absolute;
+	width: 30px;
+	transition: all 0.4s ease 0s;
+}
+.entry-header h1:hover::before {
+	width: 13%;
+}
+.entry-footer {
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+}
+.entry-footer .screen-reader-text {
+	display: none;
+}
+img.alignnone {
+	width: 100%;
+	height: auto;
+}
+img.size-large {
+	width: 100%;
+	height: auto;
+}
+
+footer .ti-widget .wpcf7-form .wpcf7-form-control {
+	border: none;
+}
+footer .ti-footer-copyright {
+	padding: 25px 0 5px;
+}
+footer .ti-footer-copyright p, footer .ti-footer-copyright a {
+	font-size: 13px;
+	line-height: 45px;
+}
+footer .ti-social {
+	padding: 0px;
+	margin: 0;
+}
+
+footer .ti-social li {
+	display: inline-block;
+	margin-right: 5px;
+	border-bottom: none;
+}
+footer .ti-social li a:hover {
+	padding-left: 0;
+}
+footer .ti-social li span.icon-soci {
+	display: inline-block;
+	float: left;
+	height: 35px;
+	line-height: 35px;
+	margin: 0;
+	text-align: center;
+	width: 35px;
+}
+footer .i-social li span.icon-soci:hover {
+	transition: all 0.4s ease-in-out 0s;
+}
+footer .ti-social li span.icon-soci i {
+	font-size: 14px;
+}
+footer .ti-social-navigation .icon {
+    top: -8px;
+}
+footer .ti-social {
+	padding: 0px;
+	margin: 0;
+}
+
+/*---------------------------------------
+	2.3.Alerts Styles           
+-----------------------------------------*/
+
+/*---------------------------------------
+	2.4.Button Styles           
+-----------------------------------------*/
+
+.btn, .more-link {
+    padding: 10px 35px;
+    line-height: 30px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 4px;
+    font-weight: bold;
+    display: inline-block;
+    transition: all 0.2s ease 0s;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.btn-theme {
+	border: none;
+}
+.btn-theme:hover, .btn-theme:focus {
+	transition: all 0.3s ease 0s;
+	outline: none;
+	box-shadow: 0 4px 20px -5px rgba(0,0,0,0.5);
+}
+.btn-theme-two:hover, .btn-theme-two:focus {
+	transition: all 0.3s ease 0s;
+	outline: none;
+	box-shadow: 0 4px 20px -5px rgba(0,0,0,0.5);
+}
+.btn-theme-three:hover, .btn-theme-three:focus {
+	transition: all 0.3s ease 0s;
+	outline: none;
+	box-shadow: 0 4px 20px -5px rgba(0,0,0,0.5);
+}
+.pagination > li:first-child > a, .pagination > li:first-child > span {
+	border-radius: 10px;
+}
+.pagination > li:last-child > a, .pagination > li:last-child > span {
+	border-radius: 10px;
+}
+.pagination > li > a, .pagination > li > span {
+	margin: 0 6px 10px;
+	border-radius: 10px;
+	border : none;
+	width: 32px;
+	height: 32px;
+	line-height: 32px;
+	padding: 0;
+}
+.pagination > .active > a, .pagination > .active > a:hover, .pagination > li > a:hover, .pagination > li > a:focus, .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+	transition: all 0.3s ease 0s;
+}
+button.mfp-close:hover, button.mfp-close:focus {
+	background: inherit;
+}
+/*---------------------------------------
+	2.5.consultup-social-navigation         
+-----------------------------------------*/
+.consultup-social-navigation {
+	padding: 0px;
+	margin: 0;
+}
+.consultup-social-navigation li {
+	display: inline-block;
+	margin-right: 0px;
+	border-bottom: none;
+}
+.consultup-social-navigation li a:hover {
+	padding-left: 0;
+	transition: all 0.4s ease-in-out 0s;
+}
+.consultup-social-navigation a {
+	display: inline-block;
+	float: left;
+	height: 28px;
+	line-height: 28px;
+	margin: 0px 4px;
+	text-align: center;
+	width: 28px;
+	border-radius: 50%;
+}
+.consultup-social-navigation .icon {
+    height: 12px;
+    top: 3px;
+    width: 10px;
+    vertical-align: middle;
+    display: inline-block;
+    fill: currentColor;
+    position: relative;
+}
+svg:not(:root) {
+    overflow: hidden;
+}
+.consultup-social-navigation .screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute !important;
+    width: 1px;
+    word-wrap: normal !important;
+}
+
+ti-head-detail .ti-social {
+	padding: 0;
+}
+.ti-head-detail .ti-social li {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+.ti-head-detail .ti-social li a:hover {
+	padding-left: 0;
+}
+.ti-head-detail .ti-social li span.icon-soci {
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	line-height: 18px;
+	margin: 0 5px 0 0;
+	text-align: center;
+	padding: 2px 0px 0 6px;
+}
+.ti-head-detail .ti-social li span.icon-soci:hover {
+	transition: all 0.4s ease-in-out 0s;
+}
+.ti-head-detail .ti-social li span.icon-soci i {
+	font-size: 14px;
+}
+
+.ti-head-detail .ti-social-navigation a {
+    height: 28px;
+    line-height: 28px;
+    width: 25px;
+    border-radius: inherit;
+    box-shadow: inherit;
+}
+.ti-head-detail .ti-social-navigation .icon {
+    height: 16px;
+    top: 5px;
+    width: 14px;
+    vertical-align: middle;
+    display: inline-block;
+    fill: currentColor;
+    position: relative;
+}
+/*---------------------------------------
+=========================================
+	3.content-Home-Sections
+=========================================
+-----------------------------------------*/
+/*---------------------------------------
+	3.1.consultup-slider-warraper          
+-----------------------------------------*/
+.consultup-slider-warraper #consultup-slider {
+	margin: 0;
+	position: relative;
+	z-index: 1;
+	float: left;
+	width: 100%;
+}
+.consultup-slider-warraper #consultup-slider .item img {
+	width: 100%;
+	min-height: 400px;
+}
+.consultup-slider-warraper #consultup-slider .item iframe {
+	border: 6px solid #fff;
+}
+/*--------------- ti slider inner ---------------*/
+#consultup-slider .consultup-slider-inner {
+	height: 100%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 3;
+}
+#consultup-slider .inner-table {
+	display: table;
+	height: 100%;
+}
+#consultup-slider .inner-table-cell {
+	display: table-cell;
+	height: 100%;
+	vertical-align: middle;
+	width: 100%;
+}
+#consultup-slider .slide-caption {
+	width: 65%;
+	margin: 10% auto auto;
+	text-align: center;
+}
+#consultup-slider .slide-caption.slide-left {
+	float: left;
+	text-align: left;
+}
+#consultup-slider .slide-caption.slide-right {
+	float: right;
+	text-align: right;
+}
+.slide-inner-box {
+	padding: 10px 30px;
+	border-radius: 5px;
+}
+#consultup-slider .slide-caption .slide-inner-box .description p {
+    letter-spacing: inherit;
+}
+.slide-inner-box-two {
+	padding: 10px 30px;
+	outline-offset: 5px;
+	outline-width: 4px;
+	outline-style: solid;
+}
+#consultup-slider .slide-caption h1 {
+	font-size: 59px;
+	line-height: 70px;
+	font-weight: 900;
+	text-shadow: 1px 3px 8px rgba(0, 0, 0, 0.17);
+}
+#consultup-slider .owl-item.active .slide-caption h1 {
+  animation: ta_home_slider_title 1200ms linear both;
+  animation-delay: .3s;
+}
+#consultup-slider .slide-caption .description {
+	font-size: 18px;
+	line-height: 24px;
+	padding: 0;
+	width: 100%;
+}
+#consultup-slider .slide-caption .description p {
+	margin: 0;
+	letter-spacing: 0.1em;
+	font-size: 18px;
+	font-weight: 400;
+}
+#consultup-slider p {
+	font-size: 14px;
+}
+/*--------------- consultup-slider-Control ---------------*/
+.consultup-slider-warraper .owl-controls {
+	margin-top: -30px;
+}
+.consultup-slider-warraper .owl-controls .owl-buttons div {
+	width: 50px;
+	height: 50px;
+	display: block;
+	font-size: 24px;
+	line-height: 50px;
+	opacity: 1;
+	border-radius: 50px;
+	text-align: center;
+	border-width: 1px;
+	border-style: solid;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+.consultup-slider-warraper .owl-controls .owl-buttons div i {
+}
+.consultup-slider-warraper .owl-controls .owl-buttons {
+	opacity: 1;
+	transition: all 0.3s ease 0s;
+}
+.consultup-slider-warraper:hover .owl-controls .owl-buttons {
+	opacity: 1;
+}
+.consultup-slider-warraper:hover .owl-controls .owl-buttons .owl-prev {
+	left: 35px;
+}
+.consultup-slider-warraper:hover .owl-controls .owl-buttons .owl-next {
+	right: 35px;
+}
+.consultup-slider-warraper .owl-controls .owl-buttons .owl-prev, .consultup-slider-warraper .owl-controls .owl-buttons .owl-next {
+	position: absolute;
+	top: 55%;
+	z-index: 5;
+	margin: -30px 0 0;
+	transition: all 0.3s ease 0s;
+}
+.consultup-slider-warraper .owl-controls .owl-buttons .owl-prev {
+	left: 8px;
+}
+.consultup-slider-warraper .owl-controls .owl-buttons .owl-prev i {
+    margin-left: 22px;
+    transition: all 0.3s ease 0s;
+}
+.consultup-slider-warraper .owl-controls .owl-buttons .owl-prev:hover i {
+    margin-left: 0;
+}
+.consultup-slider-warraper .owl-controls .owl-buttons .owl-next {
+	right: 8px;
+}
+.consultup-slider-warraper .owl-controls .owl-buttons .owl-next i {
+    margin-right: 22px;
+    transition: all 0.3s ease 0s;
+}
+.consultup-slider-warraper .owl-controls .owl-buttons .owl-next:hover i {
+    margin-right: 0;
+}
+.consultup-slider-warraper .owl-controls .owl-page {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 0 5px;
+}
+.consultup-slider-warraper .owl-controls .owl-page.active span {
+	height: 15px;
+	width: 15px;
+}
+.consultup-slider-warraper .owl-controls .owl-page span {
+	display: block;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background: transparent;
+	border-width: 2px;
+	border-style: solid;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+.consultup-slider-warraper .owl-controls .owl-page span.owl-numbers {
+	height: auto;
+	width: auto;
+	color: #fff;
+	padding: 2px 10px;
+	font-size: 12px;
+	border-radius: 4px;
+}
+.consultup-slider-warraper .owl-pagination {
+	bottom: 15px;
+	left: 0;
+	position: relative;
+	right: 0;
+	text-align: center;
+}
+/*--------------- ti slider Custom Buttons---------------*/
+.btn.btn-tislider, .btn.btn-tislider:hover, .btn.btn-tislider:focus {
+	outline: none;
+	margin: 20px auto;
+	letter-spacing: 1px;
+}
+.btn.btn-tislider-two {
+	outline: none;
+	letter-spacing: 1px;
+}
+#consultup-slider .btn:last-child {
+	margin-left: 15px;
+}
+/*---------------------------------------
+	3.2.consultup-section      
+-----------------------------------------*/
+.consultup-section {
+	padding: 80px 0;
+	margin: 0;
+}
+.consultup-section h1 {
+	font-weight: bold;
+}
+#content {
+	padding: 60px 0;
+}
+.consultup-widget.widget_text h2 {
+	font-size: 22px;
+margin-bottom: 15px;
+position: relative;
+padding-bottom: 15px;
+font-weight: 600;
+}
+/*---------------------------------------
+	3.3.consultup-heading        
+-----------------------------------------*/
+.consultup-heading {
+	margin-bottom: 20px;
+	text-align: center;
+	position: relative;
+}
+.consultup-heading h1 {
+	font-size: 26px;
+	font-weight: bold;
+}
+.consultup-heading h3 {
+	font-size: 36px;
+	font-weight: 900;
+}
+.consultup-heading .consultup-heading-inner {
+	position: relative;
+	display: inline-block;
+	margin-bottom: 0;
+	padding: 0;
+	line-height: 40px;
+	width: auto;
+	letter-spacing: 1px;
+}
+.consultup-heading .consultup-heading-inner i {
+	display: block;
+	font-size: 20px;
+	height: 35px;
+	line-height: 35px;
+	position: absolute;
+	text-align: center;
+	bottom: -20px;
+	width: 30px;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+}
+.consultup-heading-bor-bt h5 {
+	position: relative;
+	font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+/*---------------------------------------
+	3.4.consultup-sercive        
+-----------------------------------------*/
+.consultup-service-section {
+	position: relative;
+	padding: 80px 0;
+}
+.consultup-service {
+	cursor: pointer;
+	margin-bottom: 30px;
+	position: relative;
+	z-index: 12;
+	overflow: hidden;
+	border-width: 1px;
+	border-style: solid;
+}
+.consultup-service .consultup-service-inner {
+	padding: 30px;
+}
+.consultup-service .consultup-service-inner-img {
+	margin: -30px -30px 0 -30px;
+}
+.consultup-service:hover {
+	transition: All 1s ease-out;
+	-webkit-transition: All 1s ease-out;
+	-moz-transition: All 1s ease-out;
+	-o-transition: All 1s ease-out;
+}
+.consultup-service a {
+	text-decoration: none;
+	z-index: 15;
+	position: relative;
+}
+.consultup-service-inner .ser-icon {
+	border-radius: 2%;
+	height: 80px;
+	padding-top: 10px;
+	transition: color 0s ease 0s, all 250ms ease 0s;
+	width: 80px;
+}
+.consultup-service.text-right .ser-icon {
+	margin: auto 0 auto auto;
+}
+.consultup-service.text-center .ser-icon {
+	margin: 0 auto  0 auto;
+}
+.consultup-service-inner i {
+	font-size: 60px;
+	line-height: 80px;
+	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
+}
+.consultup-service-inner h3 {
+	transition: all 0.5s ease 0s;
+	padding: 0 0 6px 0;
+	display: inline-block;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 26px;
+	margin-bottom: 6px;
+}
+.consultup-service-inner p {
+	transition: all 0.5s ease 0s;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+.consultup-service-inner .btn-theme-two {
+	margin: 6px 0 0;
+	padding: 5px 18px;
+	transition: all 0.3s ease 0s;
+	border-width: 2px;
+	border-style: solid;
+}
+/*------ sercive-two -----*/
+#services .consultup-service.two {
+    margin-top: -80px;
+}
+.consultup-service.two {
+    position: relative;
+    overflow: hidden;
+    text-align: left;
+    border: inherit;
+}
+.consultup-service.two .img-box {
+    min-height: 250px;
+}
+.consultup-service.two .consultup-ser-two-inner {
+    opacity: 0.9;
+    width: 100%;
+    height: 100%;
+    padding: 20px 22px;
+    position: absolute;
+    left: 0;
+    bottom: -74%;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    transition: all 0.3s;
+}
+.container-fluid .consultup-service.two .consultup-ser-two-inner {
+    bottom: -84%;
+}
+.consultup-service.two:hover .consultup-ser-two-inner {
+    bottom: 0;
+    padding: 45px 22px;
+}
+.consultup-service.two .consultup-ser-two-inner h3 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #fff;
+    text-transform: capitalize;
+    margin: 0 0 1em;
+    position: relative;
+}
+.consultup-service.two .consultup-ser-two-inner h3 i {
+    font-size: 20px;
+    position: absolute;
+    right: 0;
+}
+.consultup-service.two .consultup-ser-two-inner p {
+    color: #fff;
+    margin: 0;
+}
+/*------ sercive-three -----*/
+.consultup-service.three {
+    box-shadow: 0px 10px 30px 0px rgba(205, 205, 205, 0.33);
+	transition: all .3s;
+	border: inherit;
+}
+.consultup-service.three {
+    box-shadow: 0px 10px 30px 0px rgba(205, 205, 205, 0.33);
+	transition: all .3s;
+	border: inherit;
+}
+.consultup-service.three .consultup-service-inner {
+    padding: 40px 30px;
+}
+.consultup-service.three.text-right .img-responsive {
+	margin: auto 0 auto auto;
+}
+.consultup-service.three.text-center .img-responsive {
+	margin: 0 auto  0 auto;
+}
+.consultup-service.three h3 {
+    font-size: 22px;
+}
+.consultup-service.three .consultup-service-inner-img {
+    padding: 20px 0 20px 0;
+    margin: auto;
+}
+.consultup-service.three::before {
+    position: absolute;
+    content: '';
+    left: 0px;
+    bottom: 0px;
+    height: 3px;
+    width: 0px;
+    transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -webkit-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+}
+.consultup-service.three:hover::before, .consultup-service.three:hover::after {
+    width: 50%;
+}
+.consultup-service.three::after {
+    position: absolute;
+    content: '';
+    right: 0px;
+    bottom: 0px;
+    height: 3px;
+    width: 0px;
+    transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -webkit-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+}
+.consultup-service.three:hover {
+    box-shadow: 0px 0px 25px rgba(0,0,0,0.15);
+}
+.consultup-service.three .btn-theme {
+	font-size: 14px; 
+	font-weight: 600;
+	background: inherit;
+	border-width: 0 0 1px 0;
+	border-style: solid;
+	border-radius: 0;
+	padding: 0 0 6px 0;
+	line-height: 1;
+	text-transform: uppercase;
+	transition: all 500ms ease;
+}
+.consultup-service.three .btn-theme:hover {
+	box-shadow: inherit;
+}
+/*---------------------------------------
+	3.12.consultup-calltoaction        
+-----------------------------------------*/
+.consultup-calltoaction {
+	height: 100%;
+	overflow: hidden;
+	width: 100%;
+	padding: 0;
+	background-image: url(images/calltoaction.jpg);
+	background-size: cover;
+}
+.consultup-calltoaction .overlay {
+	height: 100%;
+	position: relative;
+	width: 100%;
+	padding: 70px 0;
+}
+.consultup-calltoaction-box-icon {
+	float: left;
+	display: inline-block;
+	margin-right: 25px;
+	width: 50px;
+}
+.consultup-calltoaction-box-icon i {
+	height: 50px;
+	line-height: 70px;
+	text-align: center;
+	width: 50px;
+	font-size: 50px;
+}
+.consultup-calltoaction-box-info h5 {
+	line-height: 40px;
+	font-weight: 600;
+	font-size: 48px;
+}
+.consultup-calltoaction-box-info p {
+	font-size: 16px;
+}
+.consultup-calltoaction .btn {
+	margin-top: 10px;
+}
+
+/*--------------- consultup-callout text---------------*/
+.consultup-callout .consultup-callout-inner {
+	width: 85%;
+}
+.consultup-callout h3 {
+	font-size: 40px;
+	line-height: 50px;
+}
+.consultup-callout .consultup-callout-inner.text-left, .consultup-callout .consultup-callout-inner.text-right {
+	float: none;
+}
+.consultup-sidebar {
+	margin: 0;
+}
+.text-xs {
+	text-align: center;
+}
+.text-center-xs {
+	text-align: center;
+}
+
+.consultup-callout .overlay {
+    height: 100%;
+    position: relative;
+    width: 100%;
+    padding: 130px 0;
+}
+/*---------------------------------------
+	3.14.consultup-testimonials  
+-----------------------------------------*/
+.testimonials-section {
+	height: 100%;
+	overflow: hidden;
+	width: 100%;
+	padding: 0;
+}
+.testimonials-section .overlay {
+	height: 100%;
+	position: relative;
+	width: 100%;
+	padding: 80px 0;
+}
+.content-testimonials {
+	margin: 0 auto;
+	border-radius: 4px;
+}
+.testimonials_qute .testimonials_qute {
+	float: left;
+	width: 100%;
+	padding: 25px 25px 15px;
+}
+.testimonials_qute .sub-qute {
+	display: block;
+	padding-bottom: 20px;
+	border-radius: 0;
+	padding: 20px;
+	position: relative;
+	float: left;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.04);
+}
+.testimonials_qute .sub-qute h5 {
+	font-size: 18px;
+	font-weight: 800;
+	margin-bottom: 30px;
+}
+.testimonials_qute .sub-qute i {
+	font-size: 20px;
+	line-height: 60px;
+}
+.testimonials_qute .sub-qute .context {
+	padding: 15px 20px 30px 20px;
+	margin-bottom: 6px;
+	position: relative;
+}
+.testimonials_qute .consultup-client-qute {
+    margin-top: 25px;
+}
+.testimonials_qute .consultup-client {
+	width: 80px;
+	height: 80px;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 50%;
+	padding: 4px;
+	vertical-align: middle;
+	display: inline-block;
+}
+.testimonials_qute .consultup-client img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 50%;
+	display: block;
+	overflow: hidden;
+	transform-style: initial;
+	margin: auto;
+}
+.consultup-client-qute .consultup-client-info {
+	vertical-align: middle;
+	display: inline-block;
+	text-align: left;
+	margin: 0 10px;
+	max-width: calc(100% - 120px);
+}
+.testimonials_qute .user-title {
+	margin-bottom: 2px;
+	margin-top: 0;
+	font-size: 14px;
+	font-weight: 700;
+}
+.testimonials_qute .user-designation {
+	margin-bottom: 0;
+	position: relative;
+	left: 0;
+	line-height: 25px;
+	font-size: 14px;
+}
+.consultup-testi-two .item-inner {
+	margin-bottom: 30px;
+}
+.consultup-testi-two .item-inner {
+  position: relative;
+  height: 380px;
+  overflow: hidden;
+}
+.consultup-testi-two .item-inner:hover .item-content {
+  margin-top: 15px;
+}
+.consultup-testi-two .item-inner:hover .item-mask {
+  background-color: rgba(0, 0, 0, 0);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0) 0), to(rgba(0, 0, 0, 0.8) 35%));
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.8) 35%);
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.8) 35%);
+  background: -ms-linear-gradient(top, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.8) 35%);
+  background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.8) 35%);
+}
+.consultup-testi-two .item-inner {
+  background-size: cover;
+}
+.consultup-testi-two .item-mask {
+  background-color: rgba(0, 0, 0, 0);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0) 0), to(rgba(0, 0, 0, 0.8) 85%));
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.8) 85%);
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.8) 85%);
+  background: -ms-linear-gradient(top, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.8) 85%);
+  background: -o-linear-gradient(top, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0.8) 85%);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+.consultup-testi-two .item-content {
+  padding: 45px;
+  color: #fff;
+  position: absolute;
+  width: 100%;
+  height: 380px;
+  left: 0;
+  -webkit-transition: margin-top 0.4s ease-in-out;
+  -moz-transition: margin-top 0.4s ease-in-out;
+  -ms-transition: margin-top 0.4s ease-in-out;
+  -o-transition: margin-top 0.4s ease-in-out;
+  margin-top: 230px;
+}
+/*---------------------------------------
+	3.11.consultup-blog   
+-----------------------------------------*/
+.consultup-blog-section .overlay {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	padding: 80px 0;
+}
+.consultup-blog-post-box {
+	margin-bottom: 40px;
+	padding: 0;
+}
+.consultup-blog-post-box .small {
+	font-size: 15px;
+    line-height: 25px;
+    font-weight: 400;
+    padding: 30px 0 0 0;
+}
+.consultup-blog-post-box .small > p {
+	margin-bottom: 20px;
+}
+.consultup-blog-thumb {
+	position: relative;
+    width: 100%;
+    margin-bottom: 10px;
+    float: left;
+    transition: all .3s ease-out;
+	min-height: 45px;
+}
+.consultup-blog-thumb img {
+	position: relative;
+	max-width: 100%;
+	float: left;
+	height: auto;
+	border-radius: 3px;
+}
+.consultup-blog-date {
+	padding: 0;
+    font-size: 12px;
+    margin-right: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.consultup-blog-date span {
+	font-size: 16px;
+}
+.consultup-blog-date .h3 {
+	line-height: 28px;
+}
+.consultup-blog-author {
+	font-size: 16px;
+	font-weight: 800;
+	width: 65px;
+	height: 65px;
+	left: 0;
+	right: 0;
+	padding: 2px;
+	position: absolute;
+	text-align: center;
+	bottom: 0;
+	margin: 0 auto -30px auto;
+	z-index: 999;
+}
+.consultup-blog-author img {
+	max-width: 100%;
+	border-radius: 100%;
+}
+.consultup-blog-post-box h1.title {
+	font-size: 22px;
+    line-height: 28px;
+    position: relative;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.consultup-blog-category {
+    min-height: 10px;
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 15px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    border-radius: 25px;
+    z-index: 999;
+    padding: 0 10px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.consultup-blog-category-left {
+    min-height: 10px;
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 15px;
+    position: absolute;
+    top: 15px;
+    left: 0px;
+    border-radius: 25px;
+    z-index: 999;
+    padding: 0 10px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.consultup-blog-category a, .consultup-blog-category-left a {
+    display: inline;
+    font-size: 12px;
+    padding-left: 5px;
+    line-height: 10px;
+    text-transform: uppercase;
+	font-weight: 400;
+	letter-spacing: 1px;
+	cursor: pointer;
+}
+.consultup-blog-category a:first-child, .consultup-blog-category-left a:first-child {
+	padding-left: 0;
+}
+.consultup-blog-meta {
+	padding: 0;
+    margin-bottom: 15px;
+    min-height: 18px
+}
+.consultup-blog-meta a {
+	display: inline;
+    font-weight: 500;
+    font-size: 12px;
+    padding: 0;
+    line-height: 16px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.consultup-blog-meta a.au-icon {
+    margin-right: 14px;
+}
+.consultup-blog-meta i {
+	padding-right: 4px;
+}
+.btn-blog {
+	padding: 10px 20px;
+	border-radius: 30px;
+	border-width: 2px;
+	border-style: solid;
+	background: transparent;
+	font-size: 14px;
+}
+.btn-blog:hover {
+	transition: all 0.3s ease 0s;
+}
+.consultup-info-author-block {
+	border-width: 1px;
+    border-style: solid;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    padding: 20px 20px 0px 20px;
+}
+.consultup-info-author-block a {
+	font-size: 24px;
+}
+.consultup-info-author-block .row {
+	margin: 0;
+}
+.consultup-info-author-block h4 {
+	font-size: 24px;
+	font-weight: 700;
+}
+.consultup-info-author-block h4 span {
+	font-size: 13px;
+	padding-right: 5px;
+}
+.consultup-info-author-block h4 span i {
+	padding-right: 5px;
+}
+.consultup-info-author-block .consultup-author-pic img {
+	margin: 0 25px 15px 0;
+	float: left;
+	border-radius: 50%;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+	width: 80px;
+    height: 80px;
+}
+.consultup-info-author-block .consultup-info-author-social {
+	font-size: 24px;
+	padding: 0;
+}
+.consultup-info-author-block .consultup-info-author-social li {
+	text-align: center;
+	width: 35px;
+	height: 35px;
+	border-radius: 10px;
+	margin-right: 4px;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+.consultup-info-author-block .consultup-info-author-social li a {
+	font-size: 16px;
+	line-height: 38px;
+} 
+.comment-reply-title {
+	font-size: 16px;
+	text-transform: uppercase;
+}
+.comment-form label {
+	width: 100%;
+}
+.comment-form-comment textarea {
+	width: 100%;
+	height: 100px;
+	border: 2px solid #eef3fb;
+}
+.comment-form-author, .comment-form-email {
+    width: 48%;
+    float: left;
+}
+.comment-form-url {
+    width: 48%;
+}
+.comment-form-email {
+    margin-left: 30px;
+}
+.comment-form-author input[type="text"], .comment-form-email input[type="email"], .comment-form-url input[type="url"] {
+    width: 100%;
+}
+.comment_section .comment-reply-link {
+	    border-radius: 50%;
+    margin-left: 10px;
+    transition: all 0.3s ease 0s;
+    line-height: 20px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    display: inline-block;
+    text-align: center;
+}
+.consultup-comments a i {
+}
+.consultup-comments h4 {
+	font-size: 14px;
+	font-weight: 500;
+	margin-top: 0;
+}
+.consultup-comments h4 span {
+	font-size: 12px;
+	padding-left: 7px;
+}
+.consultup-comments .btn {
+	margin-left: 5px;
+}
+.consultup-comments .media {
+	margin-top: 0;
+}
+.consultup-comments .comment .media-body > p:last-child {
+	border-width: 0 0 1px 0;
+	border-style: solid;
+	margin-bottom: 30px;
+	margin-top: 0;
+}
+.consultup-comments li .media-body > .small {
+	border-bottom: none!important;
+	padding: 0;
+}
+.consultup-comments li .media-body > p {
+	border-width: 0 0 1px 0;
+	border-style: solid;
+	padding: 5px 0px 20px 5px;
+	margin-bottom: 20px;
+}
+.consultup-comments li .media .media {
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.consultup-comments li:last-child .media-body > p {
+	border-bottom: none;
+	padding: 0;
+}
+.consultup-comments .media-left img {
+	height: 64px;
+	width: 64px;
+	border-radius: 50%;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+.consultup-comments .comment-list li {
+	margin-bottom: 20px;
+	padding: 20px;
+	border-width: 0 0 0 1px;
+	border-style: solid;
+}
+.consultup-blog-thumb > .responsive-video {
+	z-index: 9;
+	min-height: 220px;
+}
+.blog-slider {
+	position: relative;
+	z-index: 9;
+	margin-bottom: -34px;
+}
+.blog-slider .owl-controls .owl-buttons div {
+	margin: 5px;
+	font-size: 16px;
+	opacity: 0.8;
+	display: inline-block;
+	padding: 0 8px;
+	opacity: 0;
+	transition: all 0.4s ease 0s;
+	border-width: 1px;
+	border-style: solid;
+	line-height: 32px;
+	border-radius: 50%;
+	width: 35px;
+	height: 35px;
+}
+.blog-slider .owl-controls .owl-buttons div:hover {
+	border-width: 1px;
+	border-style: solid;
+}
+.blog-slider .owl-controls .owl-buttons div i {
+}
+.blog-slider:hover .owl-controls .owl-buttons div {
+	opacity: 1;
+}
+.blog-slider .owl-controls .owl-buttons div.owl-prev {
+	position: absolute;
+	left: 20px;
+	top: 40%;
+}
+.blog-slider .owl-controls .owl-buttons div.owl-next {
+	position: absolute;
+	right: 20px;
+	top: 40%;
+}
+.blog-slider .owl-controls .owl-buttons div.owl-prev {
+	left: 20px;
+}
+.blog-slider .owl-controls .owl-buttons div.owl-next {
+	right: 20px;
+}
+.blog-slider .owl-pagination {
+	padding-bottom: 10px;
+}
+.blog-slider .owl-controls .owl-page {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 0 5px;
+}
+.blog-slider .owl-controls .owl-page span {
+	display: block;
+	width: 8px;
+	height: 8px;
+	border-radius: 50px;
+}
+.blog-slider .owl-controls .owl-page span.owl-numbers {
+	height: auto;
+	width: auto;
+	padding: 2px 10px;
+	font-size: 12px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+}
+.blog-slider .owl-pagination {
+	bottom: 30px;
+	left: 0;
+	position: relative;
+	right: 0;
+	text-align: center;
+}
+
+.consultup-blog-post-box img{ max-width: 100%; }
+
+/* --------------------------------------
+=========================================
+	4.consultup-breadcrumb-section
+=========================================
+-----------------------------------------*/
+.consultup-breadcrumb-section {
+	background: url(images/sub-header.jpg) no-repeat fixed 0 0 /cover;
+	height: 100%;
+	margin: 0 0 0px;
+	overflow: hidden;
+	padding: 0;
+	width: 100%;
+	box-shadow: 0 0 5px 0 #aaaaaa;
+}
+.consultup-breadcrumb-section .overlay {
+	background: linear-gradient(to bottom, #051b44 0%, rgba(5, 27, 68, 0.5) 50%, rgba(5, 27, 68, 0.8) 100%);
+	height: 100%;
+	padding: 300px 0 100px 0;
+	position: relative;
+	width: 100%;
+}
+.consultup-breadcrumb-section .consultup-blog-category {
+	position: inherit;
+	margin-top: 15px;
+	left: 0;
+}
+.consultup-breadcrumb-section .consultup-blog-date {
+    margin-right: 5px;
+}
+.consultup-breadcrumb-title {
+	text-align: left;
+	padding: 0;
+}
+.consultup-breadcrumb-title h1 {
+	font-size: 40px;
+	font-weight: 700;
+	margin: 0;
+	line-height: 43px;
+	padding-bottom: 0px;
+	color:#fff;
+}
+.consultup-page-breadcrumb {
+	list-style: none outside none;
+	margin-bottom: 12px;
+	padding: 0;
+	text-align: center;
+	font-size: 15px;
+	line-height: 20px;
+}
+.consultup-page-breadcrumb > li {
+	display: inline-block;
+}
+.consultup-page-breadcrumb > li + li:before {
+	content: "\f178";
+	font-family: fontawesome;
+	padding: 0 5px;
+}
+
+.taxonomy-description {
+line-height: 40px;
+color: #fff;
+}
+
+/*---------------------------------------
+	3.10.consultup-callout      
+-----------------------------------------*/
+.consultup-callout {
+	background: url(images/callout-back.jpg) no-repeat fixed 0 0 /cover;
+	height: 100%;
+	overflow: hidden;
+	width: 100%;
+	padding: 0;
+}
+.consultup-callout .overlay {
+	height: 100%;
+	position: relative;
+	width: 100%;
+	padding: 130px 0;
+}
+.consultup-callout .consultup-callout-inner {
+	margin: 0 auto;
+	width: 66.6667%;
+	padding: 0 15px;
+}
+.consultup-callout .consultup-callout-inner.text-left {
+	float: left;
+}
+.consultup-callout .consultup-callout-inner.text-right {
+	float: right;
+}
+.consultup-callout h3 {
+	font-size: 40px;
+	font-weight: 800;
+	line-height: 48px;
+	text-shadow: 1px 3px 8px rgba(0, 0, 0, 0.17);
+}
+.consultup-callout p {
+	font-size: 18px;
+	line-height: 30px;
+}
+.consultup-callout .btn:last-child {
+	margin-left: 15px;
+}
+
+
+/*---------------------------------------
+	3.5.consultup-portfolio       
+-----------------------------------------*/
+#portfolio-sec .overlay {
+	padding: 80px 0;
+    margin: 0;
+}
+.consultup-portfolio-box {
+	border-style: solid;
+	border-width: 1px;
+	margin-bottom: 30px;
+	padding: 0 15px 15px 15px;
+	position: relative;
+	text-align: left;
+	border-radius: 0;
+}
+.consultup-portfolio-box:hover {
+	transition: all 0.3s ease 0s;
+}
+.consultup-portfolio-box:hover figure {
+	transition: all 0.2s ease 0s;
+}
+.consultup-portfolio-box figure {
+	position: relative;
+	margin: 0 -15px 0 -15px;
+	transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
+}
+.consultup-portfolio-box figure img {
+	min-height: 175px;
+}
+.consultup-portfolio-box .overlay {
+	height: 91%;
+	left: 15px;
+	opacity: 0;
+	position: absolute;
+	text-align: center;
+	top: 10px;
+	transition: all 0.4s ease-in-out 0s;
+	width: 92%;
+	bottom: 0;
+	display: inline-block;
+}
+.consultup-portfolio-box:hover .overlay {
+	opacity: 1;
+}
+.consultup-portfolio-box .overlay .btn {
+	margin-right: 5px;
+	padding: 5px 14px;
+	display: inline-block;
+	top: 38%;
+	font-size: 22px;
+}
+.consultup-portfolio-box .overlay .btn:focus {
+	outline: medium none;
+}
+.consultup-portfolio-box h4 a {
+	font-size: 18px;
+	font-weight: 500;
+	letter-spacing: 0px;
+	line-height: 20px;
+	padding-top: 8px;
+}
+.consultup-portfolio-category, .consultup-portfolio-shortext {
+	margin-bottom: 10px;
+}
+.consultup-portfolio-category a {
+	display: inline-block;
+	line-height: 16px;
+	padding-right: 5px;
+}
+#portfolio .owl-controls .owl-buttons {
+	transition: all 0.3s ease 0s;
+}
+#portfolio .owl-controls .owl-buttons div {
+	margin: 5px;
+	font-size: 16px;
+	opacity: 0.8;
+	display: inline-block;
+	opacity: 0;
+	transition: all 0.4s ease 0s;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 50px;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+#portfolio .owl-controls .owl-buttons div i {
+}
+#portfolio:hover .owl-controls .owl-buttons div {
+	opacity: 1;
+}
+#portfolio .owl-controls .owl-buttons div.owl-prev {
+	position: absolute;
+	left: 20px;
+	top: 40%;
+}
+#portfolio .owl-controls .owl-buttons div.owl-next {
+	position: absolute;
+	right: 20px;
+	top: 40%;
+}
+#portfolio .owl-controls .owl-buttons div.owl-prev {
+	left: 20px;
+}
+#portfolio .owl-controls .owl-buttons div.owl-next {
+	right: 20px;
+}
+#portfolio .owl-pagination {
+	padding-bottom: 10px;
+	text-align: center;
+}
+#portfolio .owl-page {
+	border-radius: 10px;
+	display: inline-block;
+	height: 5px;
+	margin: 2px;
+	width: 5px;
+	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+#portfolio .owl-page.active {
+	height: 8px;
+	width: 8px;
+}
+.simplefilter li {
+	display: inline-block;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 30px;
+	padding: 5px 35px;
+	transition: all 0.4s ease-in-out 0s;
+	cursor: pointer;
+	margin: 0;
+	border-radius: 30px;
+}
+.consultup-portfolio-block {
+    margin-bottom: 40px;
+}
+.consultup-portfolio-block img {
+    width: 100%;
+    border-radius: 5px;
+}
+.consultup-portfolio-block {
+    position: relative;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-top: 40px;
+}
+.consultup-portfolio-block .inner-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,26,87,0.6);
+    border-radius: 5px;
+    -webkit-transform: scale(1,0);
+    transform: scale(1,0);
+    transition: all .3s ease-in-out;
+}
+.consultup-portfolio-block .inner-content .text {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 20px;
+    padding: 0 28px;
+    opacity: 0;
+    transition-delay: 0.2s;
+    -webkit-transform: translateY(100px);
+    transform: translateY(100px);
+}
+.consultup-portfolio-block .inner-content .text h5 {
+	font-size: 22px;
+font-weight: 700;
+color: #fff;
+}
+.consultup-portfolio-block .inner-content .text p {
+    font-size: 17px;
+    color: #fff;
+}
+.consultup-portfolio-block .inner-content .text .text-left {
+	float: left;
+}
+.consultup-portfolio-block .inner-content .text .btn {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 20px;
+    margin-top: 7px;
+    float: right;
+    padding: 0;
+}
+.consultup-portfolio-block:hover .inner-content {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+.inner-content .text {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1;
+}
+.consultup-portfolio-block:hover .inner-content .text {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1;
+}
+/* --------------------------------------
+=========================================
+	5.consultup-sidebar
+=========================================
+-----------------------------------------*/
+.consultup-sidebar {
+}
+.consultup-sidebar a {
+	transition: all 0.3s ease 0s;
+}
+.consultup-sidebar .consultup-widget .btn {
+	padding: 2px 12px;
+	border: none;
+	border-radius: 0;
+	height: 40px;
+}
+.consultup-sidebar .consultup-widget {
+	margin-bottom: 30px;
+    padding: 10px 20px;
+    border-radius: 0;
+    background: #fff;
+    border-width: 1px;
+    border-style: solid;
+}
+.consultup-sidebar .consultup-widget ul {
+	padding: 0;
+	list-style: none;
+}
+.consultup-sidebar .consultup-widget ul li:last-child {
+	border: none;
+}
+.consultup-sidebar .consultup-widget ul li {
+	display: block;
+	letter-spacing: 0.2px;
+	line-height: 22px;
+	margin: 0 0 10px;
+	overflow: hidden;
+	padding: 0;
+	border-width: 0 0 1px 0;
+	border-style: solid;
+}
+.consultup-sidebar .consultup-widget h2 {
+	font-size: 16px;
+	line-height: 20px;
+}
+.consultup-sidebar .consultup-widget h6 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    padding: 12px 0 0 0;
+    position: relative;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+}
+.consultup-sidebar .consultup-widget h6:before{
+	width: 40px;
+height: 2px;
+background: #1151d3;
+content: '';
+position: absolute;
+bottom: -10px;
+}
+.consultup-sidebar .consultup-widget ul li {
+	padding: 10px 0;
+	position: relative;
+	transition: all 0.4s ease-in-out 0s;
+}
+.consultup-sidebar .consultup-widget ul li a:hover {
+	padding-left: 10px;
+	transition: all 0.4s ease-in-out 0s;
+}
+.consultup-sidebar .consultup-widget ul.menu li .sub-menu {
+	margin-left: 15px;
+}
+.consultup-sidebar .consultup-widget ul.menu li .sub-menu li {
+	border-bottom: none;
+	padding: 10px 0 0;
+}
+.consultup-sidebar .consultup-widget.widget_search .btn {
+	border: medium none;
+	border-radius: 0 4px 4px 0;
+	height: 34px;
+	line-height: 25px;
+	padding: 5px 12px;
+	transition: all 0.3s ease 0s;
+}
+.consultup-sidebar .consultup-category-widget ul li {
+	padding: 10px 0;
+	position: relative;
+	transition: all 0.4s ease-in-out 0s;
+	border-width: 0 0 1px 0;
+	border-style: solid;
+}
+.consultup-sidebar .consultup-category-widget ul li a:hover {
+	padding-left: 10px;
+	transition: all 0.4s ease-in-out 0s;
+}
+.consultup-sidebar .consultup-widget .consultup-widget-tags, .consultup-sidebar .consultup-widget .tagcloud {
+	margin: 0 0 10px;
+	overflow: hidden;
+	padding: 0;
+}
+.consultup-sidebar .consultup-widget .consultup-widget-tags a, .consultup-sidebar .consultup-widget .tagcloud a {
+	cursor: pointer;
+    display: inline-block;
+    font-size: 10px !important;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0 5px 9px 0;
+    padding: 6px 12px;
+    transition: all 0.4s ease-in-out 0s;
+    border-radius: 3px;
+    text-transform: capitalize;
+}
+.consultup-sidebar .consultup-widget-tags a:hover, .consultup-sidebar .consultup-widget .tagcloud a:hover {
+	transition: all 0.4s ease-in-out 0s;
+}
+.consultup-sidebar .consultup-widget .consultup-twitter-feed li {
+	margin: 2px 0;
+	padding-bottom: 5px;
+	padding-left: 20px;
+	position: relative;
+}
+.consultup-sidebar .consultup-widget .consultup-twitter-feed li::before {
+	font-family: "FontAwesome";
+	position: absolute;
+	left: 0;
+	top: 4px;
+	bottom: 0;
+	content: "\f099";
+}
+.consultup-sidebar .consultup-widget .consultup-twitter-feed li a {
+	padding-right: 3px;
+}
+.consultup-sidebar .consultup-widget .consultup-twitter-feed li a:hover {
+	padding-left: 0;
+}
+.consultup-sidebar .consultup-widget .consultup-twitter-feed li .twitter-text {
+	display: table;
+}
+.consultup-sidebar .consultup-widget .consultup-twitter-feed li .date-twitter {
+	font-size: 12px;
+}
+.consultup-sidebar .consultup-opening-hours li i {
+	font-size: 14px;
+	padding-right: 10px;
+}
+.consultup-sidebar .consultup-widget .consultup-widget-address li {
+	clear: both;
+}
+.consultup-sidebar .consultup-widget .consultup-widget-address li span.icon-addr {
+	height: 25px;
+	line-height: 25px;
+	margin: 0 8px 8px 0;
+	text-align: center;
+	width: 25px;
+	display: inline-block;
+	float: left;
+	border-radius: 30px;
+}
+.consultup-sidebar .consultup-widget .consultup-widget-address li span.icon-addr i {
+	font-size: 14px;
+}
+.consultup-sidebar .consultup-widget .consultup-instagram li {
+	display: inline-block;
+	margin: -13px 0;
+	border-radius: 2px;
+}
+.consultup-sidebar .consultup-widget .consultup-instagram li a:hover {
+	padding-left: 0;
+}
+.consultup-sidebar .consultup-widget .consultup-instagram li a img {
+	width: 70px;
+	height: 70px;
+	border-radius: 2px;
+}
+.consultup-sidebar .consultup-widget .consultup-instagram li a img:hover {
+	opacity: 0.7;
+}
+.consultup-sidebar .consultup-widget .consultup-social {
+	padding: 10px 0px;
+	margin: 0;
+}
+.consultup-sidebar .consultup-widget .consultup-social li {
+	display: inline-block;
+	border: inherit;
+	padding: 0;
+}
+.consultup-sidebar .consultup-widget .consultup-social li span.icon-soci {
+	display: inline-block;
+	float: left;
+	height: 32px;
+	line-height: 32px;
+	margin: 8px 12px 8px 8px;
+	text-align: center;
+	width: 32px;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 50%;
+}
+.consultup-sidebar .consultup-widget .consultup-social li span.icon-soci:hover {
+	border-width: 1px;
+	border-style: solid;
+	transition: all 0.4s ease-in-out 0s;
+}
+.consultup-sidebar .consultup-widget .consultup-social li span.icon-soci:hover a {
+	padding-left: 0;
+}
+.consultup-sidebar .consultup-widget .consultup-social li span.icon-soci i {
+	font-size: 16px;
+}
+.consultup-sidebar .consultup-widget-payment a {
+	font-size: 30px;
+}
+.consultup-sidebar .consultup-widget-tollfree li {
+	font-size: 20px;
+}
+.consultup-sidebar .consultup-widget-tollfree li i {
+	font-size: 36px;
+	padding-right: 15px;
+}
+.consultup-sidebar .consultup-widget .consultup-widget-quote .form-control {
+	border-radius: 0;
+	margin-bottom: 20px;
+	font-size: 12px;
+}
+.consultup-sidebar .consultup-widget .consultup-widget-quote .btn {
+	border-radius: 0;
+	padding: 5px 35px;
+}
+/*--consultup-mailchimp--*/ 
+.consultup-sidebar .consultup-mailchimp-widget .btn {
+	border-radius: 0;
+	transition: all 0.3s ease 0s;
+	padding: 5px 35px;
+}
+/*--consultup-blog-post end--*/ 
+.consultup-sidebar .consultup-widget .consultup-blog-post {
+	margin-bottom: 0;
+	margin-top: 0 !important;
+	overflow: hidden;
+	padding-bottom: 20px;
+}
+.consultup-sidebar .consultup-widget .consultup-post-area {
+	display: block;
+	float: left;
+	margin-left: 0;
+	margin-right: 15px;
+}
+.consultup-sidebar .consultup-widget .consultup-blog-post .consultup-post-area img {
+	border-radius: 3px;
+	display: block;
+	height: 58px;
+	max-width: 80px;
+	transition: all 0.3s ease-in-out 0s;
+}
+.consultup-sidebar .consultup-widget .consultup-blog-post h3 {
+	display: block;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 22px;
+	margin-bottom: 5px;
+	margin-top: -5px;
+	word-wrap: break-word;
+}
+.consultup-widget .consultup-blog-post span {
+	display: block;
+	font-size: 12px;
+	line-height: 20px;
+	margin-right: 8px;
+	font-style: italic;
+}
+/*--consultup-blog-post end--*/ 
+/*--calendar_wrap--*/ 
+.consultup-sidebar .consultup-widget .calendar_wrap table {
+	width: 100%;
+	font-size: 11px;
+}
+.consultup-sidebar .consultup-widget .calendar_wrap table caption {
+	border-radius: 2px;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 35px;
+	margin-bottom: 0;
+	padding: 5px 12px;
+	text-align: center;
+	border-width: 1px;
+	border-style: solid;
+}
+.consultup-sidebar .calendar_wrap table thead th {
+	border-width: 1px;
+	border-style: solid;
+}
+.consultup-sidebar .calendar_wrap table tbody td:hover, .consultup-sidebar .calendar_wrap table tbody #today:hover {
+	transition: all 0.3s ease 0s;
+}
+.consultup-sidebar .calendar_wrap table tfoot {
+	border-width: 1px;
+	border-style: solid;
+}
+.consultup-sidebar .consultup-widget .calendar_wrap table thead th {
+	text-align: center;
+	padding: 6px 0;
+}
+.consultup-sidebar .consultup-widget .calendar_wrap table tbody td {
+	line-height: 2.5em;
+	transition: background 0.15s ease 0s;
+	text-align: center;
+	border-width: 1px;
+	border-style: solid;
+}
+.consultup-sidebar .consultup-widget .calendar_wrap table tfoot {
+	font-size: 11px;
+}
+.consultup-sidebar .consultup-widget .calendar_wrap table tfoot tr td#prev {
+	padding: 5px;
+	text-transform: uppercase;
+}
+.consultup-sidebar .consultup-widget .calendar_wrap table tfoot tr td#next {
+	padding: 5px;
+	text-align: right;
+	text-transform: uppercase;
+}
+/*--calendar_wrap end--*/ 
+.consultup-sidebar .consultup-widget .textwidget select, .consultup-sidebar .consultup-widget .textwidget img {
+	width: 100%;
+}
+/*----woocommerce footer-widget----*/
+.consultup-sidebar .consultup-widget.widget_product_search .btn {
+	padding: 2px 12px;
+	height: 40px;
+	border-radius: 0;
+	margin-left: -1px;
+}
+/*----left-menu-widget----*/
+.consultup-sidebar .consultup-left-menu-widget ul li {
+	border-radius: 0;
+	margin: 0;
+	padding: 10px 20px;
+}
+.consultup-sidebar .consultup-left-menu-widget ul li:hover, .consultup-sidebar .consultup-left-menu-widget ul li.active {
+	border-radius: 0 30px 30px 0;
+}
+/* --------------------------------------
+=========================================
+	6.consultup-error page
+=========================================
+-----------------------------------------*/
+.consultup-error-404 h1 {
+	font-size: 100px;
+	line-height: 80px;
+}
+.consultup-error-404 h1 i {
+	padding: 5px;
+	text-shadow: 1px 3px 8px rgba(0, 0, 0, 0.17);
+}
+.consultup-error-404 h4 {
+	line-height: 40px;
+}
+.consultup-error-404 p {
+	line-height: 30px;
+}
+/* --------------------------------------
+=========================================
+	7.consultup-footer
+=========================================
+-----------------------------------------*/
+.consultup-footer-top-area {
+	padding: 30px 0;
+	text-align: center;
+}
+footer .consultup-footer-top-area h6 {
+	font-size: 18px;
+	font-weight: 700;
+	margin: 0 0 30px 0;
+	position: relative;
+}
+.consultup-footer-top-area .consultup-widget-payment {
+	padding: 0;
+}
+.consultup-footer-top-area .consultup-widget-payment a {
+	margin-right: 5px;
+}
+.consultup-footer-top-area .consultup-app-widget .btn {
+	padding: 2px 12px;
+}
+.consultup-footer-top-area .consultup-app-widget .btn > i {
+	padding-right: 10px;
+}
+.consultup-footer-top-area .consultup-app-widget h5 a i {
+	font-size: 26px;
+}
+footer .consultup-footer-widget-area {
+	padding-top: 50px;
+	border-bottom: 1px solid rgba(71, 71, 71, 0.25);
+}
+footer .consultup-widget {
+	margin-bottom: 50px;
+}
+footer .consultup-widget:nth-child(4n+1) {
+	clear: both;
+}
+footer .consultup_contact_widget .col-md-12 {
+	padding: 0;
+}
+footer .consultup-widget .consultup-subscribe:hover, footer .consultup-widget .consultup-subscribe:focus {
+	transition: all 0.4s ease-in-out 0s;
+}
+footer .consultup-search-widget .btn {
+	padding: 1px 12px;
+	border-radius: 0;
+	height: 40px;
+}
+footer .consultup-widget.widget_search .btn {
+	border-width: 1px;
+	border-style: solid;
+	padding: 2px 12px;
+	height: 40px;
+	border-top-right-radius: 3px;
+}
+footer .consultup-widget.widget_search .btn-default, footer .consultup-widget.widget_search .btn-default:hover {
+	background-color: initial;
+}
+footer .consultup-widget.widget_search .btn:hover, footer .consultup-widget.widget_search .btn:focus {
+	border-width: 1px;
+	border-style: solid;
+	transition: all 0.4s ease-in-out 0s;
+}
+footer .consultup-widget h6 {
+	font-size: 19px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    padding-bottom: 12px;
+    position: relative;
+    text-transform: capitalize;
+}
+footer .consultup-widget ul {
+	padding: 0;
+	list-style: none;
+}
+footer .consultup-widget ul li {
+	display: block;
+	letter-spacing: 0.2px;
+	line-height: 22px;
+	margin: 0 0 10px;
+	overflow: hidden;
+	padding: 0;
+}
+footer .consultup-widget ul li a:hover {
+	transition: all 0.4s ease-in-out 0s;
+}
+footer .consultup-widget ul li:first-child {
+	padding-top: 0;
+}
+footer .consultup-widget ul li:last-child {
+	border-bottom: none;
+}
+footer .consultup-widget ul li {
+	margin: 0;
+	padding: 6px 0;
+	position: relative;
+}
+footer .consultup-widget ul li a {
+	transition: all 0.4s ease-in-out 0s;
+}
+footer .consultup-widget ul li a:hover {
+	padding-left: 10px;
+}
+footer .consultup-widget .list-unstyled li:first-child {
+	padding-top: 0;
+}
+footer .consultup-widget .list-unstyled li {
+	margin: 0;
+	padding: 10px 0;
+	position: relative;
+}
+footer .consultup-widget .list-unstyled li {
+	border-width: 1px;
+	border-style: solid;
+}
+footer .consultup-widget .list-unstyled li :last-child {
+	border-bottom: none;
+}
+footer .consultup-widget .list-unstyled li a:hover {
+	transition: all 0.4s ease-in-out 0s;
+}
+footer .consultup-widget .list-unstyled li a {
+	line-height: 25px;
+	transition: all 0.4s ease-in-out 0s;
+}
+footer .consultup-widget .list-unstyled li a:hover {
+	padding-left: 10px;
+}
+footer .consultup-widget .consultup-widget-tags, footer .consultup-widget .tagcloud {
+	margin: 0 0 10px;
+	overflow: hidden;
+	padding: 0;
+}
+footer .consultup-widget .consultup-widget-tags a, footer .consultup-widget .tagcloud a {
+	cursor: pointer;
+    display: inline-block;
+    font-size: 10px !important;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0 5px 9px 0;
+    padding: 6px 12px;
+    transition: all 0.4s ease-in-out 0s;
+    border-radius: 3px;
+    text-transform: capitalize;
+}
+footer .consultup-widget .consultup-widget-tags a:hover, footer .consultup-widget .tagcloud a:hover {
+	transition: all 0.4s ease-in-out 0s;
+}
+footer .consultup-widget .calendar_wrap table {
+	width: 100%;
+	font-size: 11px;
+}
+footer .consultup-widget .calendar_wrap table caption {
+	border-radius: 2px;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 35px;
+	margin-bottom: 0;
+	padding: 5px 12px;
+	text-align: center;
+	border-width: 1px;
+	border-style: solid;
+}
+footer .consultup-widget .calendar_wrap table thead th {
+	text-align: center;
+	padding: 6px 0;
+	border-width: 1px;
+	border-style: solid;
+}
+footer .consultup-widget .calendar_wrap table tbody td {
+	line-height: 2.5em;
+	transition: background 0.15s ease 0s;
+	text-align: center;
+	border-width: 1px;
+	border-style: solid;
+}
+footer .calendar_wrap table tbody #today:hover {
+	transition: all 0.3s ease 0s;
+}
+footer .calendar_wrap table tbody td:hover {
+	transition: all 0.3s ease 0s;
+}
+footer .consultup-widget .calendar_wrap table tfoot {
+	font-size: 11px;
+	border-width: 1px;
+	border-style: solid;
+}
+footer .consultup-widget .calendar_wrap table tfoot tr td#prev {
+	padding: 5px;
+	text-transform: uppercase;
+}
+footer .consultup-widget .calendar_wrap table tfoot tr td#next {
+	padding: 5px;
+	text-align: right;
+	text-transform: uppercase;
+}
+footer .consultup-widget .textwidget select, footer .consultup-widget .textwidget img {
+	width: 100%;
+}
+/*----woocommerce footer-widget----*/
+footer .consultup-widget.widget_product_search .btn {
+	padding: 2px 12px;
+	height: 40px;
+	border-radius: 0;
+	margin-left: -1px;
+}
+footer .consultup-widget .input-group-btn .btn {
+	border-radius: 0;
+	padding: 5px 35px;
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
+/*----contactform footer-widget----*/
+footer .consultup-widget .wpcf7-form .wpcf7-form-control {
+	border: none;
+}
+footer .consultup-footer-copyright {
+	padding: 25px 0 5px;
+}
+footer .consultup-footer-copyright p, footer .consultup-footer-copyright a {
+	font-size: 13px;
+	line-height: 45px;
+}
+footer .consultup-social-navigation .icon {
+    top: -8px;
+}
+footer .consultup-social {
+	padding: 0px;
+	margin: 0;
+}
+/*----woocommerce----*/
+/* woocommerce v2.3.5 */
+*:focus {
+	outline: 0;
+}
+.woocommerce h2 {
+	font-size: 22px;
+}
+.woocommerce h3 {
+	font-size: 20px;
+}
+/*----product----*/
+.woocommerce .products span.onsale, .woocommerce span.onsale {
+	border-radius: 0;
+	display: block;
+	font-size: 13px;
+	font-weight: normal;
+	line-height: 25px;
+	margin: 4px !important;
+	min-height: 10px;
+	padding: 0 12px;
+	z-index: 999;
+}
+.woocommerce span.onsale {
+	margin: 10px !important;
+}
+.woocommerce ul.products li.product {
+	text-align: center;
+	padding-bottom: 20px;
+	transition: all 0.4s ease 0s;
+	border-radius: 0;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #eaeaea;
+}
+.woocommerce ul.products li.product:hover {
+	
+}
+.woocommerce ul.products li.product a img:hover {
+	opacity: 0.6;
+}
+.woocommerce-page .woocommerce-ordering select {
+	padding: 12px 15px 12px 10px;
+	color: #A0A0A0;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	border-radius: 0;
+}
+.woocommerce-page .products .product > a:first-child {
+	position: relative;
+	text-align: center;
+	display: block;
+}
+.woocommerce-page .products a.button {
+	display: inline-block;
+	text-align: center;
+	padding: 18px 35px 13px 35px;
+	border-radius: 4px;
+	margin: 10px;
+	border: none;
+	font-weight: bold;
+	font-size: 12px;
+	margin: 0 auto !important;
+}
+.woocommerce-page .products a.button:hover {
+	box-shadow: 0 4px 20px -5px rgba(0,0,0,0.5);
+}
+.woocommerce-page .products h3 {
+	position: relative;
+	display: inline-block;
+	margin-bottom: 30px;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 25px;
+	float: none;
+	width: auto;
+	margin: 0;
+}
+.woocommerce-page .products .star-rating {
+	position: relative;
+	margin: 0 auto;
+}
+.woocommerce-page .products a .price {
+	line-height: 20px;
+	width: 100%;
+	float: left;
+	height: auto;
+	min-height: 40px;
+	text-align: center;
+	padding: 10px 0;
+}
+.woocommerce-page .products a .price del {
+	display: inline-block !important;
+	line-height: 20px;
+}
+.woocommerce-page .products a .price ins {
+	display: inline-block;
+	font-weight: bold;
+	background: none;
+	line-height: 20px;
+	margin-left: 10px;
+}
+.woocommerce-page .products .added_to_cart {
+	display: inline-block;
+	text-align: center;
+	padding: 10px 20px 10px 20px;
+	border-radius: 4px;
+	border: none;
+	font-size: 12px;
+	margin: 0;
+}
+.woocommerce-page .woocommerce-result-count {
+	float: left;
+	font-size: 14px;
+	line-height: 46px;
+	margin-top: 20px;
+}
+.woocommerce-page .woocommerce-ordering {
+	float: right;
+	margin-top: 20px;
+}
+.woocommerce-page .product-type-simple {
+	position: relative;
+}
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button {
+	font-size: inherit;
+}
+footer .consultup-widget .woocommerce ul.cart_list li img, footer .consultup-widget .woocommerce ul.product_list_widget li img {
+	margin-top: 7px;
+}
+/*woocommerce-tabs*/
+.tabs.wc-tabs {
+	text-align: center;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li::before, .woocommerce div.product .woocommerce-tabs ul.tabs li::after, .woocommerce div.product .woocommerce-tabs ul.tabs li::before {
+	display: none;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+	border-width: 0 0 1px 0;
+	border-style: solid;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li {
+	border-radius: 0;
+	background: transparent;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li {
+	border-radius: 0;
+	background: transparent;
+	border: none;
+}
+.woocommerce div.product .woocommerce-tabs .panel h2 {
+	font-size: 22px;
+	line-height: 25px;
+}
+.related.products {
+	text-align: center;
+}
+.related.products h2 {
+	font-size: 26px;
+	line-height: 40px;
+}
+/*woocommerce-form*/
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+	height: 40px;
+	margin-bottom: 20px;
+	border: 2px solid #ebebeb;
+	color: #ccc;
+	border-radius: 0px;
+	padding: 6px 12px;
+}
+.select2-container .select2-choice {
+	height: 40px;
+	padding: 6px 12px;
+}
+/*woocommerce-cart*/
+.woocommerce table.shop_table {
+	border-radius: 0;
+}
+.woocommerce .cart .button, .woocommerce .cart input.button {
+	float: none;
+	line-height: 30px;
+	padding: 5px 35px;
+	border-radius: 4px;
+}
+.woocommerce .cart .button:hover, .woocommerce .cart input.button:hover {
+	box-shadow: 0 4px 20px -5px rgba(0,0,0,0.5);
+}
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button {
+	line-height: 30px;
+	padding: 5px 35px;
+	border-radius: 4px;
+}
+.woocommerce-cart table.cart td.actions .coupon .input-text {
+	border-radius: 3px;
+	height: 40px;
+	border-width: 1px;
+	border-style: solid;
+	min-width: 110px;
+}
+.woocommerce #payment #place_order, .woocommerce-page #payment #place_order {
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.18), 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+/*woocommerce-messages*/
+.woocommerce-page .woocommerce-message {
+	margin: 0px 0 40px;
+	border-radius: 3px;
+	list-style: none;
+}
+.woocommerce-page .woocommerce-message a {
+	padding: 6px 14px;
+	font-size: 12px;
+}
+.woocommerce-page .woocommerce-error {
+	list-style: none;
+	padding: 10px 0 10px 50px;
+	margin: 0px 0 40px;
+	border-radius: 3px;
+	border: none;
+	float: left;
+	width: 100%;
+}
+.woocommerce-page .woocommerce-error a {
+	padding: 6px 14px;
+	font-size: 12px;
+}
+.woocommerce-page .woocommerce-info {
+	list-style: none;
+	padding: 0;
+	margin: 0px 0 40px;
+	border-radius: 3px;
+	border: none;
+	float: left;
+	width: 100%;
+	margin-top: 25px !important;
+}
+.woocommerce-page .woocommerce-info a {
+	padding: 6px 14px;
+	font-size: 12px;
+}
+.woocommerce-page .woocommerce-info {
+	float: left;
+	text-align: left;
+	padding-top: 30px;
+}
+.woocommerce-page .woocommerce .woocommerce-info {
+	border-radius: 3px;
+	border: none;
+	padding: 15px 0 15px 50px;
+	margin-bottom: 40px;
+}
+.woocommerce-page .woocommerce .woocommerce-info a {
+	opacity: 0.9;
+}
+/*woocommerce-pagination*/
+.woocommerce nav.woocommerce-pagination ul {
+	border: none;
+}
+.woocommerce nav.woocommerce-pagination ul li {
+	border: none;
+}
+.woocommerce nav.woocommerce-pagination ul li a, .woocommerce nav.woocommerce-pagination ul li span {
+	float: left;
+	line-height: 1.42857;
+	margin: 6px;
+	padding: 6px 12px;
+	border-radius: 10px;
+}
+/*woocommerce-price-filter*/
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content {
+	background: #1a2128;
+}
+/* --------------------------------------
+=========================================
+	9.consultup-Responsive part
+=========================================
+-----------------------------------------*/
+@media (max-width: 992px) {
+.ti-headwidget.trans {
+	position: relative;
+	background: rgba(0,0,0,0.4);
+}
+}
+@media (max-width: 767px) {
+.consultup-calltoaction {
+	text-align: center;
+}
+.consultup-calltoaction .btn {
+	margin-bottom: 20px;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+.navbar-header {
+	float: none;
+}
+.consultup-trhead.conte .navbar-wp .navbar-nav > li > a {
+    padding: 10px 16px;
+    text-transform: uppercase;
+}
+}
+ @media only screen and (min-width: 240px) and (max-width: 460px) {
+.consultup-footer-top-area .consultup-app-widget .btn {
+	margin-top: 10px;
+}
+#consultup-slider .slide-caption.slide-left {
+	float: none;
+	text-align: center;
+}
+#consultup-slider .slide-caption.slide-right {
+	float: none;
+	text-align: center;
+}
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+/* Top Details*/
+.consultup-head-detail .info-left {
+	float: none;
+	text-align: center;
+	margin: 10px 0 17px;
+	float: none;
+}
+.consultup-head-detail .info-right {
+	float: none;
+	text-align: center;
+	margin: 10px 0 17px;
+	float: none;
+}
+/* logo*/
+.navbar-default .navbar-brand {
+	margin: 0 auto;
+	text-align: center;
+}
+.navbar-wp .navbar-nav > li > a {
+	padding: 12px;
+}
+.consultup-trhead.conte .navbar-wp .navbar-nav > li > a {
+    padding: 10px 16px;
+}
+.navbar-wp .navbar-nav > li > a:hover, .navbar-wp .navbar-nav > li > a:focus {
+	z-index: 8;
+}
+.navbar-wp .consultup-search-box {
+	float: left;
+}
+.consultup-search {
+	margin: 0 auto;
+}
+.consultup-plans .consultup-plan.active {
+	transform: scale(1);
+}
+.consultup-callout-inner .btn {
+	margin: 20px auto;
+}
+}
+@media screen and (min-width: 240px) and (max-width: 1024px) {
+.consultup-slider-inner {
+}
+.consultup-prosses-inner::after {
+	border: none;
+}
+}
+@media screen and (min-width: 240px) and (max-width: 1179px) {
+.boxed {
+	width: auto;
+}
+.consultup-slider-inner p {
+	width: auto;
+}
+}
+@media screen and (min-width: 530px) and (max-width: 1024px) {
+/*--------------- consultup-slider ---------------*/
+.consultup-slider-inner {
+	min-width: auto !important;
+	width: auto !important;
+}
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+.navbar-toggle {
+	display: block;
+}
+.navbar-collapse.collapse {
+	display: none!important;
+}
+.navbar-collapse.collapse.in {
+	display: block !important;
+}
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+#consultup-slider .slide-caption h1 {
+	font-size: 200%;
+}
+#consultup-slider .slide-caption .description p {
+	font-size: 14px;
+}
+#consultup-slider .slide-caption {
+	margin: 0 auto;
+}
+}
+
+@media screen and (min-width: 240px) and (max-width: 767px) {
+/*--------------- consultup-slider ---------------*/
+.navbar-wp .navbar-nav > li > a {
+	padding: 10px 16px;
+}
+.navbar-wp .navbar-nav>.active>a, .navbar-wp .navbar-nav>.active>a:hover, .navbar-wp .navbar-nav>.active>a:focus {
+	border-bottom: none;
+}
+.navbar-wp .navbar-nav > a, .navbar-wp .navbar-nav> a:hover, .navbar-wp .navbar-nav a:focus {
+	border-bottom: none;
+}
+.ti-headwidget .navbar-collapse.in {
+    margin-top: 50px;
+}
+.ti-headwidget .navbar-toggle {
+    margin: 10px auto;
+}
+.consultup-slider-inner {
+	min-width: auto !important;
+	width: auto !important;
+}
+.consultup-slider-warraper #consultup-slider .item img {
+    min-height: 300px;
+}
+#consultup-slider .slide-caption h1 {
+	font-size: 18px;
+	line-height: 25px;
+	letter-spacing: 0;
+}
+#consultup-slider .slide-caption {
+	width: 85%;
+	margin-top: 80px;
+}
+#consultup-slider .slide-caption .description p {
+	font-size: 10px;
+}
+#consultup-slider .slide-caption .description {
+	font-size: 100%;
+	line-height: 1em;
+	margin: 0 auto;
+	width: 100%;
+}
+.consultup-slider-warraper .owl-controls .owl-buttons div {
+	width: 30px;
+	height: 30px;
+	font-size: 200%;
+	line-height: 10px;
+	border-width: 2px;
+	border-style: solid;
+}
+/*--------------- consultup-callout text---------------*/
+.consultup-callout .consultup-callout-inner {
+	width: 85%;
+}
+.consultup-callout h3 {
+	font-size: 40px;
+	line-height: 50px;
+}
+.consultup-callout .consultup-callout-inner.text-left, .consultup-callout .consultup-callout-inner.text-right {
+	float: none;
+}
+.consultup-sidebar {
+	margin: 20px 0 0 0;
+}
+.text-xs {
+	text-align: center;
+}
+.text-center-xs {
+	text-align: center;
+}
+}
+
+/*--------------------------------------------------------------*/
+/*	Page Scroll Up
+/*--------------------------------------------------------------*/
+
+.page-scroll-up {
+   bottom: 2%;
+    display: none;
+    height: 40px;
+    opacity: 1;
+    overflow: hidden;
+    position: fixed;
+    right: 10px;
+    text-align: center;
+    width: 40px;
+    z-index: 9999;
+    border-radius: 50px;
+    border-width: 2px;
+    border-style: solid;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+
+
+.navigation.pagination .nav-links .page-numbers, .navigation.pagination .nav-links a {
+    background-color: #ffffff;
+    border: 1px solid #dbdbdb;
+    color: #212121;
+    cursor: pointer;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+    font-size: 18px;
+    line-height: 40px;
+    margin: 0 3px 10px;
+    padding: 0px;
+    vertical-align: baseline;
+    border-radius: 10px;
+    white-space: nowrap;
+    width: 40px;
+    height: 40px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+    transition: all 0.3s ease 0s;
+    text-decoration: none;
+    position: relative;
+    float: left;
+    border-radius: 30px;
+}
+
+.navigation.pagination > li:first-child > a, .navigation.pagination > li:first-child > span {
+    border-radius: 30px;
+}
+
+/* WordPress Gallery 
+------------------------------------------ */
+
+.gallery {
+	margin-left: -0.5em;
+	margin-right: -0.5em;
+}
+
+.gallery:after {
+	display: table;
+	content: "";
+	clear: both;
+}
+
+.gallery-item {
+	margin: 0;
+	float: left;
+	padding: 0.5em;
+}
+
+.gallery-item img {
+	width: 100%;
+}
+
+.gallery-columns-1 .gallery-item {
+    width: 100%;
+    float: none;
+}
+.gallery-columns-2 .gallery-item {
+    width: 50%
+}
+.gallery-columns-3 .gallery-item {
+    width: 33.3333%
+}
+.gallery-columns-4 .gallery-item {
+    width: 25%
+}
+.gallery-columns-5 .gallery-item {
+    width: 20%
+}
+.gallery-columns-6 .gallery-item {
+    width: 16.6667%
+}
+.gallery-columns-7 .gallery-item {
+    width: 14.2857%
+}
+.gallery-columns-8 .gallery-item {
+    width: 12.5%
+}
+.gallery-columns-9 .gallery-item {
+    width: 11.1111%
+}
+
+.gallery-columns-2 .gallery-item:nth-child(2n+1),
+.gallery-columns-3 .gallery-item:nth-child(3n+1),
+.gallery-columns-4 .gallery-item:nth-child(4n+1),
+.gallery-columns-5 .gallery-item:nth-child(5n+1),
+.gallery-columns-6 .gallery-item:nth-child(6n+1),
+.gallery-columns-7 .gallery-item:nth-child(7n+1),
+.gallery-columns-8 .gallery-item:nth-child(8n+1),
+.gallery-columns-9 .gallery-item:nth-child(9n+1) {
+	clear: left;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+    position: absolute;
+    margin: -1px;
+    padding: 0;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    border: 0;
+    word-wrap: normal !important;
+}
+
+.screen-reader-text {
+    border: 0;
+    clip: rect(1px, 1px, 1px, 1px);
+    -webkit-clip-path: inset(50%);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    word-wrap: normal !important;
+}
+
+.no-js .some-element .screen-reader-text {
+    position: static;
+    -webkit-clip-path: none;
+    clip-path: none;
+    width: auto;
+    height: auto;
+    margin: 0;
+}
+
+.consultup-blog-post-box h1.title, .consultup-blog-post-box h1.title a, .consultup-blog-post-box .small > p
+{ word-wrap: break-word; }
+
+.screen-reader-text:focus {
+  background-color: #f1f1f1;
+  border-radius: 3px;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  clip: auto !important;
+  clip-path: none;
+  color: #21759b;
+  display: block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-weight: bold;
+  height: auto;
+  right: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000;
+  /* Above WP toolbar. */
+}
+
+/* Do not show the outline on the skip link target. */
+#content[tabindex="-1"]:focus {
+  outline: 0;
+}

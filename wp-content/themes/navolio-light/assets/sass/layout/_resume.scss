@@ -1,0 +1,28 @@
+/*--------------------------------------------------------------
+## Education and Experience
+--------------------------------------------------------------*/
+.edex-item {
+    padding: 75px;
+    margin-bottom: 30px;
+    > * {
+        padding-left: 15px;
+    }
+    .edex-time-diemension {
+        position: relative;
+        color: $suva_grey;
+        margin-bottom: 10px;
+        &:before {
+            content: "";
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: $blue_violet;
+            position: absolute;
+            left: 0;
+            top: 8px;
+        }
+    }
+    .edex-description {
+        margin-bottom: 0;
+    }
+}

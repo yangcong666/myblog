@@ -1,0 +1,51 @@
+#login{ width:420px;}
+
+
+/** 背景及字体 **/    
+html,body.login{   
+    background:#f2f2f2;   
+    font: 14px 'Microsoft YaHei', Arial, Lucida Grande, Tahoma, sans-serif;
+	padding-top:50px;
+	margin:0;
+	height:auto;
+}   
+/** 去掉链接下划线 **/    
+html a{   
+    text-decoration: none;   
+}   
+/** 登录DIV **/    
+#login {   
+    background:#fff;   
+    border: 1px solid #ccc;   
+    width:400px;   
+    margin:0px auto 0;   
+    padding:20px 10px 20px 10px;   
+    border-radius:5px;   
+    box-shadow:0 4px 10px -1px rgba(200, 200, 200, 0.7);   
+}
+/** 替换logo **/    
+.login h1 a{ width:100%; background:url(../images/login-logo.png) center bottom no-repeat; height:120px;outline: none;background-position: center bottom;text-shadow: none;margin:0;}  
+/** 提示 **/    
+.updated, .login .message {   
+    background:#fff;   
+    border: none;   
+    text-align: center;   
+}   
+/** 表单 **/    
+.login form {   
+    box-shadow:none;   
+    border: none;   
+}   
+#loginform, #registerform, #lostpasswordform{   
+    background:transparent;   
+    border:none;   
+}   
+/** 按钮 **/    
+.button-primary,.submit .button-primary,#login form .submit input {   
+    width:90px;   
+    height:30px;   
+    font-weight: bold;   
+    border:none;   
+}  
+
+

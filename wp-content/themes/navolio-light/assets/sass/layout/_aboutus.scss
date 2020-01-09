@@ -1,0 +1,167 @@
+/*--------------------------------------------------------------
+# Socail Status
+--------------------------------------------------------------*/
+.social-status {
+    i {
+        margin-right: 5px;
+    }
+}
+.wp-block-navolio-light-core-social-profile-status {
+    .pro-view-text,
+    .appreciation-text-area {
+        margin-left: 5px;
+    }
+    .status-title-text {
+        margin-left: 5px;
+    }
+}
+
+/*--------------------------------------------------------------
+# Counter Element
+--------------------------------------------------------------*/
+.counter-item {
+    padding: 0 30px;
+    .count-element {
+        width: 77px;
+        height: 77px;
+        margin: auto;
+        > * {
+            margin: 0;
+            text-align: center;
+            line-height: 70px;
+            color: #fff;
+            font-weight: 600;
+        }
+    }    
+    .counter-title {
+        margin-top: 10px;
+    }
+    &.ver-two {
+        .count-element {
+            width: auto;
+            height: auto;
+            > * {
+                color: $matterhorn;
+                line-height: 1.4em;
+                text-align: left;
+                font-size: 30px;
+                font-weight: 800;
+            }
+        }
+    }
+}
+.col-md-auto:first-of-type {
+    .counter-item {
+        padding-left: 0;
+    }
+}
+.wp-block-columns .wp-block-column:first-of-type {
+    .counter-item {
+        padding-left: 0;
+    }
+}
+.wp-block-navolio-light-core-fun-facts {
+    .count-description {
+        text-align: center;
+    }
+}
+
+/*--------------------------------------------------------------
+# File featured Element
+--------------------------------------------------------------*/
+.file-number {
+    span {
+        font-size: 15px;
+    }
+}
+.file-featured-in {
+    padding: 0 30px;
+}
+.col-md-auto:first-of-type .file-featured-in {
+    padding-left: 0;
+}
+
+/*--------------------------------------------------------------
+# Card Element
+--------------------------------------------------------------*/
+.about-card {
+    padding: 15px;
+    &.ver-two {
+        padding-bottom: 45px;
+        background: #f8f8ff;
+        border-radius: 3px;
+    }
+}
+.availity-block {
+    display: inline-block;
+    border-radius: 30px;
+    padding: 10px 30px;
+    color: #fff;
+    font-weight: 500;
+    border-width: 3px;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.14);   
+    &:before {
+        content: "";
+        width: 5px;
+        height: 5px;
+        position: absolute;
+        border-radius: 50%;
+        right: 20px;
+        top: 16px;
+    }
+    &.abailable,
+    &.available,
+    &.full_time,
+    &.custom {
+        &:before {
+            background: #00d664;
+        }
+    }   
+    &.away {
+        &:before {
+            background: #faa214;
+        }
+    }   
+    &.busy,
+    &.not_available {
+        &:before {
+            background: #f30f16;
+        }
+    }   
+}
+
+
+.social-contact {
+    ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        li {
+            display: inline-block;
+            font-size: 20px;
+            padding: 0 10px;
+            position: relative;
+            &:after {
+                content: "";
+                width: 10px;
+                height: 10px;
+                position: absolute;
+                border-radius: 50%;
+                right: 7px;
+                top: -3px;
+            }
+            &.hangout:after {
+                background: #f30f16;
+            }
+            &.messenger:after {
+                background: #00d664;
+            }
+            &.skype:after {
+                background: #00d664;
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+ChangeLog
+=========
+
+
+Version 0.9*
+
+	i) Initial Release.
+
+Version 0.91
+
+	i) Pre Release bug Fixes.
+	
+Version 0.92
+
+	i) Removed extra bootstrap.js files
+	ii) Fixed header image issue.
+	iii) Added Correct Theme URI and link.
+	iv) Some other minor fixes.	
+	
+Version 1.0
+
+	i) Footer and Header Display issues fixed.
+	ii) Bottom menu now shows up only if set.
+		

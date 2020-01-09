@@ -1,0 +1,106 @@
+/* page link pagination */
+.article-content {
+	.page-links {
+		span {
+			border: 1px solid $color__border-one;
+			font-size: 1em;
+    		padding: 0.4em 0.8em;
+    		font-weight: 600;
+		}
+		> span {
+			color: #fff;
+		}
+		a {
+			text-decoration: none;
+		}
+	}
+}
+/*==================================
+pagination
+================================= */
+.pagination-block {
+	padding: 15px 0;
+	.pagination {
+		margin: 0;
+		margin-bottom: -10px;
+		display: block;
+		li {
+			display: inline-block;
+			a {
+				margin-right: 10px;
+				margin-bottom: 10px;
+				color: $color__black;
+				font-weight: bold;
+				padding: 4px 10px;
+				line-height: 40px;
+				display: block;
+				min-width: 50px;
+				min-height: 50px;
+				border-radius: 50%;
+				text-align: center;
+				transition: all 0.45s ease-in-out;
+				border: 1px solid #ebebeb;
+			}
+		}
+		li.active {
+			a {
+				color: $white;
+				box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.14);
+			}
+		}
+		.dot {
+			i {
+				color: $color__gainsboro;
+			}
+		}
+		&.pagination-style-two {
+			margin-top: 30px;
+			margin-bottom: 10px;
+		}
+	}
+	@media only screen and (max-width: 992px) {
+		margin-bottom: 30px;
+	}
+}
+
+.page-numbers.dots {
+	margin-right: 12px;
+}
+
+
+.menu-pagination-block {
+	background: #f9f9f9;
+	overflow: hidden;
+	margin-top: 30px;
+	.pagination-link {
+		padding: 15px;
+		background: transparent;
+		.pagination {
+			text-align: right;
+			@media only screen and (max-width: 992px) {
+				text-align: center;
+			}
+		}
+	}
+}
+.pagination-position {
+	margin-bottom: 0;
+	padding: 20px;
+	@media only screen and (max-width: 992px) {
+		text-align: center;
+	}
+	a {
+		padding: 0 3px;
+		&.active {
+			color: $color__citrus;
+		}
+	}
+	&.orange-theme {
+		a {
+			padding: 0 3px;
+			&.active {
+				color: $color__orange;
+			}
+		}
+	}
+}

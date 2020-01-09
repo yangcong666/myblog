@@ -1,0 +1,189 @@
+/*
+Theme Name: Lovers
+Theme URI: http://rin-wendy.com
+Description:基于ZXT的灰太狼完善,源文件为images文件夹的png文件,请自行使用Fireworks修改.
+Version: 1.1
+Author: 匿名
+Author URI: 
+Tags: Lovers
+*/
+/* Global */
+body{
+	margin:0 auto;
+	padding:0;
+	width:100%;
+	font-family: 'Microsoft YaHei', Arial, Verdana, Sans-Serif;
+	font-size:12px;
+	text-align:left;
+	color:#454545;
+	background:#2E2D29;
+	
+}
+html{ margin:0 auto; padding:0;}
+div,form,ul,ol,li,dl,dt,dd,span,p,button,textarea,blockquote,th,td { margin:0; padding:0;}
+h1,h2,h3,h4,h5,h6{ margin:0;padding:0;}
+input,select{ line-height:16px;}
+img,a img{border:0;}
+ul,ol,li{list-style:none;}
+em{ font-style:normal;}
+
+.clear{ border-top:1px solid transparent !important; margin-top:-1px !important; border-top:0; margin-top:0; clear:both; visibility:hidden;}
+
+a,area {blr:expression(this.onFocus=this.blur()) }  /* for IE */
+:focus {-moz-outline-style: none; }  /* for Firefox */   
+
+a:link, a:visited{ color:#525252; text-decoration:none;}
+a:hover{ color:#F60; text-decoration:underline;}
+
+/* Header */
+.header{ margin:0 auto; width:100%; height:200px; background:#2E2D29 url(images/bg_top.jpg);}
+.header-inner{ margin:0 auto; width:960px; height:200px; background:#2E2D29 url(images/top.jpg)  no-repeat center 0; overflow:hidden;}
+.header-inner a{ width:960px; height:200px; display:block; text-indent:-9999px;}
+.header_boy{background:url(images/top_boy.jpg)  no-repeat center 0;}
+.header_girl{background:url(images/top_girl.jpg)  no-repeat center 0;}
+.header_page{background:url(images/top_page.jpg)  no-repeat center 0;}
+
+/* Content */
+.wrapper{ margin:0 auto; padding-top:5px; width:960px; background:#F4F4FC url(images/wrap.jpg) repeat-y center 0; overflow:hidden;}
+.wrapper_boy{ background:#F4F4FC url(images/wrap_boy.jpg) repeat-y center 0;}
+.wrapper_girl{ background:#F4F4FC url(images/wrap_girl.jpg) repeat-y center 0;}
+.wrapper_page{ background:#F4F4FC url(images/wrap_page.jpg) repeat-y center 0;}
+
+.content{ float:left; width:960px;}
+.content_boy{ float:left; padding-bottom:10px; width:380px;}
+.content_girl{ float:right; padding-bottom:10px; width:380px;}
+.content_nng{ background:none;}
+
+/* Post List */
+.post{ margin:10px 0px; padding:0px 10px; width:360px; line-height:20px; overflow:hidden;}
+.post h2{ width:360px; padding:5px 0px 2px; font-size:14px; overflow:hidden;}
+.post p{ margin-bottom:10px;}
+.post img{ max-width:360px; margin:0 auto; text-align:center; display:block;}
+.post ul, .post ol { padding-bottom:10px; color:#454545;}
+.post ul li{margin-left:20px; list-style:disc;}
+.post ol li{margin-left:20px; list-style:decimal;}
+.sub_desc{ padding-bottom:10px; color:#666;}
+.post_content{ text-align:left;}
+.post_meta{ padding:0px 0 1px; text-align:right;}
+.post_meta2{ height:22px;}
+.post_meta strong{ font-size:13px;}
+.post_cats{ float:left;}
+.post blockquote{color:#555;padding:10px;margin:0 0 20px;border:1px solid #dfdfdf;background:#eee;}
+/* Boy Posts */
+.boy .post_meta{ border-bottom:1px solid #12B1E4;}
+.boy a:link, .boy a:visited{ color:#017CA5; text-decoration:none;}
+.boy a:hover{ color:#F60; text-decoration:underline;}
+
+/* Girl Posts */
+.girl .post_meta{ border-bottom:1px solid #FFA4D1;}
+.girl a:link, .girl a:visited{ color:#FF3366; text-decoration:none;}
+.girl a:hover{ color:#F60; text-decoration:underline;}
+
+/* Single */
+.single_content_boy, .single_content_girl{ padding:0 20px; width:720px; overflow:hidden;}
+.post_boy, .post_girl{width:700px;}
+.post_boy h2, .post_girl h2{ font-size:18px;}
+.post_tag{ float:right; }
+
+/* Showcase */
+.showcase{padding:15px 0px;}
+.showcase h2{ padding-bottom:15px; font-size:16px; color:#017CA5;}
+.showcase ul li{ float:left; width:210px; height:195px; margin-bottom:10px; padding:0 15px 5px 13px; border-bottom:1px solid #DDD; overflow:hidden;}
+.showcase ul li img{ float:left; padding:2px 2px; width:210px; height:160px; background-color:#FFCC99}
+.showcase ul li h3{ float:left; margin:5px 0px; width:200px; height:18px; font-size:13px; font-weight:normal; text-align:center; display:block; overflow:hidden;}
+
+/* Sidebar */
+.sidebar{ float:left; padding:18px 10px; width:175px; overflow:hidden;}
+.bloginfo{ margin-bottom:18px; text-align:center; line-height:18px; color:#666;}
+.sidebar h2{ padding:10px 0px 5px; width:175px; text-align:center; font-size:14px; color:#333; background:url(images/bg_sidebar_h2.jpg) no-repeat center bottom; }
+.sidebar ul{ padding:0px 0px 5px 0px;}
+.sidebar ul li{ margin-bottom:8px; }
+.sidebar ul li ul{ padding-left:8px; margin:10px 0px 0px 0px;}
+.sidebar ul li ul li{ margin-bottom:0px; padding-left:12px; line-height:22px; background:url(images/spot.gif) no-repeat 0 11px; }
+.sidebar ul li.widget{ margin:0px 0px 10px 0px;}
+.sidebar ul li.widget_tag_cloud ul{ padding:5px 10px; }
+#feed img{ margin:5px 0px 0px 6px;}
+
+/* Search */
+.searchInput{ padding:3px 3px 2px; width:170px;}
+.searchBtn{ float:right; margin:5px 0px;}
+
+/* Page Navi */
+.pageNavi, .pageNavi2{ padding:20px 20px; text-align:center;}
+.wp-pagenavi{ margin:0 auto;}
+.wp-pagenavi a, .wp-pagenavi a:link, .wp-pagenavi a:visited{ padding:4px 8px !important; margin: 2px; text-decoration:none !important; color: #0AA7D6 !important; font-weight:bold; border:1px solid #0AA7D6 !important; }
+.wp-pagenavi a:hover {color: #FFF !important;  background-color:#0AA7D6 !important; font-weight:bold !important;}
+.wp-pagenavi a:active {padding:2px 2px; margin:2px; text-decoration: none; border:1px solid #0AA7D6 !important;}
+.wp-pagenavi span.pages, .wp-pagenavi span.current, .wp-pagenavi span.extend { padding:4px 8px !important; margin:2px; color: #0AA7D6 !important; border:1px solid #0AA7D6 !important;}
+.wp-pagenavi span.current{ font-weight:bold !important; color: #FFF !important; background-color:#FF3366 !important; border:1px solid #AA002B !important; }
+.page_next a, .page_pro a{ float:right; padding:6px 10px; border:1px solid #0AA7D6; display:block; font-size:16px; font-weight:bold; text-align:center; text-decoration:none;text-transform:uppercase;}
+.page_pro a{ margin-right:15px; }
+
+.pageNavi .left, .pageNavi2 .left{ float:left;}
+.pageNavi .right, .pageNavi2 .right{ float:right;}
+.pageNavi a:link, .pageNavi a:visited{ padding:6px 10px; text-align:center; font-size:12px; font-weight:bold; color:#FFF; background-color:#0AA7D6; }
+.pageNavi a:hover{ background-color:#FF3366;}
+.pageNavi2 a:link, .pageNavi2 a:visited{ padding:6px 10px; text-align:center; font-size:12px; font-weight:bold; color:#FFF; background-color:#FF3366; }
+.pageNavi2 a:hover{ background-color:#0AA7D6;}
+
+/* Comments*/
+.post-comment{ padding:20px 10px;}
+.commentlist{ padding:10px 0px;}
+.single_content_boy .post-comment h3{ margin:15px 0px 0px; padding:5px 0px; font-size:20px; color:#017CA5;}
+.single_content_girl .post-comment h3{ margin:15px 0px 0px; padding:5px 0px; font-size:20px; color:#FF3366;}
+.commentlist li{ float:left; margin:5px 0px; margin:5px 0px 0px; width:97%; padding:5px 10px; color:#363636; background-color:#FFF7FA; border:1px solid #FFA4D1;}
+.commentlist li.alt{ background:#F4F9FF; border:1px solid #12B1E4;}
+.commentlist li.comment-author-admin{ background:#FFF4EE; border:1px solid #F60;}
+.commentlist li .gravatar{ float:left; width:48px; margin:0px 8px 5px 0px; padding:1px 1px; text-align:center; border:1px solid #C7C7C7;}
+.commentlist li .floor{ float:left; width:48px; margin-top:1px; padding:2px 0px 1px; text-align:center; border-top:1px solid #A7B6BE; background:F8F8F8; color:#999999;}
+.commentlist li .authordata{ float:right; width:480px;}
+.commentlist li .commentmetadata{ float:left; color:#999999;}
+.commentlist li .commentcontent{ float:right; width:480px;}
+.commentlist p{margin:8px 0 0 45px; text-indent:0px;}
+
+.avatar{ float:left; width:32px; height:32px; margin:0px 8px 5px 0px; padding:1px 1px; border:1px solid #C7C7C7;}
+.fn{ font-style:normal; }
+
+.reply{ float:right;}
+#cancel-comment-reply-link{ float:right; font-size:12px;}
+.author_description{ float:left; padding:10px; line-height:20px; color:#1D97CC;}
+.comment-timer{ color:#999;}
+.comment-timer a:link, .comment-timer a:visited{ font-size:11px; color:#999; text-decoration:none;}
+.cmtop{ color:#999;}
+.moderation{ color:#666;}
+.loggedin{ padding-bottom:5px; color:#CC0167;}
+#author, #email, #url, #comment, #submit ,#sub {
+	background: #FAFCFD;
+	font-family: 'Microsoft YaHei',Arial,宋体;
+	font-size: 14px;
+	margin:5px 5px 0 0;
+	padding:0;
+	border: 1px solid #777;
+	}
+#comment{
+	color:#555;font-size:12px;height:130px;margin-bottom:12px;outline:none;overflow:auto;padding:6px 8px 4px 10px;width:500px;;
+	}
+.form-comment{ padding:0px 0px 10px;}
+.form-comment li{ margin:5px 0px; padding:0 0; border:none; background:none;}
+.mouseover{ padding:5px 5px 4px !important; border:1px solid #BBC5CC !important; background-color:#FFF !important; }
+.form-comment label{ color:#454545;}
+.comment-author{ float:left;}
+.vote-plugin{ float:right;}
+#but_submit{ margin:10px 0px; *margin:0px 0px;}
+.post_pro_next{ margin:20px 0px; padding:0px 10px;}
+.alignleft{ float:left;}
+.alignright{ float:right;}
+
+/* Footer */
+.footer{ margin:0 auto; padding:50px 0px 20px; width:960px; color:#525252; background:url(images/bottom.jpg) no-repeat center 0;}
+.footer_boy{ background:url(images/bottom_boy.jpg) no-repeat center 0;}
+.footer_girl{ background:url(images/bottom_girl.jpg) no-repeat center 0;}
+.footer_page{ background:url(images/bottom_boy.jpg) no-repeat center 0;}
+.footer p{ text-align:center; line-height:22px; height:22px;}
+.footer a:link, .footer a:visited{ color:#727272; text-decoration:none; text-transform:capitalize;}
+.footer a:hover{ color:#999;}
+/* Url */
+#tooltip {position:absolute;z-index:1000;max-width:250px;word-wrap:break-word;background:#000;text-align:left;padding:5px;min-height:1em;-moz-border-radius:5px;-khtml-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+#tooltip p {color:#fff;font:12px 'Microsoft YaHei',Arial,宋体,Tahoma,Sans-Serif;}
+#tooltip p em {display:block;margin-top:3px;color:#f60;font-style:normal;}
+

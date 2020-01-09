@@ -1,0 +1,32 @@
+.contact-form-1 {
+	.form-control {
+		padding: 0.75rem 1rem;
+		border-radius: 0;
+	}
+}
+.contact-item {
+	.item-icon {
+		border-radius: 50%;
+		width: 40px;
+		height: 40px;
+		display: inline-block;
+		text-align: center;
+		line-height: 40px;
+		float: left;
+		margin-right: 20px;
+	}
+	.item-details {
+		display: table-cell;
+	}
+}
+  
+.contact-form .input-success, 
+.contact-form .input-error {
+    float: left;
+    width: 100%;
+    clear: both;
+    margin-top: 15px;
+    margin-bottom: 0;
+    padding: 5px 15px;
+    display: none;
+}

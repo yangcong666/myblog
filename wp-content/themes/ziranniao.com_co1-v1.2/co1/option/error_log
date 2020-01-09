@@ -1,0 +1,5 @@
+[30-Jul-2012 13:48:18] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/teshop/public_html/zhidao/wp-content/themes/co1/option/mail.php on line 10
+[30-Jul-2012 14:24:04] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/teshop/public_html/zhidao/wp-content/themes/co1/option/mail.php on line 13
+[30-Jul-2012 14:26:51] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/teshop/public_html/zhidao/wp-content/themes/co1/option/mail.php on line 13
+[30-Jul-2012 14:27:07] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/teshop/public_html/zhidao/wp-content/themes/co1/option/mail.php on line 13
+[05-Aug-2012 09:31:55] PHP Fatal error:  Call to undefined function  add_action() in /home/teshop/public_html/zhidao/wp-content/themes/co1/option/cotheme.php on line 186

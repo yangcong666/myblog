@@ -1,0 +1,58 @@
+#buddypress div.dir-search input[type=text], 
+#buddypress li.groups-members-search input[type=text] {
+  padding: 5px 13px;
+}
+#buddypress .message-search #messages_search {
+  padding: 2px 10px;
+}
+#buddypress div.item-list-tabs ul li.last select {
+  padding: 5px 8px;
+}
+#buddypress div.item-list-tabs ul li a, 
+#buddypress div.item-list-tabs ul li span {
+  padding: 10px 22px;
+}
+#buddypress .activity-list .activity-content .activity-header img.avatar {
+  margin: 0 5px 0px 5px!important;
+}
+body.buddypress .label {
+  color: inherit;
+}
+.bp-widget .label {
+  display: table-cell;
+  padding: 15px !important;
+  font-size: 14px;
+  text-align: left;
+}
+.bp-widget .data {
+  display: table-cell;
+  padding: 15px !important;
+}
+#notifications-sort-order-list,
+select[name="notification_bulk_action"],
+select[name="messages_bulk_action"] {
+ min-width: 150px;
+ border: 1px solid #ccc;
+ padding: 4px 10px; 
+}
+#buddypress span.activity {
+  margin-top: 10px;
+}
+.button-nav li a {
+  display: inline-block;
+}
+#buddypress #profile-edit-form ul.button-nav {
+  overflow: hidden;
+  margin-bottom: 20px;
+  text-align: left;
+  padding-left: 0;
+}
+.editfield legend {
+  font-size: 14px;
+}
+.editfield input[type=text] {
+  margin-bottom: 10px;
+}
+#groups-list li {
+  margin-top: 10px !important;
+}
