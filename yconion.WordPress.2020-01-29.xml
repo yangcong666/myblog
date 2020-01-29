@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3.2" created="2020-01-12 11:54" -->
+	<!-- generator="WordPress/5.3.2" created="2020-01-29 13:45" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>yconion的个人博客</title>
 	<link>http://114.116.235.65</link>
 	<description>破手杖，破袈裟，一个小破碗，还有一个小破人，他去了西天</description>
-	<pubDate>Sun, 12 Jan 2020 11:54:15 +0000</pubDate>
+	<pubDate>Wed, 29 Jan 2020 13:45:04 +0000</pubDate>
 	<language>zh-CN</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://114.116.235.65</wp:base_site_url>
@@ -2059,82 +2059,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>隐私政策</title>
-		<link>http://114.116.235.65/?page_id=3</link>
-		<pubDate>Fri, 29 Nov 2019 12:50:23 +0000</pubDate>
-		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading --><h2>我们是谁</h2><!-- /wp:heading --><!-- wp:paragraph --><p>我们的站点地址是：http://114.116.235.65。</p><!-- /wp:paragraph --><!-- wp:heading --><h2>我们收集何种及为何收集个人数据</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>评论</h3><!-- /wp:heading --><!-- wp:paragraph --><p>当访客留下评论时，我们会收集评论表单所显示的数据，和访客的IP地址及浏览器的user agent字符串来帮助检查垃圾评论。</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>由您的电子邮件地址所生成的匿名化字符串（又称为哈希）可能会被提供给Gravatar服务确认您是否有使用该服务。Gravatar服务的隐私政策在此：https://automattic.com/privacy/。在您的评论获批准后，您的资料图片将在您的评论旁公开展示。</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>媒体</h3><!-- /wp:heading --><!-- wp:paragraph --><p>如果您向此网站上传图片，您应当避免上传那些有嵌入地理位置信息（EXIF GPS）的图片。此网站的访客将可以下载并提取此网站的图片中的位置信息。</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>联系表单</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>如果您在我们的站点上留下评论，您可以选择用cookies保存您的姓名、电子邮件地址和网站。这是通过让您可以不用在评论时再次填写相关内容而向您提供方便。这些cookies会保留一年。</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>如果您访问我们的登录页，我们会设置一个临时的cookie来确认您的浏览器是否接受cookies。此cookie不包含个人数据，且会在您关闭浏览器时被丢弃。</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>当您登录时，我们也会设置多个cookies来保存您的登录信息及屏幕显示选项。登录cookies会保留两天，而屏幕显示选项cookies会保留一年。如果您选择了“记住我”，您的登录会保留两周。如果您注销，登录cookies将被移除。</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>如果您编辑或发布文章，我们会在您的浏览器中保存一个额外的cookie。这个cookie不包含个人数据而只记录了您刚才编辑的文章的ID。这个小甜饼会保留一天。</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>其他站点的嵌入内容</h3><!-- /wp:heading --><!-- wp:paragraph --><p>此站点上的文章可能会包含嵌入的内容（如视频、图像、文章等）。来自其他站点的嵌入内容的行为和您直接访问这些其他站点没有区别。</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>这些站点可能会收集关于您的数据、使用cookies、嵌入额外的第三方跟踪程序及监视您与这些嵌入内容的交互，包括在您有这些站点的账户并登录了这些站点时，跟踪您与嵌入内容的交互。</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>统计</h3><!-- /wp:heading --><!-- wp:heading --><h2>我们与谁共享您的信息</h2><!-- /wp:heading --><!-- wp:heading --><h2>我们保留多久您的信息</h2><!-- /wp:heading --><!-- wp:paragraph --><p>如果您留下评论，评论和其元数据将被无限期保存。我们这样做以便能识别并自动批准任何后续评论，而不用将这些后续评论加入待审队列。</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>对于本网站的注册用户，我们也会保存用户在个人资料中提供的个人信息。所有用户可以在任何时候查看、编辑或删除他们的个人信息（除了不能变更用户名外）、站点管理员也可以查看及编辑那些信息。</p><!-- /wp:paragraph --><!-- wp:heading --><h2>您对您的信息有什么权利</h2><!-- /wp:heading --><!-- wp:paragraph --><p>如果您有此站点的账户，或曾经留下评论，您可以请求我们提供我们所拥有的您的个人数据的导出文件，这也包括了所有您提供给我们的数据。您也可以要求我们抹除所有关于您的个人数据。这不包括我们因管理、法规或安全需要而必须保留的数据。</p><!-- /wp:paragraph --><!-- wp:heading --><h2>我们将您的信息发送到哪</h2><!-- /wp:heading --><!-- wp:paragraph --><p>访客评论可能会被自动垃圾评论监测服务检查。</p><!-- /wp:paragraph --><!-- wp:heading --><h2>您的联系信息</h2><!-- /wp:heading --><!-- wp:heading --><h2>其他信息</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>我们如何保护您的数据</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>我们有何种数据泄露处理流程</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>我们从哪些第三方接收数据</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>我们通过用户数据进行何种自动决策及/或归纳</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>行业监管披露要求</h3><!-- /wp:heading -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-29 20:50:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-29 12:50:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>关于</title>
-		<link>http://114.116.235.65/guanyu</link>
-		<pubDate>Sat, 30 Nov 2019 08:56:49 +0000</pubDate>
-		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?page_id=55</guid>
-		<description></description>
-		<content:encoded><![CDATA[<strong>持而盈之，不如其已。揣而锐之，不可长保。金玉满堂，莫之能守。富贵而骄，自遗其咎。功成身退，天之道。</strong>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-30 16:56:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-30 08:56:49]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[guanyu]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[144]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[dmeng_copyright_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[dmeng_copyright_content]]></wp:meta_key>
-		<wp:meta_value><![CDATA[原文链接：&lt;a href=&quot;{link}&quot; rel=&quot;author&quot;&gt;{title}&lt;/a&gt;，转发请注明来源！]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Invoker</title>
 		<link>http://114.116.235.65/2019/11/30/86/invoker.html</link>
 		<pubDate>Sat, 30 Nov 2019 10:51:04 +0000</pubDate>
@@ -2158,32 +2082,6 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
-					<item>
-		<title></title>
-		<link>http://114.116.235.65/?page_id=232</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?page_id=232</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>232</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-16 23:21:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title>首页</title>
 		<link>http://114.116.235.65/2019/12/29/272/%e9%a6%96%e9%a1%b5.html</link>
@@ -2471,72 +2369,6 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Post Rewards Alipay</title>
-		<link>http://114.116.235.65/?post_type=opshui&#038;p=455</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?post_type=opshui&#038;p=455</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>455</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-08 22:57:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[hui-post_rewards_alipay]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[opshui]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Post Rewards Wechat</title>
-		<link>http://114.116.235.65/?post_type=opshui&#038;p=456</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?post_type=opshui&#038;p=456</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>456</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-08 22:57:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[hui-post_rewards_wechat]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[opshui]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Wechat Qr</title>
-		<link>http://114.116.235.65/?post_type=opshui&#038;p=457</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?post_type=opshui&#038;p=457</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>457</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-08 22:57:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[hui-wechat_qr]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[opshui]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title>11765489-853a6001b7a7e473</title>
 		<link>http://114.116.235.65/2020/01/10/476/%e5%9f%ba%e6%95%b0%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86.html/11765489-853a6001b7a7e473</link>
 		<pubDate>Fri, 10 Jan 2020 13:35:03 +0000</pubDate>
@@ -2630,21 +2462,233 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>关于2</title>
-		<link>http://114.116.235.65/guanyu2__trashed</link>
-		<pubDate>Wed, 04 Dec 2019 13:18:47 +0000</pubDate>
+		<title>703358-20160712170216170-126802192</title>
+		<link>http://114.116.235.65/2020/01/12/490/%e6%9c%80%e9%95%bf%e5%85%ac%e5%85%b1%e5%ad%90%e5%ba%8f%e5%88%97%e9%97%ae%e9%a2%98.html/703358-20160712170216170-126802192</link>
+		<pubDate>Sun, 12 Jan 2020 13:19:12 +0000</pubDate>
 		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?page_id=184</guid>
+		<guid isPermaLink="false">http://114.116.235.65/wp-content/uploads/2020/01/703358-20160712170216170-126802192.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[这是另一个测试页]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>184</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-04 21:18:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-04 13:18:47]]></wp:post_date_gmt>
+		<wp:post_id>492</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 21:19:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 13:19:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[703358-20160712170216170-126802192]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>490</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://114.116.235.65/wp-content/uploads/2020/01/703358-20160712170216170-126802192.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/01/703358-20160712170216170-126802192.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:374;s:6:"height";i:84;s:4:"file";s:46:"2020/01/703358-20160712170216170-126802192.jpg";s:5:"sizes";a:3:{s:6:"medium";a:4:{s:4:"file";s:45:"703358-20160712170216170-126802192-300x67.jpg";s:5:"width";i:300;s:6:"height";i:67;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:45:"703358-20160712170216170-126802192-150x84.jpg";s:5:"width";i:150;s:6:"height";i:84;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:45:"703358-20160712170216170-126802192-240x84.jpg";s:5:"width";i:240;s:6:"height";i:84;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>QQ图片20200113134559</title>
+		<link>http://114.116.235.65/2020/01/13/494/%e7%ae%80%e5%8d%95shard_ptr%e7%9a%84%e5%ae%9e%e7%8e%b0.html/qq%e5%9b%be%e7%89%8720200113134559</link>
+		<pubDate>Mon, 13 Jan 2020 05:48:54 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/wp-content/uploads/2020/01/QQ图片20200113134559.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>496</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-13 13:48:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-13 05:48:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[qq%e5%9b%be%e7%89%8720200113134559]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>494</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://114.116.235.65/wp-content/uploads/2020/01/QQ图片20200113134559.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/01/QQ图片20200113134559.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:902;s:6:"height";i:357;s:4:"file";s:34:"2020/01/QQ图片20200113134559.png";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:34:"QQ图片20200113134559-300x119.png";s:5:"width";i:300;s:6:"height";i:119;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:34:"QQ图片20200113134559-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:34:"QQ图片20200113134559-768x304.png";s:5:"width";i:768;s:6:"height";i:304;s:9:"mime-type";s:9:"image/png";}s:14:"post-thumbnail";a:4:{s:4:"file";s:34:"QQ图片20200113134559-240x180.png";s:5:"width";i:240;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>批注 2020-01-13 144301</title>
+		<link>http://114.116.235.65/2020/01/13/494/%e7%ae%80%e5%8d%95shard_ptr%e7%9a%84%e5%ae%9e%e7%8e%b0.html/%e6%89%b9%e6%b3%a8-2020-01-13-144301</link>
+		<pubDate>Mon, 13 Jan 2020 06:46:20 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/wp-content/uploads/2020/01/批注-2020-01-13-144301.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>497</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-13 14:46:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-13 06:46:20]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e6%89%b9%e6%b3%a8-2020-01-13-144301]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>494</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://114.116.235.65/wp-content/uploads/2020/01/批注-2020-01-13-144301.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/01/批注-2020-01-13-144301.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:705;s:6:"height";i:396;s:4:"file";s:36:"2020/01/批注-2020-01-13-144301.png";s:5:"sizes";a:3:{s:6:"medium";a:4:{s:4:"file";s:36:"批注-2020-01-13-144301-300x169.png";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:36:"批注-2020-01-13-144301-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:14:"post-thumbnail";a:4:{s:4:"file";s:36:"批注-2020-01-13-144301-240x180.png";s:5:"width";i:240;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>批注 2020-01-13 151325</title>
+		<link>http://114.116.235.65/2020/01/13/494/%e7%ae%80%e5%8d%95shard_ptr%e7%9a%84%e5%ae%9e%e7%8e%b0.html/%e6%89%b9%e6%b3%a8-2020-01-13-151325</link>
+		<pubDate>Mon, 13 Jan 2020 07:13:45 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/wp-content/uploads/2020/01/批注-2020-01-13-151325.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>498</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-13 15:13:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-13 07:13:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e6%89%b9%e6%b3%a8-2020-01-13-151325]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>494</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://114.116.235.65/wp-content/uploads/2020/01/批注-2020-01-13-151325.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/01/批注-2020-01-13-151325.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:500;s:6:"height";i:200;s:4:"file";s:36:"2020/01/批注-2020-01-13-151325.png";s:5:"sizes";a:3:{s:6:"medium";a:4:{s:4:"file";s:36:"批注-2020-01-13-151325-300x120.png";s:5:"width";i:300;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:36:"批注-2020-01-13-151325-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:14:"post-thumbnail";a:4:{s:4:"file";s:36:"批注-2020-01-13-151325-240x180.png";s:5:"width";i:240;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>批注 2020-01-13 152310</title>
+		<link>http://114.116.235.65/2020/01/13/494/%e7%ae%80%e5%8d%95shard_ptr%e7%9a%84%e5%ae%9e%e7%8e%b0.html/%e6%89%b9%e6%b3%a8-2020-01-13-152310</link>
+		<pubDate>Mon, 13 Jan 2020 07:23:33 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/wp-content/uploads/2020/01/批注-2020-01-13-152310.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>499</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-13 15:23:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-13 07:23:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e6%89%b9%e6%b3%a8-2020-01-13-152310]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>494</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://114.116.235.65/wp-content/uploads/2020/01/批注-2020-01-13-152310.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/01/批注-2020-01-13-152310.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:681;s:6:"height";i:293;s:4:"file";s:36:"2020/01/批注-2020-01-13-152310.png";s:5:"sizes";a:3:{s:6:"medium";a:4:{s:4:"file";s:36:"批注-2020-01-13-152310-300x129.png";s:5:"width";i:300;s:6:"height";i:129;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:36:"批注-2020-01-13-152310-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:14:"post-thumbnail";a:4:{s:4:"file";s:36:"批注-2020-01-13-152310-240x180.png";s:5:"width";i:240;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>2019052717355946</title>
+		<link>http://114.116.235.65/2019/12/14/506/linux%e5%b8%b8%e7%94%a8%e5%91%bd%e4%bb%a4.html/attachment/2019052717355946</link>
+		<pubDate>Wed, 29 Jan 2020 11:40:25 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/wp-content/uploads/2020/01/2019052717355946.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>508</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-29 19:40:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-29 11:40:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[2019052717355946]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>506</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://114.116.235.65/wp-content/uploads/2020/01/2019052717355946.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/01/2019052717355946.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:636;s:6:"height";i:143;s:4:"file";s:28:"2020/01/2019052717355946.png";s:5:"sizes";a:3:{s:6:"medium";a:4:{s:4:"file";s:27:"2019052717355946-300x67.png";s:5:"width";i:300;s:6:"height";i:67;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"2019052717355946-150x143.png";s:5:"width";i:150;s:6:"height";i:143;s:9:"mime-type";s:9:"image/png";}s:14:"post-thumbnail";a:4:{s:4:"file";s:28:"2019052717355946-240x143.png";s:5:"width";i:240;s:6:"height";i:143;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>隐私政策</title>
+		<link>http://114.116.235.65/?page_id=3</link>
+		<pubDate>Fri, 29 Nov 2019 12:50:23 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/?page_id=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading --><h2>我们是谁</h2><!-- /wp:heading --><!-- wp:paragraph --><p>我们的站点地址是：http://114.116.235.65。</p><!-- /wp:paragraph --><!-- wp:heading --><h2>我们收集何种及为何收集个人数据</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>评论</h3><!-- /wp:heading --><!-- wp:paragraph --><p>当访客留下评论时，我们会收集评论表单所显示的数据，和访客的IP地址及浏览器的user agent字符串来帮助检查垃圾评论。</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>由您的电子邮件地址所生成的匿名化字符串（又称为哈希）可能会被提供给Gravatar服务确认您是否有使用该服务。Gravatar服务的隐私政策在此：https://automattic.com/privacy/。在您的评论获批准后，您的资料图片将在您的评论旁公开展示。</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>媒体</h3><!-- /wp:heading --><!-- wp:paragraph --><p>如果您向此网站上传图片，您应当避免上传那些有嵌入地理位置信息（EXIF GPS）的图片。此网站的访客将可以下载并提取此网站的图片中的位置信息。</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>联系表单</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>如果您在我们的站点上留下评论，您可以选择用cookies保存您的姓名、电子邮件地址和网站。这是通过让您可以不用在评论时再次填写相关内容而向您提供方便。这些cookies会保留一年。</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>如果您访问我们的登录页，我们会设置一个临时的cookie来确认您的浏览器是否接受cookies。此cookie不包含个人数据，且会在您关闭浏览器时被丢弃。</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>当您登录时，我们也会设置多个cookies来保存您的登录信息及屏幕显示选项。登录cookies会保留两天，而屏幕显示选项cookies会保留一年。如果您选择了“记住我”，您的登录会保留两周。如果您注销，登录cookies将被移除。</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>如果您编辑或发布文章，我们会在您的浏览器中保存一个额外的cookie。这个cookie不包含个人数据而只记录了您刚才编辑的文章的ID。这个小甜饼会保留一天。</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>其他站点的嵌入内容</h3><!-- /wp:heading --><!-- wp:paragraph --><p>此站点上的文章可能会包含嵌入的内容（如视频、图像、文章等）。来自其他站点的嵌入内容的行为和您直接访问这些其他站点没有区别。</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>这些站点可能会收集关于您的数据、使用cookies、嵌入额外的第三方跟踪程序及监视您与这些嵌入内容的交互，包括在您有这些站点的账户并登录了这些站点时，跟踪您与嵌入内容的交互。</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>统计</h3><!-- /wp:heading --><!-- wp:heading --><h2>我们与谁共享您的信息</h2><!-- /wp:heading --><!-- wp:heading --><h2>我们保留多久您的信息</h2><!-- /wp:heading --><!-- wp:paragraph --><p>如果您留下评论，评论和其元数据将被无限期保存。我们这样做以便能识别并自动批准任何后续评论，而不用将这些后续评论加入待审队列。</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>对于本网站的注册用户，我们也会保存用户在个人资料中提供的个人信息。所有用户可以在任何时候查看、编辑或删除他们的个人信息（除了不能变更用户名外）、站点管理员也可以查看及编辑那些信息。</p><!-- /wp:paragraph --><!-- wp:heading --><h2>您对您的信息有什么权利</h2><!-- /wp:heading --><!-- wp:paragraph --><p>如果您有此站点的账户，或曾经留下评论，您可以请求我们提供我们所拥有的您的个人数据的导出文件，这也包括了所有您提供给我们的数据。您也可以要求我们抹除所有关于您的个人数据。这不包括我们因管理、法规或安全需要而必须保留的数据。</p><!-- /wp:paragraph --><!-- wp:heading --><h2>我们将您的信息发送到哪</h2><!-- /wp:heading --><!-- wp:paragraph --><p>访客评论可能会被自动垃圾评论监测服务检查。</p><!-- /wp:paragraph --><!-- wp:heading --><h2>您的联系信息</h2><!-- /wp:heading --><!-- wp:heading --><h2>其他信息</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>我们如何保护您的数据</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>我们有何种数据泄露处理流程</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>我们从哪些第三方接收数据</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>我们通过用户数据进行何种自动决策及/或归纳</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>行业监管披露要求</h3><!-- /wp:heading -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-29 20:50:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-29 12:50:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>关于</title>
+		<link>http://114.116.235.65/guanyu</link>
+		<pubDate>Sat, 30 Nov 2019 08:56:49 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/?page_id=55</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>持而盈之，不如其已。揣而锐之，不可长保。金玉满堂，莫之能守。富贵而骄，自遗其咎。功成身退，天之道。</strong>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>55</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-30 16:56:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-30 08:56:49]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[guanyu2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_name><![CDATA[guanyu]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
@@ -2655,28 +2699,54 @@
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[61]]></wp:meta_value>
+		<wp:meta_value><![CDATA[144]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		<wp:meta_key><![CDATA[dmeng_copyright_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		<wp:meta_key><![CDATA[dmeng_copyright_content]]></wp:meta_key>
+		<wp:meta_value><![CDATA[原文链接：&lt;a href=&quot;{link}&quot; rel=&quot;author&quot;&gt;{title}&lt;/a&gt;，转发请注明来源！]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1576509629]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[guanyu2]]></wp:meta_value>
+							</item>
+					<item>
+		<title></title>
+		<link>http://114.116.235.65/?page_id=232</link>
+		<pubDate></pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/?page_id=232</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>232</wp:post_id>
+		<wp:post_date><![CDATA[2019-12-16 23:21:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4308,7 +4378,7 @@ TCP提供面向有连接的通信传输。面向有连接是指在数据通信�
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		<wp:meta_value><![CDATA[19]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4607,7 +4677,7 @@ yconiontest@ecs-sn3-medium-2-linux-20191126141508:~/test/gdb_test$ ls
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4809,7 +4879,7 @@ weak_ptr是一种不控制所指向对象生存期的智能指针，它指向一
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -5665,195 +5735,71 @@ int main()
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>堆排序原理</title>
-		<link>http://114.116.235.65/2020/01/09/462/%e5%a0%86%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86.html</link>
-		<pubDate>Thu, 09 Jan 2020 14:58:08 +0000</pubDate>
+		<title>Post Rewards Alipay</title>
+		<link>http://114.116.235.65/?post_type=opshui&#038;p=455</link>
+		<pubDate></pubDate>
 		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?p=462</guid>
+		<guid isPermaLink="false">http://114.116.235.65/?post_type=opshui&#038;p=455</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h3>堆排序</h3>
-
-<blockquote>
-  堆排序(Heapsort)是指利用堆积树（堆）这种数据结构所设计的一种排序算法，它是选择排序的一种。可以利用数组的特点快速定位指定索引的元素。堆分为大根堆和小根堆，是完全二叉树。 ---百度百科
-</blockquote>
-
-<strong>在理解堆排序之前先对完全二叉树要有个简单的概念</strong>
-- 完全二叉树： 除了最后一层之外的其他每一层都被完全填充，并且所有结点都保持向左对齐。
-<a href="http://114.116.235.65/wp-content/uploads/2020/01/1625739a03779fa3.png"><img src="http://114.116.235.65/wp-content/uploads/2020/01/1625739a03779fa3.png" alt="" /></a>
-- 满二叉树：除了叶子结点之外的每一个结点都有两个孩子，每一层(当然包含最后一层)都被完全填充。
-<a href="http://114.116.235.65/wp-content/uploads/2020/01/1625739a038d7d2b.png"><img src="http://114.116.235.65/wp-content/uploads/2020/01/1625739a038d7d2b.png" alt="" /></a>
-- 完满二叉树：除了叶子结点之外的每一个结点都有两个孩子结点。
-<a href="http://114.116.235.65/wp-content/uploads/2020/01/1625739a039716c0.png"><img src="http://114.116.235.65/wp-content/uploads/2020/01/1625739a039716c0.png" alt="" /></a>
-
-<hr />
-
-参考：<a href="https://www.cnblogs.com/Java3y/p/8639937.html" title="https://www.cnblogs.com/Java3y/p/8639937.html">https://www.cnblogs.com/Java3y/p/8639937.html</a>
-
-<hr />
-
-<strong>其中，完全二叉树有一个重要性质</strong>：
-- 左边子节点位置 = 当前父节点的两倍 + 1
-- 右边子节点位置 = 当前父节点的两倍 + 2
-
-<h4>简单建堆过程分析</h4>
-
-<ul>
-<li>一次过程中，需要通过该二叉树结构找到最大值（或最小值），在该值的寻找过程中，以父节点与其左右节点所构成的点关系能够找出最大点（或最小点），将其移动至父节点位置。</li>
-<li>依次类推，直至最值移动到根节点位置，此时可以算作建堆完成。</li>
-<li>但以上只是取出在该数据结构中（比如数组存放）一个最值，所以，可以将其与数组最后一个值交换以达到<strong>保存</strong>的作用。</li>
-<li>在次执行前面两个建堆的过程，循环往复，得到一个顺序的数组（大根堆）。</li>
-</ul>
-
-<h5>ps:具体代码之后以具体的题目展示。</h5>]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>462</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-09 22:58:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-09 14:58:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e5%a0%86%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_id>455</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-08 22:57:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hui-post_rewards_alipay]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[opshui]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%e5%a0%86%e6%8e%92%e5%ba%8f"><![CDATA[堆排序]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[37]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+														</item>
 					<item>
-		<title>选择排序原理</title>
-		<link>http://114.116.235.65/2020/01/09/467/%e9%80%89%e6%8b%a9%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86.html</link>
-		<pubDate>Thu, 09 Jan 2020 15:22:01 +0000</pubDate>
+		<title>Post Rewards Wechat</title>
+		<link>http://114.116.235.65/?post_type=opshui&#038;p=456</link>
+		<pubDate></pubDate>
 		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?p=467</guid>
+		<guid isPermaLink="false">http://114.116.235.65/?post_type=opshui&#038;p=456</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h3>选择排序</h3>
-
-<blockquote>
-  选择排序（Selection sort）是一种简单直观的排序算法。它的工作原理是：第一次从待排序的数据元素中选出最小（或最大）的一个元素，存放在序列的起始位置，然后再从剩余的未排序元素中寻找到最小（大）元素，然后放到已排序的序列的末尾。以此类推，直到全部待排序的数据元素的个数为零。选择排序是不稳定的排序方法。---百度百科
-</blockquote>
-
-选择排序对于我们来说应该不算一种复杂的排序方法，简而言之嵌套循环就能解决，通过一个暂存值存放大值（或者小值）--该值初始可以以数组第一个值为初始量，依次与后面的值比较，大值交换进入暂存，最后得到整个数组最大值放入数组第一个位置。再以后面所有数为小数组按上次方法得到大值，依次完成该操作完成逆序数组获取任务。]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>467</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-09 23:22:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-09 15:22:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e9%80%89%e6%8b%a9%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_id>456</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-08 22:57:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hui-post_rewards_wechat]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[opshui]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%e9%80%89%e6%8b%a9%e6%8e%92%e5%ba%8f"><![CDATA[选择排序]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+														</item>
 					<item>
-		<title>希尔排序原理</title>
-		<link>http://114.116.235.65/2020/01/10/469/%e5%b8%8c%e5%b0%94%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86.html</link>
-		<pubDate>Fri, 10 Jan 2020 01:53:48 +0000</pubDate>
+		<title>Wechat Qr</title>
+		<link>http://114.116.235.65/?post_type=opshui&#038;p=457</link>
+		<pubDate></pubDate>
 		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?p=469</guid>
+		<guid isPermaLink="false">http://114.116.235.65/?post_type=opshui&#038;p=457</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h3>希尔排序</h3>
-
---百度百科
-
-<blockquote>
-  <ul>
-  <li>希尔排序(Shell's Sort)是插入排序的一种又称“缩小增量排序”（Diminishing Increment Sort），是直接插入排序算法的一种更高效的改进版本。希尔排序是非稳定排序算法。</li>
-  <li>希尔排序是把记录按下标的一定增量分组，对每组使用直接插入排序算法排序；随着增量逐渐减少，每组包含的关键词越来越多，当增量减至1时，整个文件恰被分成一组，算法便终止。</li>
-  </ul>
-</blockquote>
-
-插入排序对于小规模数据或者基本有序数据更体现优势。而对于较大规模或者无序的数据应用希尔排序比单纯的插入排序更有性能优势。
-
-<h4>具体实现逻辑</h4>
-
-<strong>在取量逻辑分组过程中有点类似快排等排序方法，即大换小，一个大数组按一定规则换为两小数组，依次执行。</strong>
-
-<ol>
-<li>进行逻辑分区，若该数组大小为8（举例），此时可以以数组下标间隔4为一组，此时只有两个数在一组内，比较符合插入排序的小规模数据特点，所以可以对逻辑分组进行插入排序。</li>
-<li>再针对该数组以间隔为2组成逻辑分组（并没有改变数组数据顺序），在各逻辑分组内进行插入排序（因为经过1步骤，数组有序性更好）</li>
-</ol>
-
-<h2>3. 按上步骤直至增量为1进行插入排序使得数据有序。</h2>]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>469</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-10 09:53:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-10 01:53:48]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e5%b8%8c%e5%b0%94%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_id>457</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-08 22:57:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hui-wechat_qr]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[opshui]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%e5%b8%8c%e5%b0%94%e6%8e%92%e5%ba%8f"><![CDATA[希尔排序]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[36]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+														</item>
 					<item>
 		<title>协程库coroutine</title>
 		<link>http://114.116.235.65/?p=472</link>
@@ -5886,187 +5832,361 @@ int main()
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>插入排序原理</title>
-		<link>http://114.116.235.65/2020/01/10/473/%e6%8f%92%e5%85%a5%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86.html</link>
-		<pubDate>Fri, 10 Jan 2020 13:04:46 +0000</pubDate>
+		<title>linux常用命令</title>
+		<link>http://114.116.235.65/2019/12/14/506/linux%e5%b8%b8%e7%94%a8%e5%91%bd%e4%bb%a4.html</link>
+		<pubDate>Sat, 14 Dec 2019 11:40:00 +0000</pubDate>
 		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?p=473</guid>
+		<guid isPermaLink="false">http://114.116.235.65/?p=506</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>插入排序</h2>
+		<content:encoded><![CDATA[<h3>linux常用命令</h3>
 
-<blockquote>
-  插入排序（Insertion sort）是一种简单直观且稳定的排序算法。如果有一个已经有序的数据序列，要求在这个已经排好的数据序列中插入一个数，但要求插入后此数据序列仍然有序，这个时候就要用到一种新的排序方法——插入排序法,插入排序的基本操作就是将一个数据插入到已经排好序的有序数据中，从而得到一个新的、个数加一的有序数据，算法适用于少量数据的排序，时间复杂度为O(n^2)。---百度百科
-</blockquote>
-
-<a href="http://114.116.235.65/wp-content/uploads/2020/01/3974900-a076b3f60b618185.gif"><img src="http://114.116.235.65/wp-content/uploads/2020/01/3974900-a076b3f60b618185.gif" alt="" /></a>
+该<a href="http://https://blog.csdn.net/weixin_44706512/article/details/90604635" title="https://blog.csdn.net/weixin_44706512/article/details/90604635">https://blog.csdn.net/weixin_44706512/article/details/90604635</a>博客里常用基础的命令都写得比较全了，这里摘抄一下便于复习。
 
 <hr />
 
-<strong>插入排序比较简单，在于比较挪位同时以tmp值保存提出的待插值，此时也会出现空位便于数组数值移动。</strong>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>473</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-10 21:04:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-10 13:04:46]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e6%8f%92%e5%85%a5%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%e6%8f%92%e5%85%a5%e6%8e%92%e5%ba%8f"><![CDATA[插入排序]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[32]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>基数排序原理</title>
-		<link>http://114.116.235.65/2020/01/10/476/%e5%9f%ba%e6%95%b0%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86.html</link>
-		<pubDate>Fri, 10 Jan 2020 13:41:06 +0000</pubDate>
-		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?p=476</guid>
-		<description></description>
-		<content:encoded><![CDATA[<h3>基数排序</h3>
+<h4>查看目录结构命令</h4>
 
-<blockquote>
-  基数排序（radix sort）属于“分配式排序”（distribution sort），又称“桶子法”（bucket sort）或bin sort，顾名思义，它是透过键值的部份资讯，将要排序的元素分配至某些“桶”中，藉以达到排序的作用，基数排序法是属于稳定性的排序，其时间复杂度为O (nlog(r)m)，其中r为所采取的基数，而m为堆数，在某些时候，基数排序法的效率高于其它的稳定性排序法。---百度百科
-</blockquote>
+ls(list)功能：列出目录内容
 
-<h4>桶排序</h4>
+格式：ls[参数][文件或目录]
 
-<blockquote>
-  桶排序 (Bucket sort)或所谓的箱排序，是一个排序算法，工作的原理是将数组分到有限数量的桶子里。每个桶子再个别排序（有可能再使用别的排序算法或是以递归方式继续使用桶排序进行排序）。桶排序是鸽巢排序的一种归纳结果。当要被排序的数组内的数值是均匀分配的时候，桶排序使用线性时间（Θ（n））。但桶排序并不是 比较排序，他不受到 O(n log n) 下限的影响。---百度百科
-</blockquote>
+-a或--all    所有文件和目录。注意隐藏文件、特殊目录、以“.”开头的和以“..”开头的
 
-图片示例：
+-l    使用详细格式列表
 
-<h2><a href="http://114.116.235.65/wp-content/uploads/2020/01/2018033115584192.gif"><img src="http://114.116.235.65/wp-content/uploads/2020/01/2018033115584192.gif" alt="" /></a></h2>
+-t    用文件和目录的更改时间排序
 
-分割线
+-r   反向排序
 
-<hr />
+--help   在线帮助
 
-<a href="http://114.116.235.65/wp-content/uploads/2020/01/20190219081232815.png"><img src="http://114.116.235.65/wp-content/uploads/2020/01/20190219081232815.png" alt="" /></a>
+常用：
 
-**由图看出桶排序的原理为 **分区存放****，以堆栈的方式比较合适。
+ls   -l             列出当前目录下的文件信息（此命令很常用，简化的格式为 ll）
 
-<h4>基数排序分析</h4>
+ls   -al           列出当前目录下的文件信息（包括隐藏文件，特殊目录）
 
-<a href="http://114.116.235.65/wp-content/uploads/2020/01/11765489-853a6001b7a7e473.gif"><img src="http://114.116.235.65/wp-content/uploads/2020/01/11765489-853a6001b7a7e473.gif" alt="" /></a>
+ll    /home/     显示根目录下home目录下的内容
 
-<hr />
+<h4>切换目录命令</h4>
+
+cd(change directory)功能：切换目录
+
+语法：cd[目录]
+
+常用：
+
+cd   ~       当前用户主目录
+
+cd   /        根目录
+
+cd   -        上一次访问的目录
+
+cd   ..       上一级目录
+
+cd            当前用户主目录
+
+ 
+
+touch   1.txt    在当前目录创建一个文件1.txt
+
+clear：清除屏幕
+
+<h4>创建目录命令</h4>
+
+pwd:显示当前工作目录
+
+mkdir: 创建目录
+
+mkdir   a :当前目录下创建文件夹a
+
+mkdir  /root/b  :在根目录下的root下创建目录b
+
+mkdir  -pv  /root/c/e/d :在根目录下的root下创建目录结构c/e/d（一下创建多级目录）
+
+-p：父目录不存在情况下先生成父目录
+
+-v：显示命令执行过程中的详细信息
+
+[注]：如果是文件开头是-，如果是文件夹开头是d且文件夹名为黑体(如下图所示)
+<img src="http://114.116.235.65/wp-content/uploads/2020/01/2019052717355946.png" alt="" />
+
+<h4>文件浏览</h4>
+
+[注]：按tab键可以自动补齐文件名
+
+cat   文件名：显示指定文件的所有内容（用于文件内容少的情况）
+
+more  文件名：分页显示文件内容，还支持直接跳转行等功能（用于文件内容多的情况）
+
+Enter ：向下n行，需要定义。默认为1行
+
+空格键：向下滚动一屏  或 Ctrl+F
+
+B    返回上一屏  或Ctrl+B
+
+q   退出more
+
+less [参数]  文件名 ：分页显示文件内容，操作更详细
+
+参数：-m 显示类似more命令的百分比        -N   显示每行的行号     两个参数可以结合用  -mN
+
+空格键：前进一页 或 page down
+
+b：后退一页   或 page up
+
+d：前进半页
+
+u：后退半页
+
+Enter：前进一行 或 方向键向下
+
+y：后退一行  或 方向键向上
+
+/字符串：向下搜索
+
+？字符串：向上搜索
+
+v：进入vim编辑器
+
+tall命令：用来显示指定文件末尾内容，不指定文件时，作为输入信息进行处理。常用查看日志文件。
+
+tail[必要参数][选择参数][文件]
+
+ -n&lt;行数> 显示行数
+
+-f 循环读取
+
+<h4>文件操作</h4>
+
+1.复制命令：cp
+
+cp(copy)功能：复制文件或目录
+
+语法：cp[参数]   [源文件或目录]    [目标文件或目录]
+
+-r或--recursive   递归处理，将指定目录下的文件与子目录一并处理
+
+ -b  覆盖文件时，可以将源文件做一个备份
+
+例如：
+
+复制文件：
+
+cp   1.txt   2.txt
+
+cp -b  1.txt  2.txt  ：如果覆盖文件时,可以将源文件做一个备份
+
+cp  ./1.txt   ../   ：将当前目录下的1.txt复制到父级目录
+
+cp  /root/1.txt   /bin/2.txt   ：将/root下的1.txt文件复制到根目录下的bin目录下的2.txt中
+
+复制目录：(无论是单层目录还是多层目录都可以复制):
+
+cp  -r  ./a  ./b
+
+cp  -r  /root/a  /root/z
+
+2.移动命令：mv
+
+mv（move）功能：移动或更名现有的文件或目录
+
+语法：mv [源文件或目录][目标文件或目录]
+
+-f  或 --force   若目标文件或目录与现有的文件目录重复，则直接覆盖现有的文件或目录
+
+剪切文件：mv    ./1.txt    /root    将当前目录下的1.txt文件 剪切到root目录下
+
+重命名文件：mv  ./1.txt   ./2.txt      将当前目录下的1.txt文件重命名为2.txt
+
+3.删除命令：rm
+
+rm功能：删除文件或目录
+
+语法：rm [-dfirv][--help][--version][文件或目录...]
+
+-f 或 --force   强制删除文件或目录
+
+-r 或 -R 或 --recursive   递归处理，将指定目录下的所有文件及子目录一并处理
+
+强制删除文件：rm   -f   ./1.txt      
+
+强制删除目录：rm   -rf   ./a      
+
+ 
+
+4.查找命令：find
+
+find功能：查找文件或目录
+
+语法：find[目录...][参数]
+
+-name  指定字符串作为寻找文件或目录的范本样式
+
+例如：find  /root/  -name  'test<em>'   查找root目录下的文件开头是test的文件和文件夹，</em>是通配符 。注意字符串要用单引号引起来。
+ ##### Linux 权限格式：&lt;类型>&lt;用户>&lt;组>&lt;其他用户>
+
+<h4>文档编辑</h4>
+
+vi或vim命令
+
+基本操作
+
+<ol>
+<li>vim  文件名   ：进入一般模式（不能输入）</p></li>
+<li><p>按下 i 从一般模式，进入到插入模式</p></li>
+<li><p>按下esc从插入模式，退出到一般模式</p></li>
+<li><p>在一般模式下，输入:wq,退出编辑。</p></li>
+</ol>
+
+<h4>管道</h4>
+
+<p>linux提供管道符号 “|”  作用是“命令1”的输出内容，将作为“命令2”的输入内容。一般与grep命令一起使用
+
+格式：命令1 | 命令2
+
+1.grep命令
+
+功能：用于过滤/搜索特定字符。可使用正则表达式 能多种命令配合使用。
+
+格式：grep [option] pattern [file]       grep   参数  过滤条件   文件        （-i 或 --ignore-case        忽略字符大小写的差别）
+
+例如：grep   -i   one  /root/1.txt      显示root目录下的1.txt文件中含有one字符的一行数据（忽略大小写）   
+
+格式：其他命令 | grep  参数  过滤条件
+
+例如：cat   /root/1.txt  |  grep  -i  one     在cat命令输出结果基础上，进行过滤
+
+<h4>系统命令</h4>
+
+1.ps命令
+
+任务管理器：ps  -ef        查看当前所有进程（包括执行ps命令的那个时刻进程信息）
+
+格式：ps [参数]
+
+-e  此参数的效果和指定“A”参数相同，显示所有程序
+
+-f  显示UID,PPIP,C与STIME栏位
+
+例如：ps -ef  |  grep -i mysql     过滤出mysql这个进程
+
+2.kill命令
+
+kill功能：删除执行中的程序或工作
+
+语法：kill[参数][程序]
+
+-l&lt;信息编号>       若不加&lt;信息编号>选项，则-l参数会列出全部的信息名称。
+
+kill  -9  ：表示强制终止
+
+格式：kill    -9    pid
+
+可先通过ps -ef 查找出所要删除的进程pid，再通过kill -9 pid 终止进程
+
+3.ifconfig命令
+
+功能：显示网络设备
+
+格式：ping  主机名或ip地址    （按ctrl+c停止ping）
+
+<h4>备份压缩：tar命令</h4>
+
+tar功能：文件备份压缩
+
+格式：tar      参数       压缩后的文件名      被压缩的文件名
+
+tar      参数       被解压的文件名      -C  指定目录            （如果省略 -C 指定目录，则解压到当前文件夹）
+
+-c 建立一个压缩文件的参数指令（create）--压缩
+
+-x 解开一个压缩文件的参数指令（extract）--解压
+
+-z 是否需要用gzip压缩
+
+-v 压缩的过程中显示文件（verbose）
+
+-f 使用档名，在f之后要立即接档名（file）
+
+常用解压参数组合：zxvf
+
+常用压缩参数组合：zcvf
+
+例如：
+
+  tar  -zcvf  /root/1.tar   /root/a     将root目录下的a文件夹压缩成1.tar,放在root目录下。
+
+  tar  -zxvf  ./1.tar        将当前目录下的1.tar文件解压缩
+
+[注]：如果后缀名为.tar.gz的压缩包用-zxvf   如果后缀名为.tar的压缩包用-xvf
+
+<h4>关机  重启</h4>
+
+Linux centos 重启命令：reboot
+
+Linux centos 关机命令：halt
+
+<h4>文件权限：chmod命令</h4>
+
+chmod功能：变更文件或目录的权限
+
+语法：chmod [参数][&lt;权限范围>&lt;符号>&lt;权限代号>]
+
+-R  或 --recursive   递归处理，将指定目录下的所有文件及子目录一并处理
+
+--权限范围的表示法如下：
+
+u：User  即文件或目录的拥有者
+
+g：Group 即文件或目录的所属群组
+
+o：Other  除了文件或目录拥有者或所属群组之外，其他用户皆属于这个范围
+
+a：All        即全部的用户，包含拥有者，所属群组及其他用户。
+
+--符号
 
 <ul>
-<li>先以个位数的大小进行桶排序，再将数从桶中拿出，此时数组数值大小是按个位数大小排序的（该顺序不易破坏，当在进行十位数排序时，同一个桶内会保持个位数大小排序，正是利用该特点，能得到较好性能排序效果）。</li>
-<li>然后按十位数进行桶排序，依次直至最高位都为零了，能够得到顺序数组。</li>
-</ul>]]></content:encoded>
+<li>添加权限</p></li>
+<li><p>取消权限</p></li>
+</ul>
+
+<p>-- 有关权限代号的部分
+
+r：读取权限，数字代号为“4”
+
+w：写入权限，数字代号为“2”
+
+x：执行或切换权限，数字代号为“1”
+
+<ul>
+<li>：不具任何权限，数字代号为“0”</li>
+</ul>
+
+777 ：所有权限
+
+[注]：3=1+2（wx）   5=4+1(rx)
+
+ 
+
+mkdir xxx  创建xxx目录
+
+例如：
+
+chmod    u-rwx   xxx    取消xxx目录的用户“读写执行”权限
+
+chmod    g-rwx   xxx    取消xxx目录的组“读写执行”权限
+
+chmod    777      xxx    给xxx目录添加所有权限       ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>476</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-10 21:41:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-10 13:41:06]]></wp:post_date_gmt>
+		<wp:post_id>506</wp:post_id>
+		<wp:post_date><![CDATA[2019-12-14 19:40:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-12-14 11:40:00]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e5%9f%ba%e6%95%b0%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86]]></wp:post_name>
+		<wp:post_name><![CDATA[linux%e5%b8%b8%e7%94%a8%e5%91%bd%e4%bb%a4]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%e5%9f%ba%e6%95%b0%e6%8e%92%e5%ba%8f"><![CDATA[基数排序]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[33]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>最长公共子序列问题</title>
-		<link>http://114.116.235.65/?p=490</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?p=490</guid>
-		<description></description>
-		<content:encoded><![CDATA[<h3>最长公共子序列</h3>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>490</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-11 21:42:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%e6%9c%80%e9%95%bf%e5%ad%90%e5%ba%8f%e5%88%97"><![CDATA[最长子序列]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>世界，您好！</title>
-		<link>http://114.116.235.65/2019/11/29/1/hello-world__trashed.html</link>
-		<pubDate>Fri, 29 Nov 2019 12:50:23 +0000</pubDate>
-		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-29 20:50:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-29 12:50:23]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
@@ -6074,54 +6194,30 @@ int main()
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[杂项]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[post_views_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020-01-29]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1577689580]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[一位WordPress评论者]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2019-11-29 20:50:23]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2019-11-29 12:50:23]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[嗨，这是一条评论。
-要开始审核、编辑及删除评论，请访问仪表盘的“评论”页面。
-评论者头像来自<a href="https://gravatar.com">Gravatar</a>。]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1575104717.1872599;s:5:"event";s:12:"status-trash";s:4:"user";s:7:"yconion";}]]></wp:meta_value>
-			</wp:commentmeta>
-						<wp:commentmeta>
-	<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1575104723.464802;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"yconion";}]]></wp:meta_value>
-			</wp:commentmeta>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
 		<title>这是一个文章测试</title>
 		<link>http://114.116.235.65/2019/11/30/14/wrer__trashed.html</link>
@@ -6405,132 +6501,6 @@ asffdqfsdfsdg微软方式v是否受到非人
 							</wp:comment>
 					</item>
 					<item>
-		<title>适当方式打开回复</title>
-		<link>http://114.116.235.65/2020/01/01/134/__trashed-3.html</link>
-		<pubDate>Wed, 01 Jan 2020 06:15:29 +0000</pubDate>
-		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?p=134</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>dfsdfgdsfgdfg</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>s'd'f'g's'd'f'g'dsdfgsdfgd</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:block {"ref":137} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>134</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-01 14:15:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-01 06:15:29]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[__trashed-3]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[杂项]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[60]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.7.5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1577859329]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>未命名可重用区块</title>
-		<link>http://114.116.235.65/2019/12/04/137/%e6%9c%aa%e5%91%bd%e5%90%8d%e5%8f%af%e9%87%8d%e7%94%a8%e5%8c%ba%e5%9d%97.html</link>
-		<pubDate>Wed, 04 Dec 2019 09:29:56 +0000</pubDate>
-		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/index.php/2019/12/04/%e6%9c%aa%e5%91%bd%e5%90%8d%e5%8f%af%e9%87%8d%e7%94%a8%e5%8c%ba%e5%9d%97/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->
-#include <iostream>
-using namespace std;
- 
-int main ()
-{
-   // 数字定义
-   short  s;
-   int    i;
-   long   l;
-   float  f;
-   double d;
-   
-   // 数字赋值
-   s = 10;      
-   i = 1000;    
-   l = 1000000; 
-   f = 230.47;  
-   d = 30949.374;
-   
-   // 数字输出
-   cout << "short  s :" << s << endl;
-   cout << "int    i :" << i << endl;
-   cout << "long   l :" << l << endl;
-   cout << "float  f :" << f << endl;
-   cout << "double d :" << d << endl;
- 
-   return 0;
-}
-<!-- /wp:shortcode -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>137</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-04 17:29:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-04 09:29:56]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e6%9c%aa%e5%91%bd%e5%90%8d%e5%8f%af%e9%87%8d%e7%94%a8%e5%8c%ba%e5%9d%97]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>好烦</title>
 		<link>http://114.116.235.65/2019/12/04/140/haofan__trashed.html</link>
 		<pubDate>Wed, 04 Dec 2019 09:42:38 +0000</pubDate>
@@ -6790,61 +6760,6 @@ ins datetime="2019-12-04T13:19:59+00:00">
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>阿斯顿噶客服额</title>
-		<link>http://114.116.235.65/2019/12/06/223/987945786453145685__trashed.html</link>
-		<pubDate>Fri, 06 Dec 2019 02:41:16 +0000</pubDate>
-		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?p=223</guid>
-		<description></description>
-		<content:encoded><![CDATA[士大夫精神打发时间的考古发掘是的韩国问题给我如果如果我热狗发的活动获得丰厚的方便的发表发布的愤怒的公牛
-三大块返回客人韩国日本宪法v居然发
-岁的法国克己奉公<!--more-->
-
-确认无问题涛涛涛涛涛涛涛涛涛涛涛涛涛涛]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>223</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-06 10:41:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-06 02:41:16]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[987945786453145685__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[杂项]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[views]]></wp:meta_key>
-		<wp:meta_value><![CDATA[23]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1577689585]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[987945786453145685]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>萨菲航空技术大会开始觉得很热</title>
 		<link>http://114.116.235.65/2019/12/06/225/97864531298645312__trashed.html</link>
 		<pubDate>Fri, 06 Dec 2019 02:42:09 +0000</pubDate>
@@ -7034,162 +6949,60 @@ ask的高房价考试大纲开发</strong>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>红黑树浅析</title>
-		<link>http://114.116.235.65/2019/12/30/341/__trashed-2.html</link>
-		<pubDate>Mon, 30 Dec 2019 09:20:56 +0000</pubDate>
+		<title>堆排序原理</title>
+		<link>http://114.116.235.65/2020/01/09/462/%e5%a0%86%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86.html</link>
+		<pubDate>Thu, 09 Jan 2020 14:58:08 +0000</pubDate>
 		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?p=341</guid>
+		<guid isPermaLink="false">http://114.116.235.65/?p=462</guid>
 		<description></description>
-		<content:encoded><![CDATA[<strong>一、红黑树的定义：</strong>
+		<content:encoded><![CDATA[<h3>堆排序</h3>
 
 <blockquote>
-红黑树是每个节点都带有颜色属性的二叉查找树，颜色或红色或黑色。在二叉查找树强制一般要求以外，对于任何有效的红黑树我们增加了如下的额外要求:
-性质1. 节点是红色或黑色。
-性质2. 根节点是黑色。
-性质3 每个红色节点的两个子节点都是黑色。(从每个叶子到根的所有路径上不能有两个连续的红色节点)
-性质4. 从任一节点到其每个叶子的所有路径都包含相同数目的黑色节点。
-这些约束强制了红黑树的关键性质: 从根到叶子的最长的可能路径不多于最短的可能路径的两倍长。结果是这个树大致上是平衡的。因为操作比如插入、删除和查找某个值的最坏情况时间都要求与树的高度成比例，这个在高度上的理论上限允许红黑树在最坏情况下都是高效的，而不同于普通的二叉查找树。
-是性质3导致路径上不能有两个连续的红色节点确保了这个结果。最短的可能路径都是黑色节点，最长的可能路径有交替的红色和黑色节点。因为根据性质4所有最长的路径都有相同数目的黑色节点，这就表明了没有路径能多于任何其他路径的两倍长。
-在很多树数据结构的表示中，一个节点有可能只有一个子节点，而叶子节点不包含数据。用这种范例表示红黑树是可能的，但是这会改变一些属性并使算法复杂。为此，本文中我们使用 "nil 叶子" 或"空(null)叶子"，如上图所示，它不包含数据而只充当树在此结束的指示。这些节点在绘图中经常被省略，导致了这些树好象同上述原则相矛盾，而实际上不是这样。与此有关的结论是所有节点都有两个子节点，尽管其中的一个或两个可能是空叶子。
+  堆排序(Heapsort)是指利用堆积树（堆）这种数据结构所设计的一种排序算法，它是选择排序的一种。可以利用数组的特点快速定位指定索引的元素。堆分为大根堆和小根堆，是完全二叉树。 ---百度百科
 </blockquote>
 
-<div class="alert alert-info" role="alert">红黑树的时间复杂度为O(log n)。由平衡二叉树我们可以知道其高度约为 log2n（再添加数据时通过不断的调整达到平衡)。而红黑树的高度为多少呢？这里有一个定理：一个含有n个节点的红黑树的高度最多为2log n。我们可以这样来理解： 对于上面的那个图示，如果我们去掉所有的红色节点，结果会变成下图。</div>
+<strong>在理解堆排序之前先对完全二叉树要有个简单的概念</strong>
+- 完全二叉树： 除了最后一层之外的其他每一层都被完全填充，并且所有结点都保持向左对齐。
+<a href="http://114.116.235.65/wp-content/uploads/2020/01/1625739a03779fa3.png"><img src="http://114.116.235.65/wp-content/uploads/2020/01/1625739a03779fa3.png" alt="" /></a>
+- 满二叉树：除了叶子结点之外的每一个结点都有两个孩子，每一层(当然包含最后一层)都被完全填充。
+<a href="http://114.116.235.65/wp-content/uploads/2020/01/1625739a038d7d2b.png"><img src="http://114.116.235.65/wp-content/uploads/2020/01/1625739a038d7d2b.png" alt="" /></a>
+- 完满二叉树：除了叶子结点之外的每一个结点都有两个孩子结点。
+<a href="http://114.116.235.65/wp-content/uploads/2020/01/1625739a039716c0.png"><img src="http://114.116.235.65/wp-content/uploads/2020/01/1625739a039716c0.png" alt="" /></a>
 
-<pre><code>这时由于有些节点没有父节点了，我们直接拿到他的祖父节点来充当其父节点，所以之前的二叉树就变成了四叉树。在前面红黑树的定义里有这么一条：从任意节点到可达的叶子节点的每个路径包含相同数目的黑色节点。我们从四叉树中取出某些节点，放到叶节点位置，四叉树就变成了完全二叉树。所以，仅包含黑色节点的四叉树的高度，比包含相同节点个数的完全二叉树的高度log2n还要小。而现在当我们再把红色节点加回去时，由于前面的定义红色点之间不能相邻，所以现在红黑树的高度会比log2n大，但是最大不会超过2log2n(因为之前全部黑色节点时，的高度不会超过log2n)。
-</code></pre>
+<hr />
 
-<strong>结论</strong>
-因此，由于红黑树的高度只比平衡树的高度大了一倍，但是在性能上，下降的并不是很多。在实际运用中，AVL 树是一种高度平衡的二叉树，查找的效率非常高，但是，AVL 树为了维持这种高度的平衡，就需要进行更多的操作来保持这种平衡。每次插入、删除都要做调整，就比较复杂、耗时。所以，对于有频繁的插入、删除操作的数据集合，使用 AVL 树的代价就有点高了。而红黑树只是做到了近似平衡，并不是严格的平衡，所以在维护平衡的成本上，要比 AVL 树要低。所以，红黑树的插入、删除、查找各种操作性能都比较稳定。对于工程应用来说，要面对各种异常情况，为了支撑这种工业级的应用，我们更倾向于这种性能稳定的平衡二叉查找树。]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>341</wp:post_id>
-		<wp:post_date><![CDATA[2019-12-30 17:20:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-12-30 09:20:56]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[__trashed-2]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%e6%95%b0%e6%8d%ae%e7%bb%93%e6%9e%84"><![CDATA[数据结构]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[dmeng_copyright_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[dmeng_copyright_content]]></wp:meta_key>
-		<wp:meta_value><![CDATA[原文链接：&lt;a href=&quot;{link}&quot; rel=&quot;author&quot;&gt;{title}&lt;/a&gt;，转发请注明来源！]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_7a7b79495d4eda2f21093a5445dd6319]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_b35dd7c52a328d6e8d4e9497d31aee85]]></wp:meta_key>
-		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1577697656]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>冒泡排序原理</title>
-		<link>http://114.116.235.65/2020/01/08/436/%e5%86%92%e6%b3%a1%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86__trashed.html</link>
-		<pubDate>Wed, 08 Jan 2020 12:47:49 +0000</pubDate>
-		<dc:creator><![CDATA[yconion]]></dc:creator>
-		<guid isPermaLink="false">http://114.116.235.65/?p=436</guid>
-		<description></description>
-		<content:encoded><![CDATA[<h3>冒泡排序</h3>
+参考：<a href="https://www.cnblogs.com/Java3y/p/8639937.html" title="https://www.cnblogs.com/Java3y/p/8639937.html">https://www.cnblogs.com/Java3y/p/8639937.html</a>
 
-<strong>在冒泡排序中，核心思想就是逐次比较，在比较的过程中保留较大值（或较小值），然后将该值保留移动至最左边（或最右边）---模拟水泡因为重量太轻（其实是压强）的缘故一直往上漂的过程</strong>
+<hr />
+
+<strong>其中，完全二叉树有一个重要性质</strong>：
+- 左边子节点位置 = 当前父节点的两倍 + 1
+- 右边子节点位置 = 当前父节点的两倍 + 2
+
+<h4>简单建堆过程分析</h4>
 
 <ul>
-<li>从过程中发现它的复杂度为O(n2)，n个数n次循环（准确来讲应从实际的数学来判断）</li>
-<li><p>冒上去的“水泡”不需要在考虑了</p></li>
-<li><p>具体一类算法如下 <a href="https://blog.csdn.net/yangchuang93/article/details/80858054" title="https://blog.csdn.net/yangchuang93/article/details/80858054">https://blog.csdn.net/yangchuang93/article/details/80858054</a></p></li>
+<li>一次过程中，需要通过该二叉树结构找到最大值（或最小值），在该值的寻找过程中，以父节点与其左右节点所构成的点关系能够找出最大点（或最小点），将其移动至父节点位置。</li>
+<li>依次类推，直至最值移动到根节点位置，此时可以算作建堆完成。</li>
+<li>但以上只是取出在该数据结构中（比如数组存放）一个最值，所以，可以将其与数组最后一个值交换以达到<strong>保存</strong>的作用。</li>
+<li>在次执行前面两个建堆的过程，循环往复，得到一个顺序的数组（大根堆）。</li>
 </ul>
 
-<pre><code class="language-cpp ">#include&lt;iostream&gt;
-using namespace std;
-
-void print(int arr[], int n)
-{  
-    for(int j= 0; j&lt;n; j++)
-    {  
-           cout&lt;&lt;arr[j] &lt;&lt;"  ";  
-        }  
-    cout&lt;&lt;endl;  
-}  
-
-void BubbleSort(int arr[], int n)
-{
-    for (int i = 0; i &lt; n - 1; i++)
-    {
-            for (int j = 0; j &lt; n - i - 1; j++)
-            {
-                    if (arr[j] &gt; arr[j + 1]) 
-            {
-                            int temp = arr[j];
-                            arr[j] = arr[j + 1];
-                            arr[j + 1] = temp;
-                        }
-                 }
-         }
-}
-
-int main()
-{  
-    int s[10] = {8,1,9,7,2,4,5,6,10,3};  
-    cout&lt;&lt;"初始序列：";  
-    print(s,10);  
-    BubbleSort(s,10);  
-    cout&lt;&lt;"排序结果：";  
-    print(s,10);  
-    system("pause"); 
-} 
-
-</code></pre>]]></content:encoded>
+<h5>ps:具体代码之后以具体的题目展示。</h5>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>436</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-08 20:47:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-08 12:47:49]]></wp:post_date_gmt>
+		<wp:post_id>462</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-09 22:58:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-09 14:58:08]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[%e5%86%92%e6%b3%a1%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_name><![CDATA[%e5%a0%86%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="%e5%86%92%e6%b3%a1%e6%8e%92%e5%ba%8f"><![CDATA[冒泡排序]]></category>
+										<category domain="category" nicename="%e5%a0%86%e6%8e%92%e5%ba%8f"><![CDATA[堆排序]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -7203,28 +7016,255 @@ int main()
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[dmeng_copyright_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[dmeng_copyright_content]]></wp:meta_key>
-		<wp:meta_value><![CDATA[原文链接：&lt;a href=&quot;{link}&quot; rel=&quot;author&quot;&gt;{title}&lt;/a&gt;，转发请注明来源！]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
-		<wp:meta_value><![CDATA[31]]></wp:meta_value>
+		<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>选择排序原理</title>
+		<link>http://114.116.235.65/2020/01/09/467/%e9%80%89%e6%8b%a9%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86.html</link>
+		<pubDate>Thu, 09 Jan 2020 15:22:01 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/?p=467</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h3>选择排序</h3>
+
+<blockquote>
+  选择排序（Selection sort）是一种简单直观的排序算法。它的工作原理是：第一次从待排序的数据元素中选出最小（或最大）的一个元素，存放在序列的起始位置，然后再从剩余的未排序元素中寻找到最小（大）元素，然后放到已排序的序列的末尾。以此类推，直到全部待排序的数据元素的个数为零。选择排序是不稳定的排序方法。---百度百科
+</blockquote>
+
+选择排序对于我们来说应该不算一种复杂的排序方法，简而言之嵌套循环就能解决，通过一个暂存值存放大值（或者小值）--该值初始可以以数组第一个值为初始量，依次与后面的值比较，大值交换进入暂存，最后得到整个数组最大值放入数组第一个位置。再以后面所有数为小数组按上次方法得到大值，依次完成该操作完成逆序数组获取任务。]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>467</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-09 23:22:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-09 15:22:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e9%80%89%e6%8b%a9%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="%e9%80%89%e6%8b%a9%e6%8e%92%e5%ba%8f"><![CDATA[选择排序]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1578487731]]></wp:meta_value>
+		<wp:meta_key><![CDATA[views]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[%e5%86%92%e6%b3%a1%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>希尔排序原理</title>
+		<link>http://114.116.235.65/2020/01/10/469/%e5%b8%8c%e5%b0%94%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86.html</link>
+		<pubDate>Fri, 10 Jan 2020 01:53:48 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/?p=469</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h3>希尔排序</h3>
+
+--百度百科
+
+<blockquote>
+  <ul>
+  <li>希尔排序(Shell's Sort)是插入排序的一种又称“缩小增量排序”（Diminishing Increment Sort），是直接插入排序算法的一种更高效的改进版本。希尔排序是非稳定排序算法。</li>
+  <li>希尔排序是把记录按下标的一定增量分组，对每组使用直接插入排序算法排序；随着增量逐渐减少，每组包含的关键词越来越多，当增量减至1时，整个文件恰被分成一组，算法便终止。</li>
+  </ul>
+</blockquote>
+
+插入排序对于小规模数据或者基本有序数据更体现优势。而对于较大规模或者无序的数据应用希尔排序比单纯的插入排序更有性能优势。
+
+<h4>具体实现逻辑</h4>
+
+<strong>在取量逻辑分组过程中有点类似快排等排序方法，即大换小，一个大数组按一定规则换为两小数组，依次执行。</strong>
+
+<ol>
+<li>进行逻辑分区，若该数组大小为8（举例），此时可以以数组下标间隔4为一组，此时只有两个数在一组内，比较符合插入排序的小规模数据特点，所以可以对逻辑分组进行插入排序。</li>
+<li>再针对该数组以间隔为2组成逻辑分组（并没有改变数组数据顺序），在各逻辑分组内进行插入排序（因为经过1步骤，数组有序性更好）</li>
+</ol>
+
+<h2>3. 按上步骤直至增量为1进行插入排序使得数据有序。</h2>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>469</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-10 09:53:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-10 01:53:48]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e5%b8%8c%e5%b0%94%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="%e5%b8%8c%e5%b0%94%e6%8e%92%e5%ba%8f"><![CDATA[希尔排序]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[36]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[views]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>插入排序原理</title>
+		<link>http://114.116.235.65/2020/01/10/473/%e6%8f%92%e5%85%a5%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86.html</link>
+		<pubDate>Fri, 10 Jan 2020 13:04:46 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/?p=473</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h2>插入排序</h2>
+
+<blockquote>
+  插入排序（Insertion sort）是一种简单直观且稳定的排序算法。如果有一个已经有序的数据序列，要求在这个已经排好的数据序列中插入一个数，但要求插入后此数据序列仍然有序，这个时候就要用到一种新的排序方法——插入排序法,插入排序的基本操作就是将一个数据插入到已经排好序的有序数据中，从而得到一个新的、个数加一的有序数据，算法适用于少量数据的排序，时间复杂度为O(n^2)。---百度百科
+</blockquote>
+
+<a href="http://114.116.235.65/wp-content/uploads/2020/01/3974900-a076b3f60b618185.gif"><img src="http://114.116.235.65/wp-content/uploads/2020/01/3974900-a076b3f60b618185.gif" alt="" /></a>
+
+<hr />
+
+<strong>插入排序比较简单，在于比较挪位同时以tmp值保存提出的待插值，此时也会出现空位便于数组数值移动。</strong>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>473</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-10 21:04:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-10 13:04:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e6%8f%92%e5%85%a5%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="%e6%8f%92%e5%85%a5%e6%8e%92%e5%ba%8f"><![CDATA[插入排序]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[views]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>基数排序原理</title>
+		<link>http://114.116.235.65/2020/01/10/476/%e5%9f%ba%e6%95%b0%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86.html</link>
+		<pubDate>Fri, 10 Jan 2020 13:41:06 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/?p=476</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h3>基数排序</h3>
+
+<blockquote>
+  基数排序（radix sort）属于“分配式排序”（distribution sort），又称“桶子法”（bucket sort）或bin sort，顾名思义，它是透过键值的部份资讯，将要排序的元素分配至某些“桶”中，藉以达到排序的作用，基数排序法是属于稳定性的排序，其时间复杂度为O (nlog(r)m)，其中r为所采取的基数，而m为堆数，在某些时候，基数排序法的效率高于其它的稳定性排序法。---百度百科
+</blockquote>
+
+<h4>桶排序</h4>
+
+<blockquote>
+  桶排序 (Bucket sort)或所谓的箱排序，是一个排序算法，工作的原理是将数组分到有限数量的桶子里。每个桶子再个别排序（有可能再使用别的排序算法或是以递归方式继续使用桶排序进行排序）。桶排序是鸽巢排序的一种归纳结果。当要被排序的数组内的数值是均匀分配的时候，桶排序使用线性时间（Θ（n））。但桶排序并不是 比较排序，他不受到 O(n log n) 下限的影响。---百度百科
+</blockquote>
+
+图片示例：
+
+<h2><a href="http://114.116.235.65/wp-content/uploads/2020/01/2018033115584192.gif"><img src="http://114.116.235.65/wp-content/uploads/2020/01/2018033115584192.gif" alt="" /></a></h2>
+
+分割线
+
+<hr />
+
+<a href="http://114.116.235.65/wp-content/uploads/2020/01/20190219081232815.png"><img src="http://114.116.235.65/wp-content/uploads/2020/01/20190219081232815.png" alt="" /></a>
+
+**由图看出桶排序的原理为 **分区存放****，以堆栈的方式比较合适。
+
+<h4>基数排序分析</h4>
+
+<a href="http://114.116.235.65/wp-content/uploads/2020/01/11765489-853a6001b7a7e473.gif"><img src="http://114.116.235.65/wp-content/uploads/2020/01/11765489-853a6001b7a7e473.gif" alt="" /></a>
+
+<hr />
+
+<ul>
+<li>先以个位数的大小进行桶排序，再将数从桶中拿出，此时数组数值大小是按个位数大小排序的（该顺序不易破坏，当在进行十位数排序时，同一个桶内会保持个位数大小排序，正是利用该特点，能得到较好性能排序效果）。</li>
+<li>然后按十位数进行桶排序，依次直至最高位都为零了，能够得到顺序数组。</li>
+</ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>476</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-10 21:41:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-10 13:41:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e5%9f%ba%e6%95%b0%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="%e5%9f%ba%e6%95%b0%e6%8e%92%e5%ba%8f"><![CDATA[基数排序]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[views]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[33]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7409,6 +7449,794 @@ while (朝给定总目标前进一步)
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
 		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>最长公共子序列问题</title>
+		<link>http://114.116.235.65/2020/01/12/490/%e6%9c%80%e9%95%bf%e5%85%ac%e5%85%b1%e5%ad%90%e5%ba%8f%e5%88%97%e9%97%ae%e9%a2%98.html</link>
+		<pubDate>Sun, 12 Jan 2020 13:21:24 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/?p=490</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h3>最长公共子序列</h3>
+
+首先，对于最长公共子序列得先有个基本概念，清楚知道公共子序列与公共字符串的区别。
+如：
+
+<table>
+<thead>
+<tr>
+  <th align="right">5</th>
+  <th align="right">A</th>
+  <th align="right">G</th>
+  <th align="right">D</th>
+  <th align="right">W</th>
+  <th align="right">B</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td align="right"><strong>A</strong></td>
+  <td align="right">f</td>
+  <td align="right"><strong>D</strong></td>
+  <td align="right">c</td>
+  <td align="right"><strong>B</strong></td>
+  <td align="right">n</td>
+</tr>
+</tbody>
+</table>
+
+<ul>
+<li>ADB即为最长公共子序列</li>
+</ul>
+
+<table>
+<thead>
+<tr>
+  <th align="center">5</th>
+  <th align="center">A</th>
+  <th align="center">G</th>
+  <th align="center">D</th>
+  <th align="center">W</th>
+  <th align="center">B</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td align="center"><strong>5</strong></td>
+  <td align="center"><strong>A</strong></td>
+  <td align="center">D</td>
+  <td align="center">B</td>
+  <td align="center">W</td>
+  <td align="center">G</td>
+</tr>
+</tbody>
+</table>
+
+<ul>
+<li>5A即为公共字符串</li>
+</ul>
+
+<h4>最长公共子序列的求取</h4>
+
+该问题为一个经典的动态规划问题，对于动态规划，像分治一样，也要分析小问题，但它之所以不叫分治，在于其内部小问题的体现或者叫实现解决方法是通过获取重叠问题答案得出的，即会通过一定的手段将很小的或者叫重叠的小问题的结果保存，然后得出最后的结果，<strong>如本问题---最长公共子序列</strong>，它便是通过一个二维数组结构保存信息，行和列分别表示两个字符串的长度。
+
+具体解决过程参考：
+
+<hr />
+
+<a href="https://www.cnblogs.com/zlm-jessie/p/5664562.html" title="https://www.cnblogs.com/zlm-jessie/p/5664562.html">https://www.cnblogs.com/zlm-jessie/p/5664562.html</a>
+
+<hr />
+
+<ul>
+<li>先定义一个给定序列的子序列，就是将给定序列中零个或多个元素去掉之后得到的结果，其形式化定义如下：给定一个序列X = &lt;x1,x2 ,..., xm>，另一个序列Z =&lt;z1,z2 ,..., zk> 满足如下条件时称为X的子序列，即存在一个严格递增的X的下标序列&lt;i1,i2 ,..., ik>，对于所有j = 1,2,...,k，满足xij = zj，例如，Z=&lt;B,C,D,B>是X=&lt;A,B,C,B,D,A,B>的子序列，对应的下标序列为&lt;2,3,5,7>。给定两个序列X和Y，如果Z是X的子序列，也是Y的子序列，则称它是X和Y的公共子序列。</p></li>
+<li><p>最长公共子序列问题(longest-common-subsequence problem)可用动态规划方法高效地求解。</p></li>
+</ul>
+
+<p>步骤1：刻画最长公共子序列的特征
+
+<ul>
+<li>LCS问题具有 最优子结构性质。子问题的自然分类对应两个输入序列的“前缀"对。"前缀"的定义如下：给定一个序列X = &lt;x1,x2 ,..., xm>，对于i = 0,1,...,m，定义X的第i前缀为Xi = &lt;x1,x2 ,..., xi>。例如，若 X = &lt;A,B,C,B,D,A,B>，则 X4 = &lt;A,B,C,B>，X0为空串。
+
+<ul>
+<li>令X = &lt;x1,x2 ,..., xm>和Y = &lt;y1,y2 ,..., yn> 为两个序列，Z =&lt;z1,z2 ,..., zk>为X和Y的任意LCS。</p></li>
+<li><p>如果Xm = Yn，则 Zk =  Xm = Yn且Zk-1 是Xm-1和Yn-1的一个LCS。
+如果 Xm ≠ Yn，那么Zk ≠  Xm意味着Z是Xm-1和Y的一个LCS。
+如果 Xm ≠ Yn，那么Zk ≠  Yn意味着Z是X和Yn-1的一个LCS。
+步骤2：一个递归解</p></li>
+<li><p>很容易看出LCS问题的重叠子问题性质。为了求X和Y的一个LCS，我们可能需要求X和Yn-1的一个LCS及Xm-1和Y的一个LCS。但是这几个子问题都包含求解Xm-1和Yn-1的LCS的子子问题。我们定义c[i,j]表示Xi和Yj的LCS的长度。如果i= 0 或j = 0，即一个序列长度为0，那么LCS的长度为0，根据LCS问题的最优子结构性质，可得如下公式：
+<img src="http://114.116.235.65/wp-content/uploads/2020/01/703358-20160712170216170-126802192.jpg" alt="" /></p></li>
+</ul></li>
+</ul>
+
+<p>这篇文章对于该问题或者是动态规划的理解都能给人较好的启发认识：
+
+<h2><a href="https://www.cnblogs.com/hapjin/p/5572483.html" title="https://www.cnblogs.com/hapjin/p/5572483.html">https://www.cnblogs.com/hapjin/p/5572483.html</a></h2>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>490</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-12 21:21:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-12 13:21:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e6%9c%80%e9%95%bf%e5%85%ac%e5%85%b1%e5%ad%90%e5%ba%8f%e5%88%97%e9%97%ae%e9%a2%98]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="%e6%9c%80%e9%95%bf%e5%ad%90%e5%ba%8f%e5%88%97"><![CDATA[最长子序列]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[views]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>简单shard_ptr的实现</title>
+		<link>http://114.116.235.65/2020/01/13/494/%e7%ae%80%e5%8d%95shard_ptr%e7%9a%84%e5%ae%9e%e7%8e%b0.html</link>
+		<pubDate>Mon, 13 Jan 2020 07:41:41 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/?p=494</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h3>shard_ptr的学习</h3>
+
+在之前的一篇<a href="http://114.116.235.65/2020/01/03/421/%e6%99%ba%e8%83%bd%e6%8c%87%e9%92%88.html" title="博文">博文</a>里，已经有相关智能指针的介绍和使用情况，了解基本的使用当然是必须的能力或者应该具备的基础，这里在通过代码实现其过程则更能提高个人素养。
+<strong>写了什么并不重要，代码本身也是网上的参考资料，只要能形成自己的思维与知识体系就能算得到了其精华部分了。这里就记下自己手打代码以及后面的整体性思考</strong>
+
+<hr />
+
+<h3>整体性认识</h3>
+
+能够看到，基本的一些关于shard_ptr的介绍都提到了一个计数器的概念，该计数器的存在可以使得指针不会在多线程下的情况下误删指针。只有当计数器为0时，指针才会被删除。
+
+<img src="http://114.116.235.65/wp-content/uploads/2020/01/QQ图片20200113134559.png" alt="" />
+
+<strong>整个智能指针是通过smart_ptr类来实现的下面是其重载的构造函数</strong>
+
+<img src="http://114.116.235.65/wp-content/uploads/2020/01/批注-2020-01-13-144301.png" alt="" />
+
+<ul>
+<li>其中 <code>smart_ptr()</code>表示指向空指针的构造方式</li>
+<li><code>smart_ptr(T *t)</code> 初始化，指针指向t的地址，此时计数器，也即_counter类对象为数据1。</li>
+<li><code>smart_ptr(const smart_ptr&lt;T&gt;&amp; rhs)</code> 该初始方法为从另一个智能指针处进行初始化拷贝，此时创建的智能指针对象就相当于rhs的一个别名，但计数器得加一。</li>
+<li><code>smart_ptr &lt;T&gt;&amp; operator=(const smart_ptr&lt;T&gt;&amp; rhs)</code>这个就更常见了“=”操作符重载，作用效果与上一个一样<code>smart_ptr(const smart_ptr&lt;T&gt;&amp; rhs)</code>。
+<strong>然后就是智能指针对象析构时都会指执行的<code>clear()</code></strong></li>
+</ul>
+
+<pre><code class="language-cpp ">    void clear()
+    {
+        if(ptr==nullptr)
+        return ;
+
+        pc-&gt;count--;
+        if(pc-&gt;count==0)
+        {
+            delete ptr;
+        }
+        if(pc-&gt;count==0 &amp;&amp; pc-&gt;count_weak==0)
+        {
+            delete pc;
+        }
+
+        pc = nullptr;
+        ptr = nullptr;
+    }
+</code></pre>
+
+主要进行一个计数器判断，如果计数器为0，自然就代表没有指针再指向目标地址了，所以可以让其delete,否则就是计数器减一。
+
+<img src="http://114.116.235.65/wp-content/uploads/2020/01/批注-2020-01-13-151325.png" alt="" />
+
+<h5>类似于weak_ptr，这里也实现了一个<code>smart_ptr_weak()</code>,来完成lock功能任务等。</h5>
+
+整体代码结构近似于smart_ptr,唯一的不同在于<strong>它只是起到了一个保存智能指针对象实际所指向地址和保存计数类的功能，其计数器类对象内部关于smart_ptr的count数据不会增加，而count_weak会增加1</strong>
+
+<img src="http://114.116.235.65/wp-content/uploads/2020/01/批注-2020-01-13-152310.png" alt="" />
+
+其构造重载在上图，会针对<code>int count_weak</code>进行增减。
+
+<blockquote>
+  <strong>其实weak_ptr本身设计的很简单，就是为了辅助shared_ptr的，它本身不能直接定义指向原始指针的对象，只能指向shared_ptr对象，同时也不能将weak_ptr对象直接赋值给shared_ptr类型的变量，最重要的一点是赋值给它不会增加引用计数</strong> ---网络
+  所以该类的实现与weak_ptr逻辑相合。
+</blockquote>
+
+这是我认为weak_ptr与这个简单的smart_ptr_weak()的核心所在，通过它达成上面的目标功能。
+
+<pre><code class="language-cpp ">   smart_ptr&lt;T&gt; lock()
+    {
+        smart_ptr&lt;T&gt; tmp;
+        if(pc==nullptr||pc-&gt;count==0)
+        {
+            return tmp;
+        }
+
+        tmp.pc = pc;
+        tmp.ptr = ptr;
+        tmp.pc-&gt;count_weak++;
+        return tmp;
+    }
+</code></pre>
+
+简单例子：
+
+<pre><code class="language-cpp ">#include &lt;iostream&gt;
+#include &lt;string&gt;
+#include "smartptr.h"
+
+using namespace std;
+
+class myptr
+{
+public:
+    smart_ptr_weak&lt;myptr&gt; parent;
+    smart_ptr&lt;myptr&gt; child;
+    string name_t;
+    myptr(string name):name_t(name)
+    {
+        cout&lt;&lt;"创建:"&lt;&lt;name_t&lt;&lt;endl;
+    }
+
+    ~myptr(){
+        cout&lt;&lt;"销毁:"&lt;&lt;name_t&lt;&lt;endl;
+    }
+
+};
+
+int main()
+{
+    smart_ptr&lt;myptr&gt; p1(new myptr("第一个"));
+    smart_ptr&lt;myptr&gt; p2(new myptr("第二个"));
+    p1-&gt;child=p2;
+    p2-&gt;parent=p1;
+    auto ptr = p2-&gt;parent.lock();
+    cout&lt;&lt;ptr-&gt;name_t&lt;&lt;endl;
+
+}
+</code></pre>
+
+<a href="https://github.com/yangcong666/learn_for_cpp/tree/master/%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88" title="github地址">github地址</a>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>494</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-13 15:41:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-13 07:41:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e7%ae%80%e5%8d%95shard_ptr%e7%9a%84%e5%ae%9e%e7%8e%b0]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="cppbase"><![CDATA[c++基础]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[views]]></wp:meta_key>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>stl的vector基本方法与源码学习</title>
+		<link>http://114.116.235.65/2020/01/15/501/stl%e7%9a%84vector%e5%9f%ba%e6%9c%ac%e6%96%b9%e6%b3%95%e4%b8%8e%e6%ba%90%e7%a0%81%e5%ad%a6%e4%b9%a0.html</link>
+		<pubDate>Wed, 15 Jan 2020 10:56:44 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/?p=501</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h3>vector介绍</h3>
+
+一、vector的介绍
+来源：
+
+<a href="https://blog.csdn.net/chenxiyuehh/article/details/88315032" title="https://blog.csdn.net/chenxiyuehh/article/details/88315032">https://blog.csdn.net/chenxiyuehh/article/details/88315032</a>
+
+<ol>
+<li>vector是表示可变大小数组的序列容器。</li>
+<li>就像数组一样，vector也采用的连续存储空间来存储元素。也就是意味着可以采用下标对vector的元素进行访问，和数组一样高效。但是又不像数组，它的大小是可以动态改变的，而且它的大小会被容器自动处理。</li>
+<li>本质讲，vector使用动态分配数组来存储它的元素。当新元素插入时候，这个数组需要被重新分配大小为了增加存储空间。其做法是，分配一个新的数组，然后将全部元素移到这个数组。就时间而言，这是一个相对代价高的任务，因为每当一个新的元素加入到容器的时候，vector并不会每次都重新分配大小。</li>
+<li>vector分配空间策略：vector会分配一些额外的空间以适应可能的增长，因为存储空间比实际需要的存储空间更大。不同的库采用不同的策略权衡空间的使用和重新分配。但是无论如何，重新分配都应该是对数增长的间隔大小，以至于在末尾插入一个元素的时候是在常数时间的复杂度完成的。</li>
+<li>因此，vector占用了更多的存储空间，为了获得管理存储空间的能力，并且以一种有效的方式动态增长。</li>
+<li>与其它动态序列容器相比（deques, lists and forward_lists）， vector在访问元素的时候更加高效，在末尾添加和删除元素相对高效。对于其它不在末尾的删除和插入操作，效率更低。比起lists和forward_lists统一的迭代器和引用更好。</li>
+</ol>
+
+<h3>基本用法</h3>
+
+来源：<a href="https://www.cnblogs.com/Nonono-nw/p/3462183.html" title="https://www.cnblogs.com/Nonono-nw/p/3462183.html">https://www.cnblogs.com/Nonono-nw/p/3462183.html</a>
+vector 是向量类型，它可以容纳许多类型的数据，如若干个整数，所以称其为容器。vector 是C++ STL的一个重要成员，使用它时需要包含头文件：
+
+<code>#include&lt;vector&gt;</code>
+
+一、vector 的初始化：可以有五种方式,举例说明如下：
+
+<pre><code class="language-cpp ">vector&lt;int&gt; a(10); //定义了10个整型元素的向量（尖括号中为元素类型名，它可以是任何合法的数据类型），但没有给出初值，其值是不确定的。
+vector&lt;int&gt; a(10,1); //定义了10个整型元素的向量,且给出每个元素的初值为1
+vector&lt;int&gt; a(b); //用b向量来创建a向量，整体复制性赋值
+vector&lt;int&gt; a(b.begin(),b.begin+3); //定义了a值为b中第0个到第2个（共3个）元素
+int b[7]={1,2,3,4,5,9,8};
+vector&lt;int&gt; a(b,b+7); //从数组中获得初值
+</code></pre>
+
+二、vector对象的几个重要操作，举例说明如下：
+
+<pre><code class="language-cpp ">a.assign(b.begin(), b.begin()+3); //b为向量，将b的0~2个元素构成的向量赋给a
+a.assign(4,2); //是a只含4个元素，且每个元素为2
+a.back(); //返回a的最后一个元素
+a.front(); //返回a的第一个元素
+a[i]; //返回a的第i个元素，当且仅当a[i]存在2013-12-07
+a.clear(); //清空a中的元素
+a.empty(); //判断a是否为空，空则返回ture,不空则返回false
+a.pop_back(); //删除a向量的最后一个元素
+a.erase(a.begin()+1,a.begin()+3); //删除a中第1个（从第0个算起）到第2个元素，也就是说删除的元素从a.begin()+1算起（包括它）一直到a.begin()+3（不包括它）
+a.push_back(5); //在a的最后一个向量后插入一个元素，其值为5
+a.insert(a.begin()+1,5); //在a的第1个元素（从第0个算起）的位置插入数值5，如a为1,2,3,4，插入元素后为1,5,2,3,4
+a.insert(a.begin()+1,3,5); //在a的第1个元素（从第0个算起）的位置插入3个数，其值都为5
+a.insert(a.begin()+1,b+3,b+6); //b为数组，在a的第1个元素（从第0个算起）的位置插入b的第3个元素到第5个元素（不包括b+6），如b为1,2,3,4,5,9,8 ，插入元素后为1,4,5,9,2,3,4,5,9,8
+a.size(); //返回a中元素的个数；
+a.capacity(); //返回a在内存中总共可以容纳的元素个数
+a.resize(10); //将a的现有元素个数调至10个，多则删，少则补，其值随机
+a.resize(10,2); //将a的现有元素个数调至10个，多则删，少则补，其值为2
+a.reserve(100); //将a的容量（capacity）扩充至100，也就是说现在测试a.capacity();的时候返回值是100.这种操作只有在需要给a添加大量数据的时候才显得有意义，因为这将避免内存多次容量扩充操作（当a的容量不足时电脑会自动扩容，当然这必然降低性能） 
+a.swap(b); //b为向量，将a中的元素和b中的元素进行整体性交换
+a==b; //b为向量，向量的比较操作还有!=,&gt;=,&lt;=,&gt;,&lt;
+</code></pre>
+
+三、顺序访问vector的几种方式，举例说明如下:
+
+（1）向向量a中添加元素
+1. 
+1  vector<int> a;
+2 for(int i=0;i&lt;10;i++)
+3 a.push_back(i);
+
+<ol start="2">
+<li>也可以从数组中选择元素向向量中添加
+int a[6]={1,2,3,4,5,6};
+vector<int> b；
+for(int i=1;i&lt;=4;i++)
+b.push_back(a[i]);</p></li>
+<li><p>也可以从现有向量中选择元素向向量中添加
+int a[6]={1,2,3,4,5,6};
+vector<int> b;
+vector<int> c(a,a+4);
+for(vector<int>::iterator it=c.begin();it&lt;c.end();it++)
+b.push_back(*it);</p></li>
+<li><p>也可以从文件中读取元素向向量中添加
+ifstream in("data.txt");
+vector<int> a;
+for(int i; in>>i)
+a.push_back(i);</p></li>
+<li><p><strong>【误区】</strong>
+<strong>vector<int> a;
+for(int i=0;i&lt;10;i++)
+a[i]=i;
+//这种做法以及类似的做法都是错误的。刚开始我也犯过这种错误，后来发现，下标只能用于获取已存在的元素，而现在的a[i]还是空的对象</strong></p></li>
+</ol>
+
+<p>（2）从向量中读取元素
+1. 通过下标方式读取
+int a[6]={1,2,3,4,5,6};
+vector<int> b(a,a+4);
+for(int i=0;i&lt;=b.size()-1;i++)
+    cout&lt;&lt;b[i]&lt;&lt;" ";
+
+<ol start="2">
+<li>通过遍历器方式读取
+int a[6]={1,2,3,4,5,6};
+vector<int> b(a,a+4);
+for(vector<int>::iterator it=b.begin();it!=b.end();it++)
+cout&lt;&lt;*it&lt;&lt;" ";</li>
+</ol>
+
+四、几种重要的算法，使用时需要包含头文件：
+
+<pre><code class="language-cpp ">#include&lt;algorithm&gt;
+sort(a.begin(),a.end()); //对a中的从a.begin()（包括它）到a.end()（不包括它）的元素进行从小到大排列
+reverse(a.begin(),a.end()); //对a中的从a.begin()（包括它）到a.end()（不包括它）的元素倒置，但不排列，如a中元素为1,3,2,4,倒置后为4,2,3,1
+copy(a.begin(),a.end(),b.begin()+1); //把a中的从a.begin()（包括它）到a.end()（不包括它）的元素复制到b中，从b.begin()+1的位置（包括它）开始复制，覆盖掉原有元素
+find(a.begin(),a.end(),10); //在a中的从a.begin()（包括它）到a.end()（不包括它）的元素中查找10，若存在返回其在向量中的位置
+</code></pre>
+
+<h3>源码分析</h3>
+
+以下源码来源为侯捷大师的《stl源码分析》
+
+<pre><code class="language-cpp ">template &lt;class T, classAlloc = alloc&gt;
+class vector {
+public:
+ // vector 的巢状型别定义
+ typedef T value_type;
+ typedef value_type*pointer;
+ typedef value_type*iterator;
+ typedef value_type&amp;reference;
+ typedef size_t size_type;
+ typedef ptrdiff_tdifference_type;
+protected:
+// 以下，simple_alloc 是 SGI STL的空间配置器，见 2.2.4节。
+ typedefsimple_alloc&lt;value_type,Alloc&gt;data_allocator;
+ iterator start;
+ iterator finish;
+//表示目前使用空间的头
+//表示目前使用空间的尾
+ iterator end_of_storage; //表示目前可用空间的尾
+ void insert_aux(iterator position, const T&amp; x);
+ void deallocate() {
+ if (start)
+data_allocator::deallocate(start, end_of_storage - start);
+ }
+ void fill_initialize(size_type n, const T&amp; value) {
+ start =allocate_and_fill(n, value);
+ finish = start + n;
+ end_of_storage = finish;
+ }
+public:
+ iterator begin() { return start; }
+ iterator end() { return finish; }
+ size_typesize() const { return size_type(end() - begin()); }
+ size_typecapacity() const {
+ return size_type(end_of_storage - begin()); }
+ bool empty() const { return begin() == end(); }
+ referenceoperator[](size_type n) { return *(begin() + n); } 
+</code></pre>
+
+<strong>在上面的结构或方法中， iterator start;iterator finish;这两个迭代器是相当重要的，在整个vector构建与实现方法中都基本有所体现</strong>
+
+<pre><code class="language-cpp ">iterator begin() { return start; }
+ iterator end() { return finish; }
+ size_typesize() const { return size_type(end() - begin()); }
+ size_typecapacity() const {
+ return size_type(end_of_storage - begin()); }
+ bool empty() const { return begin() == end(); }
+ referenceoperator[](size_type n) { return *(begin() + n); }
+vector() : start(0), finish(0), end_of_storage(0) {}
+vector(size_type n, const T&amp; value) {fill_initialize(n, value); }
+vector(int n, const T&amp; value) { fill_initialize(n, value); }
+vector(long n, const T&amp; value) { fill_initialize(n, value); }
+ explicit vector(size_type n) { fill_initialize(n, T()); }
+~vector()
+destroy(start, finish); //全域函式，见 2.2.3节。
+ }
+deallocate(); // 这是 vector 的一个 member function
+ referencefront() { return *begin(); } //第一个元素
+ referenceback() { return *(end() - 1); }//最后一个元素
+ void push_back(const T&amp; x) {
+ if (finish != end_of_storage) {
+//将元素安插至最尾端
+construct(finish, x); //全域函式，见 2.2.3节。
+ ++finish;
+ }
+ else
+ }
+insert_aux(end(), x); // 这是 vector 的一个 member function
+ void pop_back() { //将最尾端元素取出
+      --finish;
+destroy(finish);
+ }
+//全域函式，见 2.2.3节。
+117
+ iterator erase(iterator position) {
+ if (position + 1 != end())
+//清除某位置上的元素
+copy(position + 1, finish, position);//后续元素往前搬移
+ --finish;
+destroy(finish);
+ return position;
+ }
+//全域函式，见 2.2.3节。
+ void resize(size_type new_size, const T&amp; x) {
+ if (new_size &lt; size())
+erase(begin() + new_size, end());
+ else
+insert(end(), new_size - size(), x);
+ }
+ void resize(size_type new_size) {resize(new_size, T()); }
+ void clear() { erase(begin(), end()); }
+protected:
+ // 配置空间并填满内容
+ iterator allocate_and_fill(size_type n, const T&amp; x) {
+ iterator result =data_allocator::allocate(n);
+uninitialized_fill_n(result, n, x); // 全域函式，见 2.3 节
+ return result; 
+</code></pre>
+
+<hr />]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>501</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-15 18:56:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-15 10:56:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[stl%e7%9a%84vector%e5%9f%ba%e6%9c%ac%e6%96%b9%e6%b3%95%e4%b8%8e%e6%ba%90%e7%a0%81%e5%ad%a6%e4%b9%a0]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[杂项]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[views]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>适当方式打开回复</title>
+		<link>http://114.116.235.65/2020/01/01/134/__trashed-3.html</link>
+		<pubDate>Wed, 01 Jan 2020 06:15:29 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/?p=134</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>dfsdfgdsfgdfg</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>s'd'f'g's'd'f'g'dsdfgsdfgd</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:block {"ref":137} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>134</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-01 14:15:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-01 06:15:29]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[__trashed-3]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[杂项]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2.7.5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1577859329]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>未命名可重用区块</title>
+		<link>http://114.116.235.65/2019/12/04/137/%e6%9c%aa%e5%91%bd%e5%90%8d%e5%8f%af%e9%87%8d%e7%94%a8%e5%8c%ba%e5%9d%97.html</link>
+		<pubDate>Wed, 04 Dec 2019 09:29:56 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/index.php/2019/12/04/%e6%9c%aa%e5%91%bd%e5%90%8d%e5%8f%af%e9%87%8d%e7%94%a8%e5%8c%ba%e5%9d%97/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:shortcode -->
+#include <iostream>
+using namespace std;
+ 
+int main ()
+{
+   // 数字定义
+   short  s;
+   int    i;
+   long   l;
+   float  f;
+   double d;
+   
+   // 数字赋值
+   s = 10;      
+   i = 1000;    
+   l = 1000000; 
+   f = 230.47;  
+   d = 30949.374;
+   
+   // 数字输出
+   cout << "short  s :" << s << endl;
+   cout << "int    i :" << i << endl;
+   cout << "long   l :" << l << endl;
+   cout << "float  f :" << f << endl;
+   cout << "double d :" << d << endl;
+ 
+   return 0;
+}
+<!-- /wp:shortcode -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>137</wp:post_id>
+		<wp:post_date><![CDATA[2019-12-04 17:29:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-12-04 09:29:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e6%9c%aa%e5%91%bd%e5%90%8d%e5%8f%af%e9%87%8d%e7%94%a8%e5%8c%ba%e5%9d%97]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_block]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>冒泡排序原理</title>
+		<link>http://114.116.235.65/2020/01/08/436/%e5%86%92%e6%b3%a1%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86__trashed.html</link>
+		<pubDate>Wed, 08 Jan 2020 12:47:49 +0000</pubDate>
+		<dc:creator><![CDATA[yconion]]></dc:creator>
+		<guid isPermaLink="false">http://114.116.235.65/?p=436</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h3>冒泡排序</h3>
+
+<strong>在冒泡排序中，核心思想就是逐次比较，在比较的过程中保留较大值（或较小值），然后将该值保留移动至最左边（或最右边）---模拟水泡因为重量太轻（其实是压强）的缘故一直往上漂的过程</strong>
+
+<ul>
+<li>从过程中发现它的复杂度为O(n2)，n个数n次循环（准确来讲应从实际的数学来判断）</li>
+<li><p>冒上去的“水泡”不需要在考虑了</p></li>
+<li><p>具体一类算法如下 <a href="https://blog.csdn.net/yangchuang93/article/details/80858054" title="https://blog.csdn.net/yangchuang93/article/details/80858054">https://blog.csdn.net/yangchuang93/article/details/80858054</a></p></li>
+</ul>
+
+<pre><code class="language-cpp ">#include&lt;iostream&gt;
+using namespace std;
+
+void print(int arr[], int n)
+{  
+    for(int j= 0; j&lt;n; j++)
+    {  
+           cout&lt;&lt;arr[j] &lt;&lt;"  ";  
+        }  
+    cout&lt;&lt;endl;  
+}  
+
+void BubbleSort(int arr[], int n)
+{
+    for (int i = 0; i &lt; n - 1; i++)
+    {
+            for (int j = 0; j &lt; n - i - 1; j++)
+            {
+                    if (arr[j] &gt; arr[j + 1]) 
+            {
+                            int temp = arr[j];
+                            arr[j] = arr[j + 1];
+                            arr[j + 1] = temp;
+                        }
+                 }
+         }
+}
+
+int main()
+{  
+    int s[10] = {8,1,9,7,2,4,5,6,10,3};  
+    cout&lt;&lt;"初始序列：";  
+    print(s,10);  
+    BubbleSort(s,10);  
+    cout&lt;&lt;"排序结果：";  
+    print(s,10);  
+    system("pause"); 
+} 
+
+</code></pre>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>436</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-08 20:47:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-08 12:47:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[%e5%86%92%e6%b3%a1%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="%e5%86%92%e6%b3%a1%e6%8e%92%e5%ba%8f"><![CDATA[冒泡排序]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wpcom_is_markdown]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[views]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[dmeng_copyright_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[dmeng_copyright_content]]></wp:meta_key>
+		<wp:meta_value><![CDATA[原文链接：&lt;a href=&quot;{link}&quot; rel=&quot;author&quot;&gt;{title}&lt;/a&gt;，转发请注明来源！]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1578487731]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[%e5%86%92%e6%b3%a1%e6%8e%92%e5%ba%8f%e5%8e%9f%e7%90%86]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
